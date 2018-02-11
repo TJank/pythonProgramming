@@ -43,7 +43,7 @@ print(part5)
 a = 32310901
 b = 1729
 m = 2**24
-rold = int(input("Please pick an initial seed value."))
+rold = int(input("Please pick an initial seed value git."))
 for i in range(100):
     rnew = (a * rold + b) % m
     print(rnew)
