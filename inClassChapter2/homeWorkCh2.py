@@ -151,6 +151,5 @@ def common_multiples(X,Y,Z):
 
 
 
-
-
 common_multiples(4, 6, 30)
+
