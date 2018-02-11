@@ -1,23 +1,15 @@
 import math
+import turtle
+
+mr_turtle = turtle.Turtle()
+
+
 # Problem 1
 
 #intBalance = 1000
 #interestRate = 6/100
 
-#A = input("Amount of change:")
-#IA = int(A)
-# how many quarters
-#NQ = IA // 25
-# how many dimes in what's left over
-#IA = IA % 25
-#ND = IA // 10
-# how many nickels in what's left over
-#IA = IA % 10
-#NN = IA // 5
-# how many pennies in what's left over
-#IA = IA % 5
-#print(A, "cents is", NQ, "quarters,", ND, "dimes,", NN, "nickels, and", IA, "pennies")
-
+# Question 2
 #cents = input("Amount of change:")
 #IA = int(cents)
 #Now number of quarters NQ
@@ -57,6 +49,36 @@ def threeAngles(a, b, c):
 
 #threeAngles(3,7,9)
 
+# Question 5
+r = 6378 * 10**3
+m1 = 5.9742 * 10**24
+G = 6.67300 * 10**-11
+m2 = int(input("Please enter your weight in Kilograms."))
+print(r,m1,G)
 
+gForce = (G * m1 * m2) / (r * r)
+forceG = m2 * G
+
+print(gForce)
+print(forceG)
+
+# Question 6
+def drawStar(starSize):
+    angle = 120
+
+    for side in range(12):
+        turtle.forward(starSize)
+        turtle.right(angle)
+        turtle.forward(starSize)
+        turtle.right(30 - angle)
+
+turtle.exitonclick()
+# Question 7
+
+# Question 8
+
+# Question 9
+
+# Question 10
 
 
