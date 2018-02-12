@@ -1,13 +1,19 @@
 import math
-import turtle
 
-mr_turtle = turtle.Turtle()
+
+
 
 
 # Problem 1
+def interest(months):
+    acc = 1000
+    IR = 0.06
+    balance = 1000
+    for i in range(1,months +1):
+        acc = acc + (balance * IR)
+        print("After month ", i, "your balance is: ", acc)
 
-#intBalance = 1000
-#interestRate = 6/100
+interest(3)
 
 # Question 2
 #cents = input("Amount of change:")
