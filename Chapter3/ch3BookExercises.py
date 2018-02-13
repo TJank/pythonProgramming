@@ -72,4 +72,25 @@ def scramble2Encrypt(plainText):
 pText = "own noun brown cow"
 print(scramble2Encrypt(pText))
 
-print(len(pText))
+
+
+# Continued pg 98
+def scramble2Decrypt(cipherText):
+    halfLength = len(cipherText) // 2
+    oddChars = cipherText[:halfLength]
+    evenChars = cipherText[halfLength:]
+    plainText = ""
+
+    for i in range(halfLength):
+        plainText = plainText + evenChars[i]
+        plainText = plainText + oddChars[i]
+
+    if len(oddChars) < len(evenChars):
+        plainText = plainText + evenChars[-1]
+
+    return plainText
+
+cText = scramble2Encrypt(pText)
+
+print(scramble2Decrypt(cText))
+
