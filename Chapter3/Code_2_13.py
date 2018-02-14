@@ -39,20 +39,20 @@ d1 = {1:"A", 2: "B", "C": 3, (1, 2): "cat", 1.5: (1, 2, 3, "hello")}
 print(len(d1))
 
 # Indexing: use keys to index dictionaries
-v1 = d1[1]
-print(v1)
+v1 = d1["C"]
+#print(v1)
 
 v2 = d1[2]
 print(v2)
 
-print(d1["C"])
+#print(d1["C"])
 
 keys = d1.keys()
-print(keys)
+#print(keys)
 
-print(d1[1, 2])
-print(d1[1.5][3])
-
+#print(d1[1, 2])
+#print(d1[1.5][3])
+print(v1)
 
 
 
