@@ -70,7 +70,7 @@ def scramble2Encrypt(plainText):
     return cipherText
 
 pText = "own noun brown cow"
-print(scramble2Encrypt(pText))
+
 
 
 
@@ -90,7 +90,40 @@ def scramble2Decrypt(cipherText):
 
     return plainText
 
-cText = scramble2Encrypt(pText)
+cipherTEXT = scramble2Encrypt(pText)
 
-print(scramble2Decrypt(cText))
+plainText = scramble2Decrypt(cipherTEXT)
 
+print(cipherTEXT)
+print(plainText)
+
+# Listing 3.5 PG 102 encryption using a substitution cipher
+def substitionEncrypt(plainText, key):
+    alphabet = "abcdefghijklmnopqrstuvwxyz "
+    plainText = plainText.lower()
+    cipherText = ""
+    for ch in plainText:
+        idx = alphabet.find(ch)
+        cipherText = cipherText + key[idx]
+    return cipherText
+
+testkey1 = "zyxwvutsrqponmlkjihgfedcba "
+testkey2 = "ouwckbjmpzyexavrltsfgdqihn "
+
+#ipher_text = substitionEncrypt("the quick brown fox", testkey1)
+#print(cipher_text)
+#cipher_text = substitionEncrypt("the quick brown fox", testkey2)
+#print(cipher_text)
+
+def substitutionDecrypt(cipher_text, key):
+    alphabet = "abcdefghijklmnopqrstuvwxyz "
+    plain_text = ""
+    for ch in cipher_text:
+        idx = key.find(ch)
+        plain_text = plain_text + alphabet[idx]
+    return plain_text
+
+cipher_text = substitionEncrypt("the quick brown fox", testkey1)
+print(cipher_text)
+plain_text = substitutionDecrypt(cipher_text, testkey1)
+print(plain_text)
