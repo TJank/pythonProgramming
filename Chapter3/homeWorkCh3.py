@@ -90,9 +90,9 @@ def passwrdCheck(password):
     for ch in password:
         if ch in digits:
             num_digits += 1
-    return num_digits
-    #if num_digits < 2:
-        #print("Your password is invalid, must contain at least 2 numbers.")
+
+    if num_digits < 2:
+        print("Your password is invalid, must contain at least 2 numbers.")
 
     # Checks for letters or numbers in password
     for ch in password:

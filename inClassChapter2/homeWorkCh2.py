@@ -5,39 +5,39 @@ import math
 part1 = 0
 for i in range(0,101,2):
     part1 += i
-#print(part1)
+print(part1)
 
 # part 2
 part2 = 0
 for i in range(1,101):
     part2 += i ** 2
-#print(part2)
+print(part2)
 
 # part 3
 acc = 1
 for i in range(0,21):
     acc *= 2 ** i
     #print(i)
-#print(acc)
+print(acc)
 
 # part 4
 part4 = 1
-#a = int(input("Please input a number."))
-#b = int(input("Please input a second number."))
-#for i in range(a,b + 1,1):
-    #if not i % 2 == 0:
-        #part4 *= i
-        #print(i)
+a = int(input("Please input a number."))
+b = int(input("Please input a second number."))
+for i in range(a,b + 1,1):
+    if not i % 2 == 0:
+        part4 *= i
+        print(i)
 
-#print(part4)
+print(part4)
 
 #part 5
 part5 = 0
-#input1 = input("Please enter 5 or more numbers.")
-#for num in input1:
-    #if not int(num) % 2 == 0:
-       # part5 += int(num)
-#print(part5)
+input1 = input("Please enter 5 or more numbers.")
+for num in input1:
+    if not int(num) % 2 == 0:
+        part5 += int(num)
+print(part5)
 
 # Question 2
 def rockPaperS(mypick):
@@ -60,7 +60,7 @@ def rockPaperS(mypick):
         print("I forgot to pick one..")
 
 
-#rockPaperS("rock")
+rockPaperS("rock")
 
 # Question 3
 a = 32310901
@@ -84,7 +84,7 @@ def pred_vs_prey():
     print(preyn)
     print(predn)
 
-#pred_vs_prey()
+pred_vs_prey()
 
 # Question 5
 num = int(input("Enter an integer."))
@@ -129,7 +129,7 @@ def cardNumCheck():
         sum2 += holder
     print(sum2)
 
-#cardNumCheck()
+cardNumCheck()
 
 # Question 7
 def common_multiples(X,Y,Z):
