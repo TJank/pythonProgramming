@@ -14,7 +14,7 @@ def phoneNumber():
     else:
         print("(" + areaCode + ")" + " " + first3 + "-" + last4)
 
-phoneNumber()
+#phoneNumber()
 
 
 # Problem 2. Emulating flip of two coins
@@ -28,7 +28,7 @@ def coinFlip():
     else:
         print("Did you call it?")
 
-coinFlip()
+#coinFlip()
 
 # Problem 3. Palindromes
 word = "racecar"
@@ -45,7 +45,7 @@ def palindromeTest(word):
         return False
 
 
-print(palindromeTest(word))
+#print(palindromeTest(word))
 
 
 # Problem 4. draw flower with squares
@@ -112,20 +112,6 @@ def rollDice():
         print("You rolled a 5.")
     elif sideUpp == 6:
         print("You rolled a 6.")
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
