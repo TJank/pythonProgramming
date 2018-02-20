@@ -81,7 +81,7 @@ def vignere_encryption(message, key, alphabet):
     # Create a keyword
     new_keyword = create_keyword(key, len(message))
 
-    # Creat a Vignere Square
+    # Create a Vignere Square
     vs = vignere_square(alphabet)
 
     # To use the Vignere Square, the message must be in lower case and new_keyword must be in upper case
@@ -91,15 +91,16 @@ def vignere_encryption(message, key, alphabet):
 
     cipher_text = ""
     for i in range(len(plain_text)):
-        cipher_text += vs[new_keyword[i], plain_text[i]]    # NESTED INDEXING
+        cipher_text += vs[new_keyword[i] + plain_text[i]]    # NESTED INDEXING
 
     return cipher_text
 
-cipher_text = vignere_encryption(message, key, string.ascii_lowercase + " ")
-print(cipher_text)
+#cipher_text = vignere_encryption(message, key, string.ascii_lowercase + " ")
+#print(cipher_text)
 
 
 # Practice: How do you reverse the encryption process?
+# HINT: How do you extract a key from a dictionary with a given value?
 
 # Practice: encode the declaration of independence using Vignere Cipher.
 declaration = "When in the Course of human events it becomes necessary for one " \
@@ -110,3 +111,8 @@ declaration = "When in the Course of human events it becomes necessary for one "
               "of mankind requires that they should declare the causes which impel them to the separation."
 
 alphabet = ".' " + string.ascii_lowercase
+
+print("-" * 20)
+cipher_text = vignere_encryption(declaration, "freedom", alphabet)
+print(cipher_text)
+

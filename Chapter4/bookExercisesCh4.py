@@ -165,6 +165,23 @@ def median(alist):
 
 print(median(alist))
 
+# Dictionaries pg 136
+ages = {'David':45,'Brenda':46}
+ages['Kelsey']=19
+ages['Hannah']=16
+ages['Rylea']=7
+ages['David'] = ages['David'] + 1
+print(ages['David'])
+print(ages)
+print(len(ages))
+
+# Session 4.14 pg 138
+print(ages.keys())
+print(list(ages.keys()))
+
+
+
+
 
 
 
