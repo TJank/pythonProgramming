@@ -153,8 +153,3 @@ print(mean(ages))
 
 
 
-
-
-
-
-
