@@ -171,18 +171,121 @@ ages['Kelsey']=19
 ages['Hannah']=16
 ages['Rylea']=7
 ages['David'] = ages['David'] + 1
-print(ages['David'])
-print(ages)
-print(len(ages))
+#print(ages['David'])
+#print(ages)
+#print(len(ages))
 
 # Session 4.14 pg 138
-print(ages.keys())
-print(list(ages.keys()))
+#print(ages.keys())
+#print(list(ages.keys()))
+#print(ages.get('Lena'))
+#print('Rylea' in ages)
+
+print('-'*20)
 
 
+names = ['joe', 'tom', 'barb', 'sue', 'sally']
+scores = [10, 23, 13, 18, 12]
+
+def makeDictionary(list1,list2):
+    scoreDict = {list1[i]: list2[i] for i in range(len(list1))}
+    return scoreDict['barb']
 
 
+print(makeDictionary(names,scores))
 
+# Listing 4.6
+
+def mode(alist):
+    countDict = {}
+
+    for item in alist:
+        if item in countDict:
+            countDict[item] = countDict.get(item,0)+1
+        else:
+            countDict[item] = 1
+
+    countlist = countDict.values()
+    maxcount = max(countlist)
+
+    modeList = []
+    for item in countDict:
+        if countDict[item] == maxcount:
+            modeList.append(item)
+
+    return modeList
+
+print(mode([1,1,4,5,6,2,4,7,1,4,6,1]))
+
+# Listing 4.8
+# Compute a frequency table
+
+def frequencyTable(alist):
+    countdict = {}
+
+    for item in alist:
+        if item in countdict:
+            countdict[item] = countdict[item] + 1
+        else:
+            countdict[item] = 1
+
+
+    itemlist =[]        # BECAUSE list(countdict.keys()) does not work
+    for item in countdict.keys():
+        itemlist.append(item)
+
+    print(itemlist)
+    itemlist.sort()
+    print("ITEM", "FREQUENCY")
+
+    for item in itemlist:
+        print(item, "  ", countdict[item])
+
+
+a_list = [3,1,1,5,3,1,2,2,3,5,3,5,4,4,6,7,6,7,5,7,8,3,8,2,3,4,1,5,6,7]
+frequencyTable(a_list)
+
+# LIsting 4.9 pg 145
+def frequencyTableAlt(alist):
+    print("ITEM", "FREQUENCY")
+    slist = alist[:]
+    slist.sort()
+    countlist = []
+
+    previous = slist[0]
+    groupCount = 0
+    for current in slist:
+        if current == previous:
+            groupCount += 1
+            previous = current
+        else:
+            print(previous, "   ", groupCount)
+            previous = current
+            groupCount = 1
+
+    print(current, "   ", groupCount)
+
+print("-"*20)
+frequencyTable(a_list)
+
+# STANDARD DEVIATION
+# Listing 4.11 pg 150
+import math
+
+def standardDev(alist):
+    theMean = mean(alist)
+
+    total = 0
+    for item in alist:
+        difference = item - theMean
+        diffsq = difference ** 2
+        total += diffsq
+
+    sdev = math.sqrt(total/(len(alist)-1))
+    return sdev
+
+b_list = [7,11,9,18,15,12]
+print(standardDev(b_list))
 
 
 
