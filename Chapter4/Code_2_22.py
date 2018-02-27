@@ -100,6 +100,17 @@ print(random_list)
 print(max(random_list))
 print(min(random_list))
 
+# generate numbers using uniform distribution
+random_list = []
+for i in range(1000):
+    rand = uniform(0,50)
+    random_list.append(rand)
+
+print(random_list)
+
+# How are the following functions implemented
+    
+
 
 
 

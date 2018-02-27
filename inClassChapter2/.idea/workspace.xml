@@ -10,18 +10,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ch5BookExercises.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../Chapter5/ch5BookExercises.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="254">
-              <caret line="26" column="0" lean-forward="true" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -29,6 +18,11 @@
         <option value="Python Script" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>un</find>
+    </findStrings>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -51,14 +45,15 @@
         <option value="$PROJECT_DIR$/../Chapter3/exam1_2_15.py" />
         <option value="$PROJECT_DIR$/../Chapter3/VignereCipher.py" />
         <option value="$PROJECT_DIR$/../Chapter4/Code_2_20.py" />
-        <option value="$PROJECT_DIR$/../Chapter4/Code_2_22.py" />
         <option value="$PROJECT_DIR$/../Chapter4/bookExercisesCh4.py" />
         <option value="$PROJECT_DIR$/../Chapter6/ch6BookExercises.py" />
         <option value="$PROJECT_DIR$/../Chapter5/ch5BookExercises.py" />
+        <option value="$PROJECT_DIR$/../Chapter4/Code_2_22.py" />
+        <option value="$PROJECT_DIR$/../Chapter4/Code_2_27.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="716" />
     <option name="width" value="657" />
     <option name="height" value="735" />
@@ -95,11 +90,11 @@
           <expand>
             <path>
               <item name="inClassChapter2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Chapter5" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter4" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="inClassChapter2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Chapter6" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter5" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -109,7 +104,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$USER_HOME$/Downloads/VignereCipher.py" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PythonContentEntriesConfigurable" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -128,7 +123,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.ch5BookExercises">
+  <component name="RunManager" selected="Python.Code_2_27">
     <configuration name="Code_2_22" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -147,19 +142,19 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="VignereCipher (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Code_2_27" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Downloads" />
-      <option name="IS_MODULE_SDK" value="false" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Chapter4" />
+      <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="inClass" />
-      <option name="SCRIPT_NAME" value="$USER_HOME$/Downloads/VignereCipher.py" />
+      <module name="Chapter4" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Chapter4/Code_2_27.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -222,17 +217,17 @@
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Python.bookExercisesCh4" />
       <item index="1" class="java.lang.String" itemvalue="Python.VignereCipher" />
-      <item index="2" class="java.lang.String" itemvalue="Python.VignereCipher (1)" />
-      <item index="3" class="java.lang.String" itemvalue="Python.Code_2_22" />
-      <item index="4" class="java.lang.String" itemvalue="Python.ch5BookExercises" />
+      <item index="2" class="java.lang.String" itemvalue="Python.Code_2_22" />
+      <item index="3" class="java.lang.String" itemvalue="Python.ch5BookExercises" />
+      <item index="4" class="java.lang.String" itemvalue="Python.Code_2_27" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.ch5BookExercises" />
-        <item index="1" class="java.lang.String" itemvalue="Python.bookExercisesCh4" />
-        <item index="2" class="java.lang.String" itemvalue="Python.Code_2_22" />
-        <item index="3" class="java.lang.String" itemvalue="Python.VignereCipher" />
-        <item index="4" class="java.lang.String" itemvalue="Python.VignereCipher (1)" />
+        <item index="0" class="java.lang.String" itemvalue="Python.Code_2_27" />
+        <item index="1" class="java.lang.String" itemvalue="Python.Code_2_22" />
+        <item index="2" class="java.lang.String" itemvalue="Python.ch5BookExercises" />
+        <item index="3" class="java.lang.String" itemvalue="Python.bookExercisesCh4" />
+        <item index="4" class="java.lang.String" itemvalue="Python.VignereCipher" />
       </list>
     </recent_temporary>
   </component>
@@ -253,15 +248,14 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15252976" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.37091503" sideWeight="0.5029762" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.37091503" sideWeight="0.49702382" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.251634" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.251634" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32843137" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -304,14 +298,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../Chapter4/bookExercisesCh4.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2992">
-          <caret line="176" column="0" lean-forward="true" selection-start-line="176" selection-start-column="0" selection-end-line="176" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../Chapter4/Code_2_20.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2244">
@@ -585,13 +571,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../Chapter4/Code_2_22.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="92" column="9" lean-forward="false" selection-start-line="92" selection-start-column="9" selection-end-line="92" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../Chapter4/bookExercisesCh4.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="373">
@@ -616,10 +595,34 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$USER_HOME$/Anaconda3/Lib/random.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="551">
+          <caret line="197" column="0" lean-forward="false" selection-start-line="197" selection-start-column="0" selection-end-line="197" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Chapter4/Code_2_22.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="109" column="0" lean-forward="true" selection-start-line="109" selection-start-column="0" selection-end-line="109" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Chapter4/Code_2_27.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-222">
+          <caret line="103" column="0" lean-forward="false" selection-start-line="103" selection-start-column="0" selection-end-line="103" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/../Chapter5/ch5BookExercises.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="254">
-          <caret line="26" column="0" lean-forward="true" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+        <state relative-caret-position="192">
+          <caret line="45" column="20" lean-forward="false" selection-start-line="45" selection-start-column="20" selection-end-line="45" selection-end-column="20" />
           <folding />
         </state>
       </provider>
