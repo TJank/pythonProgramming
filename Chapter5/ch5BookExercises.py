@@ -24,7 +24,26 @@ for aline in rainfile:
 rainfile.close()
 outfile.close()
 
+# Session 5.3 pg 163
+a = 10
+b = 'apple'
 
+print("The %s costs %d cents." % (b,a))
+myStr = "The %+15s costs %4.1d cents" % (b,a)
+print(myStr)
+
+myDict = {'name' : 'apple', 'cost' : 10, 'price' : 15}
+print("The %(name)s costs %(price)5.1f cents" % myDict)
+
+tempConvFile = open("tempconv.txt", "w")
+
+tempConvFile.write("Fahrenheit" + "  to  " + "Celsius")
+for temp in range(-300, 212):
+    new_temp = (temp - 32) * (5/9)
+
+    tempConvFile.write("%d F       %d  \n" % (temp, new_temp))
+
+tempConvFile.close()
 
 
 
