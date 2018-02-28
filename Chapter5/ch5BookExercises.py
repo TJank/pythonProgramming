@@ -45,6 +45,17 @@ for temp in range(-300, 212):
 
 tempConvFile.close()
 
+# Listing 5.3 PG 167
+def makeMagnitudeList():
+    quakefile = open("earthquakes.txt", "r")
+
+    maglist = []
+    for aline in quakefile:
+        vlist = aline.split()
+        maglist.append(float(vlist[0]))
+    return maglist
+
+print(makeMagnitudeList())
 
 
 
