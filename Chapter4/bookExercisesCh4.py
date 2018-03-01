@@ -27,51 +27,51 @@ my_list[2] = 45
 print(A)
 
 # Session 4.5 pg 125
-print(range(10))
-print(list(range(10)))
-print(list(range(10,2,-2)))
-print(list("the quick fox"))
+#print(range(10))
+#print(LISTISHERE(range(10)))
+#print(LISTISHERE(range(10, 2, -2)))
+#print(LISTISHERE("the quick fox"))
 
 # Session 4.6 LIST METHODS pg 126
 myList = [1024,3,True, 6.5]
 myList.append(False)
-print(myList)
+#print(myList)
 myList.insert(2,4.5)
-print(myList)
+#print(myList)
 myList.pop()
-print(myList)
+#print(myList)
 myList.pop(1)
-print(myList)
-print(myList.pop(2))
+#print(myList)
+#print(myList.pop(2))
 myList.sort()
-print(myList)
+#print(myList)
 myList.reverse()
-print(myList)
-print(myList.count(6.5))
-print(myList.index(4.5))
+#print(myList)
+#print(myList.count(6.5))
+#print(myList.index(4.5))
 myList.remove(6.5)
 print(myList)
 
 # Session 4.7 pg 127
 a = "minnesota vikings"
-print(a.split())
-print(a.split('i'))
-print(a.split('nn'))
+#print(a.split())
+#print(a.split('i'))
+#print(a.split('nn'))
 
 # Exercises PG 127
 # 4.1
-list = [7,9,'a','cat',False]
-list.append(3.14)
-list.append(7)
-print(list)
-list.insert(3,'dog')
-print(list.index('cat'))
-count = list.count(7)
-print(count)
-list.remove(7)
-print(list)
-list.pop(2)
-print(list)
+LISTISHERE = [7, 9, 'a', 'cat', False]
+LISTISHERE.append(3.14)
+LISTISHERE.append(7)
+#print(LISTISHERE)
+LISTISHERE.insert(3, 'dog')
+#print(LISTISHERE.index('cat'))
+count = LISTISHERE.count(7)
+#print(count)
+LISTISHERE.remove(7)
+#print(LISTISHERE)
+LISTISHERE.pop(2)
+#print(LISTISHERE)
 
 # 4.3
 string = "the quick brown fox"
@@ -83,23 +83,23 @@ listOfWords.append(string[10:15])
 
 mylist410 = [1,4,(1,2,3),10]
 
-print(mylist410)
+#print(mylist410)
 
 # Session 4.8 pg 129
 alist = [20,32,21,26,33,22,18]
-print(max(alist))
-print(min(alist))
-print(max('house'))
-print(min('house'))
-print(max(alist)- min(alist))
+#print(max(alist))
+#print(min(alist))
+#print(max('house'))
+#print(min('house'))
+#print(max(alist)- min(alist))
 
 # listing 4.1 pg 130
 def getRange(alist):
     return max(alist) - min(alist)
 
 # Session 4.9
-print(getRange([2,4]))
-print(getRange(alist))
+#print(getRange([2,4]))
+#print(getRange(alist))
 
 # Listing 4.2
 def getMax(alist):
@@ -181,7 +181,7 @@ ages['David'] = ages['David'] + 1
 #print(ages.get('Lena'))
 #print('Rylea' in ages)
 
-print('-'*20)
+#print('-'*20)
 
 
 names = ['joe', 'tom', 'barb', 'sue', 'sally']
@@ -268,6 +268,94 @@ def frequencyTableAlt(alist):
 print("-"*20)
 frequencyTable(a_list)
 
+
+a_list = [3,1,1,5,3,1,2,2,3,5,3,5,4,4,6,7,6,7,5,7,8,3,8,2,3,4,1,5,6,7]
+# Exercise 4.34 pg 145
+def frequencyTableAlt1(alist):
+    slist = alist[:]
+    slist.sort()
+    countlist = []
+
+    previous = slist[0]
+    groupCount = 0
+    for current in slist:
+        if current == previous:
+            groupCount += 1
+            previous = current
+        else:
+            countlist.append(("Item", previous))
+            countlist.append(("Frequency", groupCount))
+            previous = current
+            groupCount = 1
+
+    return countlist
+
+print(frequencyTableAlt1(a_list))
+
+# 4.35 pg 145
+new_scores = [('john', 10), ('bob', 8), ('john', 5), ('bob', 17), ('barb', 5)]
+def tableOfAvgScores(list):
+    print("Person", "Average Score")
+    clist = list[:]
+
+    previous_name = clist[0][0]
+    idx = 0
+    name = 0
+    score = 1
+    #for current in clist:
+       # if current[idx][name] ==
+
+# Visualizing Frequency Distribution
+data = [3,3,5,7,1,2,5,2,3,4,6,3,4,6,3,4,5,6,6]
+import turtle
+def frequencyChart(alist):
+    countdict = {}
+
+    for item in alist:
+        if item in countdict:
+            countdict[item] = countdict[item]+1
+        else:
+            countdict[item] = 1
+
+    itemlist = list(countdict.keys())
+    minitem = 0
+    maxitem = len(itemlist) - 1
+
+    countlist = countdict.values()
+    maxcount = max(countlist)
+
+    wn = turtle.Screen()
+    chartT = turtle.Turtle()
+    wn.setworldcoordinates(-1,-1,maxitem+1, maxcount+1)
+    chartT.hideturtle()
+
+    chartT.up()
+    chartT.goto(0,0)
+    chartT.down()
+    chartT.goto(maxitem, 0)
+    chartT.up()
+
+    chartT.goto(-1,0)
+    chartT.write("0", font=("Helvetica", 16, "bold"))
+    chartT.goto(-1, maxcount)
+    chartT.write(str(maxcount), font=("Helvetica", 16, "bold"))
+
+    itemlist.sort()
+
+    for index in range(len(itemlist)):
+        chartT.goto(index, -1)
+        chartT.write(str(itemlist[index]), font=("Helvetica", 16, "bold"))
+
+        chartT.goto(index,0)
+        chartT.down()
+        chartT.goto(index, countdict[itemlist[index]])
+        chartT.up()
+
+
+
+    wn.exitonclick()
+
+frequencyChart(data)
 # STANDARD DEVIATION
 # Listing 4.11 pg 150
 import math
@@ -285,7 +373,7 @@ def standardDev(alist):
     return sdev
 
 b_list = [7,11,9,18,15,12]
-print(standardDev(b_list))
+#print(standardDev(b_list))
 
 
 
