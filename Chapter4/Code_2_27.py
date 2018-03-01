@@ -98,20 +98,20 @@ def shuffle_v2(L, n):
         # append element to a new list
         new_list.append(e)
 
-my_list = [i for i in range(10)]
-print(my_list)
-shuffle_v2(my_list, 20)
-print(my_list)
+#my_list = [i for i in range(10)]
+#print(my_list)
+#shuffle_v2(my_list, 20)
+#print(my_list)
 
 
 # Element Uniqueness : determine if all elements in a collection are unique
 # return True if all elements are distinct, False otherwise
 
 def unique(L):
-    L.sort()        # sort the list in place
+    new_L = sorted(L)        # sort the list in place
 
-    for i in range(len(L)-1):
-        if L[i + 1] == L[i]:
+    for i in range(len(new_L)-1):
+        if new_L[i + 1] == new_L[i]:
             return False
 
     return True
@@ -120,6 +120,8 @@ my_list = [1,3,5,7,2,8,9,4]
 print(unique(my_list))
 
 # Send + More = Money
+solutions = []
+
 x = [i for i in range(10)]
 for s in x:
     S = s
@@ -141,6 +143,14 @@ for s in x:
                                 L = [S, E, N, D, M, O, R, Y]
                                 if unique(L):
                                     # check if the selection is a solution
-                                    # ...
+                                    send = int(''.join([str(S), str(E), str(N), str(D)]))
+                                    more = int(''.join([str(M), str(O), str(R), str(E)]))
+                                    money = int(''.join([str(M), str(O), str(N), str(E), str(Y)]))
+
+
+                                    if send + more == money:
+                                        solutions.append(L)
+                                        print(L)
+
 
 

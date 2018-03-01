@@ -97,7 +97,7 @@ def vignere_encryption(message, key, alphabet):
 
 
 cipher_text = vignere_encryption(message, key, string.ascii_lowercase + " ")
-print(cipher_text)
+#print(cipher_text)
 
 
 # Practice: How do you reverse the encryption process?
@@ -112,25 +112,63 @@ and of Nature's God entitle them, a decent respect to the \
 opinions of mankind requires that they should declare the \
 causes which impel them to the separation."
 
-alphabet = ".', " + string.ascii_lowercase
+alphabet =  string.ascii_lowercase+".', "
+print(alphabet)
 
 print("-" * 20)
 cipher_text = vignere_encryption(declaration, "freedom", alphabet)
 print(cipher_text)
 
-print(len(declaration), len(cipher_text))
+#print(len(declaration), len(cipher_text))
 
 # How do you reverse the encryption process?
 
 # HINT: How do you extract a key from a dictionary with a given value?
-def undoVig(keyLetter, ctLetter):
-    character = ""
-    character = character + vs[keyLetter]
+#def undoVig(keyLetter, ctLetter):
+   # character = ""
+    #character = character + vs[keyLetter]
 
-def decryptVignere(cipher_text, keyword):
-    plain_text = ""
-    for i in range(len(cipher_text)):
-        ch = vs[cipher_text[i] : keyword[i]]
-        plain_text = plain_text + ch
+#def decryptVignere(cipher_text, keyword):
+    #plain_text = ""
+   # for i in range(len(cipher_text)):
+        #h = vs[cipher_text[i] : keyword[i]]
+        #plain_text = plain_text + ch
 
-print(decryptVignere(cipher_text, "freedom"))
+#print(decryptVignere(cipher_text, "freedom"))
+
+#vs = vignere_square(string.ascii_lowercase + " ")
+
+def getMessage(key, en, vs):
+    for j in vs.values():
+
+        for i in vs.keys():
+            if i[0]==key and j == en:
+                if vs[i]==j:
+                    return i[1]
+               # print(i)
+                #return i[1]
+
+
+key = "freedom"
+#alphabet = string.ascii_lowercase + " .,'"
+def vignere_decryption(message, key, alphabet):
+    # Create a keyword
+    new_keyword = create_keyword(key, len(message))
+
+    # Create a Vignere Square
+    vs = vignere_square(alphabet)
+
+    # To use the Vignere Square the message must be in lower case
+    # and the new_keyword must be in upper case
+    new_keyword = new_keyword.upper()
+    plain_text = message.lower()
+
+    decipher_text = ""
+    for i in range(len(plain_text)):
+        decipher_text += getMessage(new_keyword[i], plain_text[i], vs)
+
+
+
+    return decipher_text
+a=vignere_decryption(cipher_text,"freedom",string.ascii_lowercase+".', ")
+print(a)
