@@ -1,6 +1,16 @@
 # Code for Chapter 4 homework
 # Problem 1.
+from random import gammavariate
 
+def randomLis_gamma(n, a, b):
+    randomList = []
+    for i in range(n):
+        rand = float("{0:.1f".format(gammavariate(a, b)))
+        randomList.append(rand)
+    return randomList
+
+#rand_list = randomLis_gamma(1000, 2, 2)
+#print(rand_list)
 # Problem 2.
 L1 = [1, 4, 9, 16, 9, 7, 4, 9, 11]
 L2 = [11, 11, 7, 9, 16, 4, 1]
@@ -56,7 +66,27 @@ def sumList(list):
 
 print(sumList(listofnum))
 
+# Problem 4.
 
+# Problem 5.
+def gcd(x, y):
+    x1 = abs(min(x, y))
+    y1 = abs(max(x, y))
+    gcd_ = x1
+
+    if y1 % x1:
+        gcd_ = gcd(x1, y1 % x1)
+    return gcd_
+
+print(gcd(2,100))
+
+# Problem 6.
+
+# Problem 7.
+
+# Problem 8.
+
+# Problem 9.
 
 
 
