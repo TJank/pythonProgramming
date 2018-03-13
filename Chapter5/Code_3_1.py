@@ -74,6 +74,8 @@ for line in in_file:
     new_line = line.split()     # Creates a list of string items seperated by spaces(default)
     magnitudes.append(float(new_line[0]))
 
+in_file.close()
+
 print(magnitudes)
 print(len(magnitudes))
 
