@@ -68,12 +68,12 @@ celsius_list = [i for i in range(-300, 301)]
 # when opening a file with W : if the file does not exist it will be created
 # if it is created, it will be flushed and overwritten
 
-out_file = open("temperatures.txt", "w")
-out_file.write("{0:<15}|{1:>15}\n".format("Celsius", "Fahrenheit"))
-for c in celsius_list:
-    out_file.write("{0:<15.2f}|{1:>15.2f}\n".format(c, celsius_to_fahrenheit(c)))
+#out_file = open("temperatures.txt", "w")
+#out_file.write("{0:<15}|{1:>15}\n".format("Celsius", "Fahrenheit"))
+#for c in celsius_list:
+#    out_file.write("{0:<15.2f}|{1:>15.2f}\n".format(c, celsius_to_fahrenheit(c)))
 
-out_file.close()
+#out_file.close()
 
 
 
@@ -99,12 +99,7 @@ y = [200.3, 300.1, 100.2]
 x = [1.2, 3.5, 2.7]
 
 def pearson_correlation(x_data, y_data):
-    """
-    The size of the x_data and y_data must be the same.
-    :param x_data:
-    :param y_data:
-    :return:
-    """
+    """The size of the x_data and y_data must be the same."""
     x_bar = np.mean(x_data)
     y_bar = np.mean(y_data)
 
@@ -117,10 +112,53 @@ def pearson_correlation(x_data, y_data):
     for i in range(n):
         numerator += (x_data[i] - x_bar) * (y_data[i] - y_bar)
 
-    denominator = (n - 1)
+    denominator = (n - 1) * x_std * y_std
+
+    p = numerator / denominator
+    return p
+
+p = pearson_correlation(x, y)
+print(p)
+
+# Compare data values from two different stocks
+# Apple - AAPL
+# Nvidia - NVDA
+
+apple_closing_stock = []
+path_to_file = "C:\\Users\\tyler\\Downloads\\"
+file_name = "AAPL.csv"
+
+in_file = open(path_to_file + file_name, "r")
+
+in_file.readline()
+for line in in_file:
+    new_line = line.split(",")
+    closing_stock = float(new_line[4])
+    apple_closing_stock.append(closing_stock)
+    #apple_closing_stock.append(float(line.split(",")[4]))
 
 
 
+
+nvidia_closing_stock = []
+path_to_nvidia = "C:\\Users\\tyler\\Downloads\\"
+f_name = "NVDA.csv"
+
+nvidia_in_file = open(path_to_nvidia + f_name, "r")
+
+nvidia_in_file.readline()
+for line in nvidia_in_file:
+    nvidia_closing_stock.append(float(line.split(",")[4]))
+
+in_file.close()
+nvidia_in_file.close()
+
+
+print(apple_closing_stock)
+print("-"*20)
+print(nvidia_closing_stock)
+
+print(pearson_correlation(apple_closing_stock, nvidia_closing_stock))
 
 
 

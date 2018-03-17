@@ -56,10 +56,10 @@ def makeMagnitudeList():
         maglist.append(float(vlist[0]))
     return maglist
 
-print(makeMagnitudeList())
+#print(makeMagnitudeList())
 
 magList = makeMagnitudeList()
-print(max(magList))
+#print(max(magList))
 
 def group_magnitudes(list):
     groupDict = {'micro' : 0, 'minor' : 0, 'light' : 0, 'moderate' : 0, 'major' : 0, 'strong' : 0, 'great' : 0}
@@ -82,16 +82,79 @@ def group_magnitudes(list):
 
     return groupDict
 
-print(group_magnitudes(magList))
+#print(group_magnitudes(magList))
 
 # Session 5.7 PG 172
-import urllib.request
+#import urllib.request
 #page = urllib.request.urlopen("http://knuth.luther.edu/`david/helloworld.html") # ERROR
 
+# Listing 5.4 PG 175
+import urllib.request
+
+def countHead(url):
+    page = urllib.request.urlopen(url)
+    numHeadLines = 0
+
+    line = page.readline().decod('utf-8')
+    while '<head>' not in line:
+        line = page.readline().decode('utf-8')
+
+    line = page.readline().decode('utf-8')
+    while '</head>' not in line:
+        numHeadLines = numHeadLines + 1
+        line = page.readline().decode('utf-8')
+
+    line = page.readline().decode('utf-8')
+    while '<body>' not in line:
+        line = page.readline().decode('utf-8')
+
+    line = page.readline().decode('utf-8')
+    while line != "" and "</body>" not in line:
+        print (line[:-1])
+        line = page.readline().decode('utf-8')
+
+    print ("number of lines in header = ", numHeadLines)
+
+    page.close()
+
+# DO CHAPTER 5 EXERCISES PG 175-176
 
 
+# SESSION 5.8 pg 177 (ERROR : ichar.yahoo.com NO LONGER EXISTS)
+#url1 = urllib.request.urlopen('http://ichart.yahoo.com/table.csv?s=TGT')
+#data = url1.readlines()[:10]
+#print(data)
 
 
+# LIsting 5.5 The book's Pearson Correlation Function pg 179
+from numpy import std
+def correlation(xlist, ylist):
+    xbar = mean(xlist)
+    ybar = mean(ylist)
+    xstd = std(xlist)
+    ystd = std(ylist)
+    num = 0
+    for i in range(len(xlist)):
+        num = num + (xlist[i] - xbar) * (ylist[i] - ybar)
+    corr = num / ((len(xlist)- 1) * xstd * ystd)
+    return corr
 
 
+# Listing 5.6 pg 182
+def stockCorrelate(ticker1, ticker2):
+    url1 = urllib.request.urlopen("ENTER A VALID URL")
+    url2 = urllib.request.urlopen("ENTER A SECOND VALID URL")
+
+    t1Data = url1.readlines()
+    t2Data = url2.readlines()
+    t1Data = [line[0:-1].decode('utf-8').split(',') for line in t1Data[1:]]
+    t2Data = [line[0:-1].decode('utf-8').split(',') for line in t2Data[1:]]
+    t1Close = []
+    t2Close = []
+    for i in range(min(len(t1Data), len(t2Data))):
+        if t1Data[i][0] == t2Data[i][0]:
+            t1Close.append(float(t1Data[i][4]))
+            t2Close.append(float(t2Data[i][4]))
+
+    return correlation(t1Close, t2Close)
 
