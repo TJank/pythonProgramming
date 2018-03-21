@@ -158,7 +158,7 @@ print(apple_closing_stock)
 print("-"*20)
 print(nvidia_closing_stock)
 
-print(pearson_correlation(apple_closing_stock, nvidia_closing_stock))
+#print(pearson_correlation(apple_closing_stock, nvidia_closing_stock))
 
 
 

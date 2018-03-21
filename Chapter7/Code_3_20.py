@@ -51,7 +51,7 @@ def centroid(points):
 
         return tuple(_centroid)
 
-points = [(1.1,2.1,3.1,4),(7,6,0,7),(8.1,4.7,5.6,3.2)]
+points = [(1.1,2.1,3.1,4),(7,6,0,7), (8.1, 4.7, 5.6, 3.2)]
 print(centroid(points))
 
 points = [1,5,7,8,6,7,1,3]
