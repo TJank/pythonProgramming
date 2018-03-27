@@ -104,10 +104,16 @@ def plotRegression(points):
     x_bar = sum(x_list) / len(x_list)
     y_bar = sum(y_list) / len(y_list)
     n = len(x_list)
+    sum1 = 0
 
     m = ((sum(x_list) * sum(y_list)) - (n * x_bar * y_bar)) / (((sum(x_list))**2) - (n * (x_bar**2)))
     #print(m)
     #y = y_bar + (m * (x - x_bar))
+    for i in range(len(x_list)):
+        sum1 += x[i] * y[i]
+
+    #sum1 = sum([x[1] * y[i] for i in range(len(x_list))])
+
 
 plotRegression(points)
 # Problem 5.
@@ -218,9 +224,47 @@ def fromMorseCodeToWords(morseCode):
 
 
 
-print(fromMorseCodeToWords(testCode))
+#print(fromMorseCodeToWords(testCode))
 
 # Problem 9.
+txtabrvs = {"2F4U": "Too Fast For You",
+            ("4YEO", "FYEO") : "For Your Eyes Only",
+            "AAMOF" : "As a Matter of Fact",
+            "AFK" : "Away from Keyboard",
+            "AKA" : "Also known as",
+            "BTW" : "By the Way",
+            "B/C" : "Because",
+            "FWIW" : "For what it's Worth",
+            "FYI" : "For your Information",
+            "FTW" : "For the Win",
+            "HF" : "Have fun",
+            "HTH" : "Hope this Helps",
+            "IDK" : "I don't know"}
+
+text_message = "FYI we won the game. I shouted out FTW as I scored."
+
+
+def txtmsg_to_english(textMessage):
+    plain_text = ""
+    word = ""
+
+    for i in range(len(textMessage)):
+        if textMessage[i] is " ":
+            if word in txtabrvs.keys():
+                plain_text += " " + txtabrvs[word]
+                word = ""
+                continue
+            else:
+                plain_text += " " + word
+                word = ""
+                continue
+        else:
+            word += textMessage[i]
+
+    return plain_text
+
+print(txtmsg_to_english(text_message))
+
 
 
 
