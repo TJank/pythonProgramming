@@ -89,7 +89,7 @@ def sumList(list):
 
     return sumList
 
-print(sumList(listofnum))
+#print(sumList(listofnum))
 
 # Problem 4.
 bob = turtle.Turtle()
@@ -120,7 +120,7 @@ def gcd(x, y):
         gcd_ = gcd(x1, y1 % x1)
     return gcd_
 
-print(gcd(4,5))
+#print(gcd(4,5))
 import fractions
 def addFractions(frac1, frac2):
     x1, y1 = frac1[0], frac1[1]
@@ -139,7 +139,7 @@ def multiplyFractions(frac1, frac2):
 fraction1 = (1,4)
 fraction2 = (2,5)
 
-print(addFractions(fraction1, fraction2))
+#print(addFractions(fraction1, fraction2))
 
 # Problem 6.
 list1 = [i for i in range(1,10)]
@@ -152,7 +152,7 @@ def transform(list1,list2,r1,r2):
         list2.append(insert)
     return list2
 
-print(transform(list1,list2,4,7))
+#print(transform(list1,list2,4,7))
 
 
 # Problem 7.
@@ -160,68 +160,65 @@ print(transform(list1,list2,4,7))
 
 # Problem 8.
 morseAlphabet = {
-    "A": ".-",
-    "B": "-...",
-    "C" : "-.-.",
-    "D" : "-..",
-    "E" : ".",
-    "F" : "..-.",
-    "G" : "--.",
-    "H" : "....",
-    "I" : "..",
-    "J" : ".---",
-    "K" : "-.-",
-    "L" : ".-..",
-    "M" : "--",
-    "N" : "-.",
-    "O" : "---",
-    "P" : ".--.",
-    "Q" : "--.-",
-    "R" : ".-.",
-    "S" : "...",
-    "T" : "-",
-    "U" : "..-",
-    "V" : "...-",
-    "W" : ".--",
-    "X" : "-..-",
-    "Y" : "-.--",
-    "Z" : "--..",
-    " " : "/"
+    ".-": "A",
+    "-...": "B",
+    "-.-.": "C",
+    "-..": "D" ,
+    ".": "E" ,
+    "..-.": "F" ,
+    "--.":  "G" ,
+    "....": "H" ,
+    "..": "I",
+    ".---": "J" ,
+    "-.-": "K" ,
+    ".-..": "L" ,
+    "--" : "M",
+    "-.": "N" ,
+    "---": "O",
+    ".--.":  "P" ,
+    "--.-": "Q" ,
+    ".-.": "R",
+    "...": "S",
+    "-": "T",
+    "..-": "U" ,
+    "...-": "V" ,
+    ".--": "W" ,
+    "-..-": "X" ,
+    "-.--": "Y",
+    "--..": "Z",
+    "/": " "
     }
 testCode = ".... . .-.. .-.. --- / -.. .- .. .-.. -.-- / .--. .-. --- --. .-. .- -- -- . .-. / --. --- --- -.. / .-.. ..- -.-. -.- / --- -. / - .... . / -.-. .... .- .-.. .-.. . -. --. . ... / - --- -.. .- -.-- "
 
-def getMessage(morseCode, morseAlphabet):
-    for j in morseAlphabet.values():
-
-        for i in morseAlphabet.keys():
-            if i[0]==morseCode and j == morseAlphabet:
-                if morseAlphabet[i]==j:
-                    return "i[0]"
-                print(i)
-                #return i[1]
 
 
 
 
 
 
-def fromMorseCodeToWords(morseCode, morseAlphabet):
-    chara_in_morseCode = [morseCode.split()]
+
+def fromMorseCodeToWords(morseCode):
+
+
+
     decode_message = ""
-    print(chara_in_morseCode)
+    letter = ""
 
-    for morse_Letter in chara_in_morseCode:
-        decode_message += getMessage(morse_Letter, morseAlphabet)
+    for i in range(0, len(morseCode)):
+        if morseCode[i] is " ":
+            decode_message += morseAlphabet[letter]
+            letter = ""
+            continue
+        else:
+
+            letter += morseCode[i]
+
+    return decode_message
 
 
 
 
-
-
-
-
-
-print(fromMorseCodeToWords(testCode, morseAlphabet))
+print(fromMorseCodeToWords(testCode))
 
 # Problem 9.
 

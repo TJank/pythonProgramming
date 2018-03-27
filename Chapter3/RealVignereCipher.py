@@ -87,7 +87,7 @@ def getMessage(key, en, vs):
             if i[0]==key and j == en:
                 if vs[i]==j:
                     return i[1]
-               # print(i)
+                print(i)
                 #return i[1]
 
 
