@@ -10,3 +10,21 @@ def euclidD(point1, point2):
     euclidDistance = math.sqrt(total)
     return euclidDistance
 
+def readFile(filename):
+    datafile = open(filename, "r")
+    datadict = {}
+
+    key = 0
+    for aline in datafile:
+        key = key + 1
+        score = int(aline)
+
+        datadict[key] = [score]
+
+    datafile.close()
+
+    return datadict
+
+
+
+
