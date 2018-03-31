@@ -1,0 +1,1250 @@
+Title,Year,Genre,Director,Cast
+13 B,(2009),(Thriller),Vikram K. Kumar,R. Madhavan,Neetu Chandra,Poonam Dhillon
+1920,(2008),(Thriller),Vikram Bhatt,Rajneesh Duggal,Adah Sharma,Anjori Alagh
+1942 A Love Story,(1994),(Drama Romance Patriotic),Vidhu Vinod Chopra,Anil Kapoor,Manisha Koirala,Jackie Shroff
+1947 Earth,(1999),(Drama Historical),Deepa Mehta,Aamir Khan,Nandita Das,Rahul Khanna
+2 States,(2014),(Drama),Vishal Bhardwaj,Shah Rukh Khan
+3 Idiots,(2009),(Comedy Drama),Rajkumar Hirani,Aamir Khan,Kareena Kapoor Khan,R. Madhavan
+3 Nights 4 Days,(2009),(Drama),Devang Dholakia,Anuj Sawhney,Hrishita Bhatt,Farid Amiri
+42 Kms,(2011),(Drama),Nisha Chainani,Mandira Bedi,Sameer Dattani,Purab Kohli
+64 Squares,(2013),(Drama Suspense Thriller),Vidhu Vinod Chopra,Amitabh Bachchan
+7 Days in Paris,(2013),(Drama Romance),Sanjay Gadhvi,Imran Khan,Katrina Kaif
+8 X 10 Tasveer,(2009),(Fantasy),Nagesh Kukunoor,Akshay Kumar,Ayesha Takia,Jaaved Jaaferi
+99,(2009),(Drama),Raj Nidimoru,Krishna D. K.,Kunal Khemu,Soha Ali Khan,Boman Irani
+10ml LOVE,(2012),(Comedy Romance),Sharat Katariya,Rajat Kapoor,Purab Kohli,Koel Purie
+16th December,(2002),(Action),Mani Shankar,Dipannita Sharma,Sushant Singh,Dipannita Singh
+1971 Prisoners of War,(2007),(Action),Amrit Sagar,Manoj Bajpai,Ravi Kishan,Deepak Dobriyal
+26th July at Barista,(2008),(Drama),Mohan Sharma,Simran Vaid,Rohini Hattangadi,Paramveer
+2nd Time Lucky,(2013),(Romance),Shoojit Sircar,Prateik Babbar,Ahana Deol
+3 Deewarein,(2003),(Drama Social),Nagesh Kukunoor,Jackie Shroff,Naseeruddin Shah,Juhi Chawla
+36 China Town,(2006),(Suspense Thriller),Abbas-Mustan,Shahid Kapoor,Akshaye Khanna,Kareena Kapoor Khan
+36 Chowringhee Lane,(1982),(Action),Aparna Sen,Jennifer Kapoor,Dhritiman Chattopadhyay,Debashree Roy
+404,(2011),(Suspense Thriller),Prawal Raman,Imaad Shah,Nishikant Kamat,Rajwir Arora
+6th December A Love Story,(2013),(Action Drama Romance Thriller),K. Husain,Arshad Warsi,Rakesh Bedi,Prem Chopra
+7G Rainbow Colony,(2013),(Drama),Selva,Vivek Oberoi
+8 PM - A Murder Mystery,(2007),(Suspense),Vijay Ahuja,Krushna Abhishek,Nirmal Pandey,Ehsaan Khan
+15 Park Avenue,(2006),(Drama Social),Aparna Sen,Konkona Sen Sharma,Rahul Bose,Shabana Azmi
+1857 Tatya Tope,(2013),(Historical),S. K. Sham,Aman Verma,Gracy Singh,Salim Ghouse
+1920 - Evil Returns,(2012),(Horror),Bhushan Patel,Aftab Shivdasani,Tia Bajpai,Sagar Saikia
+23rd March 1931 Shaheed,(2002),(Biopic),Guddu Dhanoa,Bobby Deol,Sunny Deol,Rahul Dev
+3 Bachelors,(2012),(Comedy Romance),Ajay Sinha,Sharman Joshi,Manish Nagpal,Riya Sen
+30 Takka,(2013),(Comedy Romance),Sunil Agrawal,Rajneesh Duggal,Raima Sen
+332 Mumbai To India,(2010),(Drama Thriller),Mahesh Pandey,Ali Asgar,Chetan Pandit,Vijay Mishra
+340,(2013),(Drama),Suryaprakash Lakkhoju,Upendra Limaye,Ahsaas Channa,Rajesh Shringarpure
+498A- The Wedding gift,(2013),(Comedy),Suhaib Iliyasi,Farida Jalal,Alok Nath,Deepak Tijori
+5 Ghantey Mein 5 Crore,(2012),(Suspense Thriller),Faisal Saif,Meera,Abhishek Kumar,Shahwar Ali
+50 Lakh,(2007),(Drama),Chandrashekhar Yelet,Mohit Chadda,Pawan Malhotra,Ashok Kumar
+7 1/2 Phere,(2005),(Drama),Isshaan Trivedi,Irrfan Khan,Juhi Chawla,Lalit Tiwari
+88 Antop Hill,(2003),(Suspense),Kushan Nandy,Rahul Dev,Sharat Saxena,Atul Kulkarni
+90 Minutes,(2013),(Thriller),E. Nivas,Bhoomika Chawla
+13th Floor,(2006),(Drama Thriller),Luke Kenny,Purab Kohli,Sandhya Mridul
+2 Little Indians,(2013),(Drama),Ravi Bhatia,Ronak Druv,Ansh Sinha,Ravi Bhatia
+2 Piece,(2005),(Action),Kishan Shah,Satnam Kaur,Ramesh Goyal,Anil Nagrath
+24x7 Bombay Saloon Unisex,(2013),(Social),Nabh Kumar Raju,Samir Kochar,Bhairavi Goswami,Anita Raaj
+26 Black November,(2013),(Drama),Ajit Varma,Ehsaan Khan,Shahbaaz Khan,Ajit Varma
+30 Days,(2004),(Action),Ravi Sinha,Jaikishan Dayabhai Panchal,Abhay Bhargav,Alok Nath
+4pm on the Court,(2013),(Sports),Shine Krishna,Vinita Menon,Prithvi,Akanksha Singh
+64 Kaam Kalayen,(2002),(Action),Suresh Jain,Tina,Ankush Mohit,Kirti Rawal
+7 Khoon Maaf,(2011),(Drama),Vishal Bhardwaj,Priyanka Chopra,John Abraham,Neil Nitin Mukesh
+9 Eleven,(2011),(Drama),Manan Singh Katohora,Chinmay Dhamne,Devasish Ray,Homi Irani
+A Wednesday,(2008),(Drama),Neeraj Pandey,Naseeruddin Shah,Anupam Kher,Jimmy Shergill
+Aa Ab Laut Chalen,(1999),(Drama Family),Rishi Kapoor,Akshaye Khanna,Aishwarya Rai-Bachchan,Suman Ranganathan
+Aa Dekhen Zara,(2009),(Thriller),Jehangir Surti,Neil Nitin Mukesh,Bipasha Basu,Rahul Dev
+Aagey Se Right,(2009),(Comedy),Indrajit Nattooji,Shreyas Talpade,Mahi Gill,Kay Kay Menon
+Aaina,(1993),(Drama Family),Deepak Sareen,Jackie Shroff,Juhi Chawla,Amrita Singh
+Aakhari Decision,(2010),(Action Drama),Deepak Bandhu,Anant Jog,Nagesh Bhosle,Mushtaq Khan
+Aakrosh,(2010),(Drama),Priyadarshan,Ajay Devgn,Akshaye Khanna,Bipasha Basu
+Aamir,(2008),(Thriller),Rajkumar Gupta,Rajeev Khandelwal,Gajraj Rao,Jhilmil Hazrika
+Aamras,(2009),(Comedy Drama),Rupali Guha,Vega Tamotia,Ntasha Bhardwaj,Maanvi Gargoo
+Aankhen,(2002),(Action),Vipul Shah,Akshay Kumar,Amitabh Bachchan,Sushmita Sen
+Aankhen,(1993),(Comedy),David Dhawan,Govinda,Chunkey Pandey,Shilpa Shirodkar
+Aankhen 2,(2013),(Thriller),Sharang Dev,Amitabh Bachchan,Paresh Rawal
+Aap Ka Saaya,(2013),(Romance),Udhas Singh,Ranbir Kapoor,Jiah Khan,Asin Thottumkal
+Aap Kaa Suroor The Moviee - The Real Luv Story,(2007),(Romance),Prashant Chadha,Himesh Reshammiya,Hansika Motwani,Mallika Sherawat
+Aap Ke Liye Hum,(2013),(Drama),Revathy S. Verma,Jaya Bachchan,Raveena Tandon,Ranvir Shorey
+Aashayein,(2010),(Drama),Nagesh Kukunoor,John Abraham,Sonal Sehgal,Anaitha Nair
+Aashiqui,(1990),(Romance),Mahesh Bhatt,Rahul Roy,Anu Agarwal,Reema Lagoo
+Aasma,(2009),(Drama),Rohit Nayyar,Joy Sengupta,Shubh,Hrishita Bhatt
+Aasman,(2013),(Action),Anthony D'Souza,Akshay Kumar,Katrina Kaif,Sanjay Dutt
+Ab Tak Chhappan,(2004),(Action),Shimit Amin,Nana Patekar,Yashpal Sharma,Nakul Vaid
+Accident On Hill Road,(2009),(Thriller),Mahesh Nair,Farooq Shaikh,Celina Jaitley,Abhimanyu Singh
+Acid Factory,(2009),(Thriller),Suparn Verma,Fardeen Khan,Dia Mirza,Irrfan Khan
+Action Replayy,(2010),(Comedy Drama),Vipul Shah,Akshay Kumar,Aishwarya Rai-Bachchan,Neha Dhupia
+Ada.. A Way Of Life,(2010),(Romance),Tanvir Ahmed,Nauheed Cyrusi,Saurabh Dubey,Ayaan Ahmad
+Admissions Open,(2010),(Drama Social),K. D. Satyam,Anupam Kher,Ashish Vidyarthi,Ankur Khanna
+Agent Vinod,(2012),(Action Suspense Thriller),Sriram Raghavan,Saif Ali Khan,Kareena Kapoor Khan,Gulshan Grover
+Agneepath,(2012),(Action Drama),Karan Malhotra,Hrithik Roshan,Priyanka Chopra,Sanjay Dutt
+Agneepath,(1990),(Action),Mukul S. Anand,Amitabh Bachchan,Mithun Chakraborty,Neelam
+Agni Sakshi,(1996),(Romance),Partho Ghosh,Jackie Shroff,Manisha Koirala,Nana Patekar
+Agyaat,(2009),(Thriller),Ram Gopal Varma,Nitin Reddy,Priyanka Kothari,Ravi Kale
+Aisha,(2010),(Comedy Romance),Rajshree Ojha,Abhay Deol,Sonam Kapoor,Cyrus Sahukar
+Aitraaz,(2004),(Drama),Abbas-Mustan,Akshay Kumar,Kareena Kapoor Khan,Priyanka Chopra
+Ajab Prem Ki Ghazab Kahani,(2009),(Drama),Raj Kumar Santoshi,Ranbir Kapoor,Katrina Kaif,Upen Patel
+Akadd,(2013),(Action Comedy),Arshad Warsi,Priyanka Chopra
+Akele Hum Akele Tum,(1995),(Drama Family),Mansoor Khan,Aamir Khan,Manisha Koirala,Paresh Rawal
+Aladin,(2009),(Comedy Fantasy Children),Sujoy Ghosh,Amitabh Bachchan,Riteish Deshmukh,Sanjay Dutt
+All The Best : Fun Begins,(2009),(Comedy),Rohit Shetty,Ajay Devgn,Bipasha Basu,Sanjay Dutt
+Allah Ke Banday,(2010),(Drama),Farooque Kabir,Naseeruddin Shah,Sharman Joshi,Anjana Sukhani
+Aloo Chaat,(2009),(Comedy),Robby Grewal,Aftab Shivdasani,Aamna Shariff,Linda Arsenio
+Amar Akbar Anthony,(1977),(Comedy),Manmohan Desai,Vinod Khanna,Rishi Kapoor,Amitabh Bachchan
+Amar Akbar Anthony Remake,(2013),(Comedy Drama),David Dhawan,Salman Khan,Sohail Khan,Arbaaz Khan
+Anand,(1970),(Social),Hrishikesh Mukherjee,Rajesh Khanna,Amitabh Bachchan,Sumitra Sanyal
+Andaz,(1971),(Drama Social),Ramesh Sippy,Shammi Kapoor,Hema Malini,Rajesh Khanna
+Andaz Apna Apna,(1994),(Comedy),Raj Kumar Santoshi,Aamir Khan,Salman Khan,Raveena Tandon
+Angoor,(1982),(Comedy),Gulzar,Sanjeev Kumar,Mousumi Chatterjee,Deven Verma
+Anjaana Anjaani,(2010),(Romance),Siddarth Raj Anand,Ranbir Kapoor,Priyanka Chopra,Zayed Khan
+Apaharan,(2005),(Action),Prakash Jha,Ajay Devgn,Nana Patekar,Bipasha Basu
+Apartment,(2010),(Thriller),Jagmohan Mundhra,Rohit Roy,Tanushree Datta,Neetu Chandra
+Apne,(2007),(Drama),Anil Sharma,Dharmendra,Sunny Deol,Bobby Deol
+Arth,(1983),(Drama Social),Mahesh Bhatt,Shabana Azmi,Kulbhushan Kharbanda,Smita Patil
+Baabarr,(2009),(Action),Ashu Y. Trikha,Soham,Mithun Chakraborty,Urvashi Sharma
+Baabul,(2006),(Drama),Ravi Chopra,Amitabh Bachchan,Hema Malini,Salman Khan
+Baadshah,(1999),(Comedy),Abbas-Mustan,Shah Rukh Khan,Amrish Puri,Rakhee
+Baazigar,(1993),(Thriller),Abbas-Mustan,Shah Rukh Khan,Kajol,Shilpa Shetty Kundra
+Bachelor Party,(2009),(Comedy),Isshaan Trivedi,Jimmy Shergill,Nauheed Cyrusi,Arbaaz Khan
+Bachna Ae Haseeno,(2008),(Romance),Siddarth Raj Anand,Ranbir Kapoor,Bipasha Basu,Deepika Padukone
+Bad Luck Govind,(2009),(Comedy),Varun Khanna,Gaurav Kapoor,Hrishita Bhatt,Parmeet Sethi
+Bade Miyan Chote Miyan,(1998),(Comedy Drama),David Dhawan,Amitabh Bachchan,Govinda,Raveena Tandon
+Badmaash Company,(2010),(Action Drama),Parmeet Sethi,Shahid Kapoor,Anushka Sharma,Meiyang Chang
+Baghban,(2003),(Drama Family),Ravi Chopra,Amitabh Bachchan,Hema Malini,Salman Khan
+Bajirao Mastani,(2013),(Drama Musical Romance),Sanjay Leela Bhansali,Salman Khan,Kareena Kapoor Khan,Rani Mukerji
+Barfi!,(2012),(Comedy Romance Social),Anurag Basu,Ranbir Kapoor,Priyanka Chopra,Ileana D'Cruz
+Bbuddah - Hoga Terra Baap,(2011),(Action),Puri Jagannath,Amitabh Bachchan,Hema Malini,Sonu Sood
+Before The Rains,(2009),(Drama Romance Thriller),Santosh Sivan,Rahul Bose,Nandita Das,Jennifer Ehle
+Beta,(1992),(Drama),Indra Kumar,Anil Kapoor,Madhuri Dixit-Nene,Aruna Irani
+Bhagam Bhag,(2006),(Comedy),Priyadarshan,Akshay Kumar,Govinda,Jackie Shroff
+Bhairavi,(2013),(Musical),Rakesh Mehra,Amitabh Bachchan,Jaya Bachchan,Abhishek Bachchan
+Bhavnao Ko Samjho,(2010),(Comedy),Sunil Pal,Sunil Pal,Raju Shrivastav,Ehsaan Qureshi
+Bheja Fry,(2007),(Comedy),Sagar Ballary,Vinay Pathak,Rajat Kapoor,Ranvir Shorey
+Bhool Bhulaiyaa,(2007),(Thriller),Priyadarshan,Shiney Ahuja,Vidya Balan,Akshay Kumar
+Bhoot,(2003),(Horror),Ram Gopal Varma,Ajay Devgn,Urmila Matondkar,Rekha
+Bhoot Returns,(2012),(Horror),Ram Gopal Varma,Manisha Koirala,J. D. Chakravarthy,Madhu Shalini
+Bhoothnath,(2008),(Drama Children),Vivek Sharma,Amitabh Bachchan,Aman Siddiqui,Juhi Chawla
+Bihaad,(2013),(Action),Adventure,Milan Luthria,Sanjay Dutt,Ajay Devgn,Vidya Balan
+Billu,(2009),(Comedy),Priyadarshan,Irrfan Khan,Shah Rukh Khan,Lara Dutta
+Bird Idol,(2010),(Children Animation),Jyotin Goel,Sanjay Dutt,Juhi Chawla,Shaan
+Biwi No. 1,(1999),(Drama Family),David Dhawan,Salman Khan,Karisma Kapoor,Sushmita Sen
+Black,(2005),(Drama Social),Sanjay Leela Bhansali,Sanjay Sharma,Amitabh Bachchan,Rani Mukerji,Ayesha Kapoor
+Blue,(2009),(Action),Anthony D'Souza,Akshay Kumar,Sanjay Dutt,Lara Dutta
+Blue Oranges,(2009),(Drama),Rajesh Ganguly,Rajit Kapur,Harsh Chhaya,Rati Agnihotri
+Bluffmaster!,(2005),(Drama),Rohan Sippy,Abhishek Bachchan,Priyanka Chopra,Riteish Deshmukh
+Bol Bachchan,(2012),(Comedy Romance),Rohit Shetty,Ajay Devgn,Abhishek Bachchan,Asin Thottumkal
+Bolo Raam,(2009),(Thriller),Rakesh Chaturvedi,Naseeruddin Shah,Rishi Bhutani,Om Puri
+Bombay,(1995),(Drama),Mani Ratnam,Arvind Swamy,Manisha Koirala,Naseer
+Bombay Velvet,(2015),(Action Thriller),Anurag Kashyap,John Abraham,Naseeruddin Shah,Kay Kay Menon
+Border,(1997),(War),J. P. Dutta,Sunny Deol,Akshaye Khanna,Sunil Shetty
+Break Ke Baad,(2010),(Romance),Danish Aslam,Imran Khan,Deepika Padukone,Sharmila Tagore
+Broken Horses,(2013),(Action),Vidhu Vinod Chopra,Mickey Rourke
+Bumm Bumm Bole,(2010),(Children),Priyadarshan,Atul Kulkarni,Rituparna Sengupta,Darsheel Safary
+Bunty Aur Babli,(2005),(Romance),Shaad Ali,Abhishek Bachchan,Rani Mukerji,Amitabh Bachchan
+Baap Numbri Beta Dus Numbri,(1990),(Costume),Aziz Sejawal,Jackie Shroff,Farha,Vijay Arora
+Baazi,(1995),(Action),Ashutosh Gowariker,Aamir Khan,Mamta Kulkarni,Mukesh Rishi
+Bachao,(2010),(Horror),Shyam Ramsay,Rufy Khan,Karron Malik,Anishka
+Baharen Phir Bhi Aayengi,(1966),(Drama Social),Shahid Latif,Dharmendra,Mala Sinha,Tanuja
+Baharon Ke Sapne,(1967),(Social),Nasir Hussain,Rajesh Khanna,Asha Parekh,Jairaj
+Balle Balle Amritsar To L.A.,(2004),(Drama),Gurinder Chadhha,Aishwarya Rai-Bachchan,Marlon Rodrigues,Naveen Andrews
+Band Baaja Baaraat,(2010),(Drama),Manish Sharma,Ranveer Singh,Anushka Sharma,Manmeet Singh
+Banda Yeh Bindaas Hai,(2013),(Comedy),Ravi Chopra,Govinda,Lara Dutta,Tabu
+C Kkompany,(2008),(Comedy),Sachin Yardi,Tusshar Kapoor,Raima Sen,Anupam Kher
+Chaalbaaz,(1989),(Action Comedy Drama),Pankuj Parashar,Sridevi,Sunny Deol,Rajinikanth
+Chachi 420,(1997),(Comedy),Kamal Haasan,Gulzar,Kamal Haasan,Tabu
+Chak De! India,(2007),(Drama),Shimit Amin,Shah Rukh Khan,Vidya Malavade,Sagarika Ghatge
+Chalo Dilli,(2011),(Drama),Shashant Shah,Vinay Pathak,Lara Dutta,Brijendra Kala
+Chalte Chalte,(2003),(Drama Family),Aziz Mirza,Shah Rukh Khan,Rani Mukerji,Jas Arora
+Chamki Chameli,(2013),(Action Musical),Shyam Benegal,Sanjay Dutt,Yashpal Sharma
+Chamku,(2008),(Drama),Kabeer Kaushik,Bobby Deol,Priyanka Chopra,Riteish Deshmukh
+Chance Pe Dance,(2010),(Musical Romance),Ken Ghosh,Shahid Kapoor,Genelia D'Souza-Deshmukh,Kurush Deboo
+Chandbhai,(2013),(Comedy Drama),Nikhil Advani,Akshaye Khanna,Vidya Balan
+Chandni,(1989),(Romance),Yash Chopra,Sridevi,Rishi Kapoor,Vinod Khanna
+Chandni Bar,(2001),(Drama Social),Madhur Bhandarkar,Tabu,Atul Kulkarni,Rajpal Yadav
+Chandni Chowk To China,(2009),(Comedy),Nikhil Advani,Akshay Kumar,Deepika Padukone,Ranvir Shorey
+Chase,(2010),(Action Drama),Jagmohan Mundhra,Anuj Saxena,Udita Goswami,Rajesh Khattar
+Cheeni Kum,(2007),(Romance),R. Balki,Amitabh Bachchan,Tabu,Paresh Rawal
+Cheers - Celebration Life,(2013),(Comedy),Sangeeth Sivan,Dharmendra,Bobby Deol,Soha Ali Khan
+Chenab Gandhi,(2013),(Drama),Vibha Puri,Amitabh Bachchan,Vidya Balan,Harman Baweja
+Chillar Party,(2011),(Family Children),Vikas Bahl,Nitesh Tiwari,Chinmai Chandranshuh,Vedant Desai,Rohan Grover
+China Gate,(1998),(Action),Raj Kumar Santoshi,Om Puri,Naseeruddin Shah,Amrish Puri
+Chintu Ji,(2009),(Drama),Ranjit Kapoor,Rishi Kapoor,Priyanshu Chatterjee,Kulraj Randhawa
+Chup Chup Ke,(2006),(Comedy),Priyadarshan,Shahid Kapoor,Kareena Kapoor Khan,Neha Dhupia
+Chupke Chupke,(1975),(Comedy),Hrishikesh Mukherjee,Dharmendra,Sharmila Tagore,Om Prakash
+City Of Gold,(2010),(Action Social),Mahesh Manjrekar,Karan Patel,Sameer Dharmadhikari,Vineet Kumar
+Click,(2010),(Drama Horror Thriller),Sangeeth Sivan,Shreyas Talpade,Sada,Chunkey Pandey
+Cocktail,(2012),(Romance),Homi Adajania,Saif Ali Khan,Deepika Padukone,Diana Penty
+Company,(2002),(Thriller),Ram Gopal Varma,Ajay Devgn,Vivek Oberoi,Mohanlal
+Contract,(2008),(Thriller),Ram Gopal Varma,Aseem Mishra,Adhvik Mahajan,Prasad Purandare,Sakshi Gulati
+Coolie,(1983),(Drama Social),Manmohan Desai,Prayag Raj,Amitabh Bachchan,Rati Agnihotri,Rishi Kapoor
+Coolie No. 1,(1995),(Comedy),David Dhawan,Govinda,Karisma Kapoor,Harish
+Corporate,(2006),(Drama Social),Madhur Bhandarkar,Bipasha Basu,Rajat Kapoor,Raj Babbar
+Crook,(2010),(Action Drama),Mohit Suri,Emraan Hashmi,Neha Sharma,Arjan Bajwa
+Calcutta Mail,(2003),(Thriller),Sudhir Mishra,Anil Kapoor,Rani Mukerji,Manisha Koirala
+Carry On Pandu,(2013),(Drama Social),Chandrakant Kulkarni,Ranvir Shorey,Surveen Chawla,Om Puri
+Cash,(2007),(Action),Anubhav Sinha,Ajay Devgn,Sunil Shetty,Riteish Deshmukh
+Chaalis Chauraasi,(2012),(Comedy Crime),Hriday Shetty,Naseeruddin Shah,Atul Kulkarni,Kay Kay Menon
+Chaar Din Ki Chandni,(2012),(Drama Romance),Samir Karnik,Tusshar Kapoor,Kulraj Randhawa,Chandrachur Singh
+Chai Garam,(2013),(Comedy Romance),Aaditya Datt,Govinda,Celina Jaitley,Esha Deol
+Chain Kulli Ki Main Kulii,(2007),(Drama),Kituu Salooja,Rahul Bose,Naseer Abdullah,Nazir Hussain
+Chal Chala Chal,(2009),(Comedy),T. K. Rajeev Kumar,Govinda,Rajpal Yadav,Reema Sen
+Chal Chalein,(2009),(Drama),Ujjwal Singh,Mithun Chakraborty,Rati Agnihotri,Mukesh Khanna
+Chalti Ka Naam Gadi,(1958),(Comedy),Satyen Bose,Ashok Kumar,Madhubala,Kishore Kumar
+Chamatkar,(1992),(Drama),Rajiv Mehra,Naseeruddin Shah,Shah Rukh Khan,Shammi Kapoor
+Chameli,(2004),(Drama Social),Sudhir Mishra,Kareena Kapoor Khan,Rahul Bose,Pankaj Jha
+Chashme Baddoor,(2013),(Comedy),David Dhawan,Ali Zafar,Siddharth,Tapsee Pannu
+Chashme Buddoor,(1981),(Comedy),Sai Paranjpye,Amitabh Bachchan,Rekha,Farooq Shaikh
+Chaurahen - Crossroads,(2012),(Drama),Rajshree Ojha,Victor Banerjee,Rupa Ganguly,Soha Ali Khan
+Cheenti Cheenti Bang Bang,(2008),(Animation),Niloy Kumar De,Ashish Vidyarthi,Anjan Srivastava,Mahesh Manjrekar
+Chhodon Naa Yaar,(2007),(Horror),Dilip Sood,Jimmy Shergill,Kim Sharma,Kabir Sadanand
+Chhoti Bahu,(1971),(Social),K. B. Tilak,M. M. Baig,Rajesh Khanna,Sharmila Tagore,Nirupa Roy
+Chhoti Si Baat,(1975),(Comedy Social),Basu Chatterjee,Amol Palekar,Vidya Sinha,Ashok Kumar
+Dabangg,(2010),(Drama),Abhinav Kashyap,Salman Khan,Sonakshi Sinha,Arbaaz Khan
+Dabangg 2,(2012),(Action Social),Arbaaz Khan,Salman Khan,Sonakshi Sinha,Arbaaz Khan
+Daddy Cool,(2009),(Comedy),K. Murali Mohan Rao,Aftab Shivdasani,Ashish Choudhary,Sunil Shetty
+Damini,(1993),(Drama Social),Raj Kumar Santoshi,Rishi Kapoor,Meenakshi Sheshadri,Sunny Deol
+Darr,(1993),(Romance Thriller),Yash Chopra,Sunny Deol,Juhi Chawla,Shah Rukh Khan
+Dasvidaniya,(2008),(Drama),Shashant Shah,Vinay Pathak,Sarita Joshi,Gaurav Gera
+De Dana Dan,(2009),(Comedy),Priyadarshan,Akshay Kumar,Sunil Shetty,Paresh Rawal
+De Taali,(2008),(Comedy),E. Nivas,Riteish Deshmukh,Aftab Shivdasani,Ayesha Takia
+Dedh Ishqiya,(2014),(Drama Romance),Abhishek Chaubey,Naseeruddin Shah,Madhuri Dixit-Nene,Arshad Warsi
+Deewaar,(1975),(Social),Yash Chopra,Amitabh Bachchan,Shashi Kapoor,Nirupa Roy
+Deewana,(1992),(Romance),Raj Kanwar,Rishi Kapoor,Divya Bharti,Shah Rukh Khan
+Deewana Mastana,(1997),(Comedy),David Dhawan,Anil Kapoor,Juhi Chawla,Govinda
+Delhi 6,(2009),(Drama),Rakeysh Omprakash Mehra,Abhishek Bachchan,Sonam Kapoor,Atul Kulkarni
+Department,(2012),(Action Crime),Ram Gopal Varma,Amitabh Bachchan,Sanjay Dutt,Anjana Sukhani
+Dev D,(2009),(Drama),Anurag Kashyap,Abhay Deol,Mahi Gill,Kalki Koechlin
+Devdas,(2002),(Drama),Sanjay Leela Bhansali,Shah Rukh Khan,Aishwarya Rai-Bachchan,Madhuri Dixit-Nene
+Dhadkan,(2000),(Romance),Dharmesh Darshan,Akshay Kumar,Shilpa Shetty Kundra,Sunil Shetty
+Dhamaal,(2007),(Comedy),Indra Kumar,Sanjay Dutt,Riteish Deshmukh,Arshad Warsi
+Dharmatma,(1975),(Social),Feroz Khan,Feroz Khan,Premnath,Hema Malini
+Dhoom,(2004),(Action),Sanjay Gadhvi,Abhishek Bachchan,John Abraham,Uday Chopra
+Dhoom 2,(2006),(Action),Sanjay Gadhvi,Hrithik Roshan,Abhishek Bachchan,Yusuf Hussain
+Dhoom 3,(2013),(Action Thriller),Vijay Krishna Acharya,Aamir Khan,Abhishek Bachchan,Uday Chopra
+Dhoondte Reh Jaaoge,(2009),(Comedy),Umesh Shukla,Kunal Khemu,Sonu Sood,Soha Ali Khan
+Dil,(1990),(Romance),Indra Kumar,Aamir Khan,Madhuri Dixit-Nene,Anupam Kher
+Dil Bole Hadippa!,(2009),(Comedy Romance),Anurag Singh,Rani Mukerji,Shahid Kapoor,Rakhi Sawant
+Dil Chahta Hai,(2001),(Romance),Farhan Akhtar,Aamir Khan,Saif Ali Khan,Akshaye Khanna
+Dil Hai Ki Manta Nahin,(1991),(Romance),Mahesh Bhatt,Aamir Khan,Pooja Bhatt,Anupam Kher
+Dil Kabaddi,(2008),(Comedy),Anil Senior,Irrfan Khan,Soha Ali Khan,Konkona Sen Sharma
+Dil Se,(1998),(Thriller),Mani Ratnam,Shah Rukh Khan,Manisha Koirala,Preity Zinta
+Dil To Pagal Hai,(1997),(Romance),Yash Chopra,Shah Rukh Khan,Madhuri Dixit-Nene,Karisma Kapoor
+Dilwale Dulhania Le Jayenge,(1995),(Romance),Aditya Chopra,Shah Rukh Khan,Kajol,Amrish Puri
+Do Dooni Chaar,(2010),(Drama),Habib Faisal,Rishi Kapoor,Neetu Singh,Archit Krishna
+Do Knot Disturb,(2009),(Comedy),David Dhawan,Govinda,Riteish Deshmukh,Lara Dutta
+Don,(2006),(Action),Farhan Akhtar,Shah Rukh Khan,Priyanka Chopra,Boman Irani
+Don,(1978),(Social),Chandra Barot,Amitabh Bachchan,Zeenat Aman,Pran
+Dor,(2006),(Drama Social),Nagesh Kukunoor,Ayesha Takia,Gul Panag,Shreyas Talpade
+Dostana,(2008),(Romance),Tarun Mansukhani,Abhishek Bachchan,John Abraham,Priyanka Chopra
+Dostana 2,(2014),(Comedy),Tarun Mansukhani,Abhishek Bachchan,John Abraham,Katrina Kaif
+Dream Sequence,(2013),(Romance),Vishal Bhardwaj,Priyanka Chopra,Abhay Deol,Vivaan Shah
+Drona,(2008),(Fantasy),Goldie Behl,Abhishek Bachchan,Priyanka Chopra,Kay Kay Menon
+Dulha Mil Gaya,(2010),(Comedy),Mudassar Aziz,Fardeen Khan,Ishita Sharma,Sushmita Sen
+Dulhe Raja,(1998),(Action),Harmesh Malhotra,Govinda,Raveena Tandon,Kader Khan
+Duplicate,(1998),(Action),Mahesh Bhatt,Shah Rukh Khan,Juhi Chawla,Kajol
+Dus,(2005),(Action),Anubhav Sinha,Sanjay Dutt,Abhishek Bachchan,Sunil Shetty
+Daag,(1973),(Social),Yash Chopra,Rajesh Khanna,Sharmila Tagore,Priyanka
+Daayen Ya Baayen,(2010),(Drama),Bela Negi,Deepak Dobriyal,Manav Kaul,Aditi Beri
+Dacait,(1987),(Action),Rahul Rawail,Sunny Deol,Urmila Matondkar,Meenakshi Sheshadri
+Daddy,(1991),(Drama Family),Mahesh Bhatt,Pooja Bhatt,Anupam Kher,Aakash Khurana
+Daku,(1975),(Social),Basu Bhattacharya,Amrish Puri,Kabir Bedi,Vijay Arora
+E M I,(2008),(Drama),Saurabh Kabra,Sanjay Dutt,Arjun Rampal,Urmila Matondkar
+Ek Main Aur Ekk Tu,(2012),(Comedy Romance),Shakun Batra,Imran Khan,Kareena Kapoor Khan,Nikhil Kapoor
+Ek Second Jo Zindagi Badal De,(2010),(Thriller),Partho Ghosh,Jackie Shroff,Manisha Koirala,Suniiel Singh
+Ek Tha Tiger,(2012),(Romance Thriller),Kabir Khan,Salman Khan,Katrina Kaif,Ranvir Shorey
+Ek Vivaah Aisa Bhi,(2008),(Romance),Kaushik Ghatak,Sonu Sood,Isha Koppikar,Alok Nath
+Everybody Wants To Be Famous,(2013),(Drama),Sunil Pandey,Amitabh Bachchan
+Exclusion,(2014),(Drama),Deepa Mehta,Amitabh Bachchan,John Abraham,Seema Biswas
+Eeshwar,(1989),(Drama Social),K. Viswanath,Anil Kapoor,Saeed Jaffrey,Vinod Mehra
+Eik Dasttak,(2007),(Thriller),Shekhar S. Jha,Murli Sharma,Vineet Kumar,Liliput
+Ek Aadat,(2010),(Drama),Prakash Saini,Aryaman,Smita Gondkar,Vijay Raaz
+Ek Dastak,(2007),(Drama),Shekar,Vasundhara Das,Amit Behl,Narain Jha
+Ek Doctor Ki Maut,(1991),(Drama Social),Tapan Sinha,Shabana Azmi,Irfan,Pankaj Kapur
+Ek Duje Ke Liye,(1981),(Drama Romance),K. Balachander,Kamal Haasan,Rati Agnihotri,Madhavi
+Ek Hasina Thi,(2004),(Social Thriller),Sriram Raghavan,Urmila Matondkar,Saif Ali Khan,Seema Biswas
+Ek Pal,(1986),(Drama),Kalpana Lajmi,Naseeruddin Shah,Shabana Azmi,Sheeram Lagoo
+Ek Phool Do Mali,(1969),(Social),Devendra Goel,Balraj Sahni,Sadhana,Sanjay Khan
+Ek Rishtaa: The Bond of Love,(2001),(Drama Family),Suneel Darshan,Amitabh Bachchan,Akshay Kumar,Karisma Kapoor
+Ek Thi Rani Aisi Bhi,(2013),(Biographical Historical),Gulbahar Singh,Hema Malini,Vinod Khanna,Sachin Khedekar
+Ek Tho Chance,(2013),(Drama),Saeed Akhtar Mirza,Purab Kohli,Amrita Arora,Rajat Kapoor
+Ekaant,(2013),(Thriller),Sunil Pillai,Rannvijay Singh,Mahesh Manjrekar,Imaad Shah
+Ekk Deewana Tha,(2012),(Romance),Gautham Menon,Prateik Babbar,Amy Jackson,Sachin Khedekar
+Eklavya - The Royal Guard,(2007),(Drama),Vidhu Vinod Chopra,Amitabh Bachchan,Saif Ali Khan,Vidya Balan
+Elaan,(2005),(Action),Vikram Bhatt,Mithun Chakraborty,John Abraham,Lara Dutta
+English Vinglish,(2012),(Comedy Drama),Gauri Shinde,Sridevi,Priya Anand,Mehdi Nebbou
+Exchange Offer,(2013),(Comedy),Shivam Nair,Rahul Bose,Esha Deol,Naseeruddin Shah
+Ehsaas,(2001),(Drama Family),Mahesh Manjrekar,Sunil Shetty,Master Mayani Tandan,Rakhi Sawant
+Eight Shani,(2006),(Horror),Karan Razdan,Padmini Kolhapure,Meghna Naidu,Gulshan Grover
+Ek - The Power Of One,(2009),(Action),Sangeeth Sivan,Nana Patekar,Bobby Deol,Shriya Saran
+Ek Ajnabee,(2005),(Action),Apoorva Lakhia,Amitabh Bachchan,Arjun Rampal,Perizaad Zorabian
+Ek Alag Mausam,(2005),(Drama Social),K. P. Sasi,Rajit Kapur,Arjun Rampal,Renuka Shahane
+Ek Bura Aadmi,(2013),(Drama),Ishraq Shah,Kitu Gidwani,Raghubir Yadav,Arunoday Singh
+Ek Chalis Ki Last Local,(2007),(Drama),Sanjay Khanduri,Abhay Deol,Vinay Apte,Neha Dhupia
+Ek Dil Sau Afsane,(1963),(Social),R. C. Talwar,Raj Kapoor,Waheeda Rehman,Sadhana Roy Chowdhury
+Ek Din 24 Ghante,(2003),(Thriller),Anant Balani,Kabir Sadanand,Vineet Kumar,Rahul Bose
+Ek Eh 2.0,(2013),(Action Animation),Suparn Verma,Feroz Khan,Koena Mitra,Fardeen Khan
+Ek Hi Raasta,(1956),(Social),B. R. Chopra,Ashok Kumar,Sunil Dutt,Meena Kumari
+Ek Khiladi Ek Haseena,(2005),(Action),Suparn Verma,Fardeen Khan,Koena Mitra,Kay Kay Menon
+Ek Musafir Ek Hasina,(1962),(Social),Raj Khosla,Sadhana,Joy Mukherjee,Dhumal
+Ek Ruka Hua Faisla,(1986),(Drama Social),Basu Chatterjee,Deepak Kejriwal,Amitabh Srivastava,K. K. Raina
+Ek Se Bure Do,(2009),(Social),Tarique Khan,Arshad Warsi,Natassha,Natasha
+Ek Shriman Ek Shrimati,(1969),(Social),Bhappi Sonie,Shashi Kapoor,Dhumal,Prem Chopra
+Enemmy,(2013),(Thriller Crime),Ashu Trikha,Mithun Chakraborty,Sunil Shetty,Kay Kay Menon
+Ek Aur Amar Premm,(2004),(Romance),H. Gautam,Inder Kumar,Rajeshwari Sachdev,Rajoo Shreshta
+Ek Aur Ek Gyarah,(2003),(Comedy),David Dhawan,Jackie Shroff,Sanjay Dutt,Govinda
+Ek Aur Jung,(2001),(Action),Inayat Mahshar,Dharmendra,Raj Babbar,Mukesh Khanna
+Ek Aur Khal Nayak,(2010),(Drama),B. V. Ramana,Gopi Chand,Bhavna Rathod,Ashish Vidyarthi
+Ek Aur Visphot,(2002),(Drama Crime),M. I. Raj,Kishori Godbole,Asrani,Mahaveer Shah
+Ek Chhotisi Love Story,(2002),(Adult),Shashilal Nair,Saroj Bhargava,Manisha Koirala,Aditya Seal
+Fanaa,(2006),(Romance),Kunal Kohli,Aamir Khan,Kajol,Rishi Kapoor
+Fashion,(2008),(Romance),Madhur Bhandarkar,Priyanka Chopra,Kangna Ranaut,Mugdha Godse
+Fast Forward,(2009),(Drama Romance Thriller),Zaigam Ali Sayed,Adhyayan Suman,Akshay Kapoor,Vinod Khanna
+Ferrari Ki Sawaari,(2012),(Comedy Drama Family Sports),Rajesh Mapuskar,Sharman Joshi,Boman Irani,Ritvik Sahore
+Firaaq,(2009),(Drama),Nandita Das,Naseeruddin Shah,Paresh Rawal,Tisca Chopra
+Fiza,(2000),(Drama),Khalid Mohamed,Karisma Kapoor,Hrithik Roshan,Jaya Bachchan
+Fox,(2009),(Thriller),Deepak Tijori,Sunny Deol,Arjun Rampal,Sagarika Ghatge
+Freedom,(2013),(Thriller Patriotic),Vivek Agnihotri,Sanjay Dutt,R. Madhavan
+Faisla - The Final Judgement,(2008),(Drama),Bharathan,Mumait Khan,Sayaji Shinde,Prabhakar
+Fame,(2013),(Comedy),Tigmanshu Dhulia,Govinda,Sunil Shetty,Kay Kay Menon
+Familywala,(2013),(Comedy Drama),Neeraj Vora,Arjun Rampal,Dia Mirza,Paresh Rawal
+Fantastic,(2013),(Comedy),Sanjay Chhel,Konkona Sen Sharma,Paresh Rawal,Rahul Khanna
+Faraar,(1975),(Social),Shankar Mukherjee,Amitabh Bachchan,Sanjeev Kumar,Sharmila Tagore
+Fatso,(2012),(Comedy Romance),Rajat Kapoor,Ranvir Shorey,Gul Panag,Purab Kohli
+Fear,(2007),(Horror),Vikram Bhatt,Alisha,Ameet Gaurr,Vishwas Pandya
+Feel The Love,(2007),(Romance),Shakeel S. Saifee,Raj
+Fever,(2013),(Romance),Rajeev Jhaveri,Rajeev Khandelwal,Barbara Mori
+Fida,(2004),(Drama),Ken Ghosh,Shahid Kapoor,Kareena Kapoor Khan,Fardeen Khan
+Fight Club,(2006),(Action),Vikram Chopra,Sunil Shetty,Zayed Khan,Dino Morea
+Filhaal,(2002),(Drama),Meghna Gulzar,Tabu,Sushmita Sen,Sanjay Suri
+Fool N Final,(2007),(Action),Ahmed Khan,Jackie Shroff,Shahid Kapoor,Sunny Deol
+Footpath,(2003),(Action Drama),Vikram Bhatt,Aftab Shivdasani,Bipasha Basu,Emraan Hashmi
+For Real,(2010),(Drama),Sona Jain,Sarita Choudhury,Sameer Dharmadhikari,Zoya Hasan
+Formula No 44,(2013),(Action Thriller),Samir Karnik,Bobby Deol,Vatsal Seth,Sohail Khan
+Fakira,(1976),(Social),C. P. Dixit,Shashi Kapoor,Shabana Azmi,Asrani
+Family - Ties Of Blood,(2006),(Action),Raj Kumar Santoshi,Akshay Kumar,Amitabh Bachchan,Aryaman
+Fareb,(2005),(Drama),Deepak Tijori,Manoj Bajpai,Shilpa Shetty Kundra,Shamita Shetty
+Farz,(2001),(Action),Raj Kanwar,Jackie Shroff,Sunny Deol,Preity Zinta
+Farz,(1967),(Social),Ravikant Nagaich,Jeetendra,Babita,Aruna Irani
+Fauj Mein Mauj,(2013),(Comedy),Murli Nagavalli,Mallika Sherawat,Paresh Rawal,Rajpal Yadav
+Fired,(2013),(Horror Thriller),Sajit Warrier,Rahul Bose,Militza Radmilovic,Dinesh Lamba
+Friends Forever,(2013),(Comedy Romance Animation),Soumitra Ranade,Ashmit Patel,Hrishita Bhatt,Shweta Koknur
+Friendship,(2007),(Drama),Priyadarshan,Tabu,Jyotika,Sharbani Mukherjee
+Front Page,(2013),(Drama),Mahesh Kothare,Boman Irani
+Frozen,(2009),(Drama Social),Shivajee Chandrabhushan,Danny Denzongpa,Gauri,Skalzang Angchuk Gultuk
+Fruit & Nut,(2009),(Comedy),Kunal Vijaykar,Cyrus Broacha,Dia Mirza,Boman Irani
+F.A.L.T.U.,(2011),(Drama Social),Remo D'Souza,Jackky Bhagnani,Pooja Gupta,Riteish Deshmukh
+Faraar,(2011),(Action Thriller),Santosh Gupta,Akbar Khan,Kanan Malhotra,Shikha Chitambre
+Fashion,(1943),(Social),S. F. Hussein,Chandramohan,Sardar Akhtar
+Film Star,(2005),(Drama),Tanuja Chandra,Priyanshu Chatterjee,Mahima Chaudhry,Vasundhara Das
+Fun ...Can Be Dangerous Sometimes,(2005),(Action),Sanjay S. Zaveri,Sidharth Koirala,Mallika Nayyar,Aryan Vaid
+Fun2Shh.......Dudes In The 10Th Century,(2003),(Comedy),Imtiaz Punjabi,Amitabh Bachchan,Kader Khan,Paresh Rawal
+Funtoosh,(1956),(Social),Chetan Anand,Dev Anand,Sheila Ramani,Leela Chitnis
+Faasla,(1976),(Social),K. A. Abbas,Shabana Azmi,Raman Khanna
+Faasle,(1985),(Romance Social),Yash Chopra,Sunil Dutt,Rekha,Farooque Shaikh
+Faisla,(1965),(Action),Jugal Kishore,Jugal Kishore,Sheikh Mukhtar,Jagdeep
+Faisla,(1947),(Social),Apura Mitra,Kanan Devi,Paresh Bandyopadhyay
+Fakhre Islam,(1937),(Costume),N. Vakil,Safdar Mirza,Khatoon,Rashida,Gulam Sabir
+Gadar - Ek Prem Katha,(2001),(Romance),Anil Sharma,Sunny Deol,Ameesha Patel,Vivek Shauq
+Game,(2007),(Action),Shivram Yadav,Sameer Dharmadhikari,Prashant Narayanan
+Gangster,(2006),(Romance),Anurag Basu,Emraan Hashmi,Kangna Ranaut,Shiney Ahuja
+Garam Masala,(2005),(Comedy),Priyadarshan,Akshay Kumar,John Abraham,Rimi Sen
+Garjann,(2013),(Thriller),Abbas Burmawala,Mustan Burmawala,Amitabh Bachchan
+Ghajini,(2008),(Action Social),A. R. Murugadoss,Aamir Khan,Asin Thottumkal,Jiah Khan
+Ghatak,(1996),(Action),Raj Kumar Santoshi,Sunny Deol,Meenakshi Sheshadri,Amrish Puri
+Ghayal,(1990),(Action),Raj Kumar Santoshi,Sunny Deol,Meenakshi Sheshadri,Amrish Puri
+God Tussi Great Ho,(2008),(Comedy Romance),Rumi Jaffrey,Amitabh Bachchan,Salman Khan,Snehal Dabhi
+Gol Maal,(1979),(Comedy),Hrishikesh Mukherjee,Amol Palekar,Utpal Dutta,Bindiya Goswami
+Golmaal 3,(2010),(Comedy),Rohit Shetty,Ajay Devgn,Kareena Kapoor Khan,Mithun Chakraborty
+Golmaal Returns,(2008),(Comedy),Rohit Shetty,Ajay Devgn,Kareena Kapoor Khan,Arshad Warsi
+Golmaal: Fun Unlimited,(2006),(Comedy),Rohit Shetty,Ajay Devgn,Rimi Sen,Arshad Warsi
+Great Daddu,(2013),(Drama Sports),Abhishek Chaddha,Amitabh Bachchan,Hema Malini,Sanjay Dutt
+Guide,(1965),(Social),Vijay Anand,Dev Anand,Waheeda Rehman,Kishore Sahu
+Gulaal,(2009),(Drama),Anurag Kashyap,Kay Kay Menon,Deepak Dobriyal,Aditya Srivastav
+Gulel,(2013),(Drama Thriller),Aparna Sen,Ranbir Kapoor,Kareena Kapoor Khan,Bipasha Basu
+Gullu Dada Returns,(2010),(Comedy),Adnan Sajid Khan,Aziz Naser,Shagufa Zareen,Adnan Sajid Khan
+Gupt,(1997),(Suspense),Rajiv Rai,Bobby Deol,Kajol,Manisha Koirala
+Guru,(2007),(Biopic),Mani Ratnam,Abhishek Bachchan,Aishwarya Rai-Bachchan,R. Madhavan
+Guzaarish,(2010),(Drama),Sanjay Leela Bhansali,Hrithik Roshan,Aishwarya Rai-Bachchan,Aditya Roy Kapur
+Gabbar Singh,(2007),(Drama),Kanti Shah,Dinesh Lal Yadav
+Gali Gali Chor Hai,(2012),(Comedy Drama),Rumi Jaffrey,Akshaye Khanna,Mugdha Godse,Shriya Saran
+Game On,(2013),(Drama),Nupur Asthana,Tabu,R. Madhavan
+Gandhi - My Father,(2007),(Drama),Feroz Abbas Khan,Akshaye Khanna,Darshan Jariwala,Bhoomika Chawla
+Ganga Jamuna,(1961),(Action),Nitin Bose,Dilip Kumar,Vyjayanthimala,Leela Chitnis
+Ganga Jamuna Saraswati,(1988),(Action),Manmohan Desai,Mithun Chakraborty,Amitabh Bachchan,Meenakshi Sheshadri
+Gangaajal,(2003),(Drama Social),Prakash Jha,Ajay Devgn,Mohan Joshi,Mukesh Tiwari
+Gangs Of Wasseypur,(2012),(Action Thriller Crime),Anurag Kashyap,Manoj Bajpai,Nawazuddin Siddiqui,Piyush Mishra
+Gardish,(1993),(Action),Priyadarshan,Jackie Shroff,Dimple Kapadia,Aishwarya
+Garv: Pride and Honour,(2004),(Action),Puneet Issar,Salman Khan,Amrish Puri,Anupam Kher
+Gautam Buddha,(2007),(Devotional),Allani Sridhar,Sunil Sharma,Anan Varma,Puneet Issar
+Gayab,(2004),(Comedy),Prawal Raman,Tusshar Kapoor,Antra Mali,Govind Namdeo
+Geng,(2010),(Children Animation),Nizam Razak,Nur Fathiah Diaz,Amir Izwan,Balqis Fadhullah Lee
+Geraftaar,(1985),(Drama),Praayag Raaj,Amitabh Bachchan,Kamal Haasan,Rajinikanth
+Ghar,(1978),(Social),Manick Chatterjee,Vinod Mehra,Rekha,Prema Narayan
+Gharaonda,(1977),(Drama Social),Bhimsen,Amol Palekar,Zarina Wahab,Shreeram Lagoo
+Ghayal Returns,(2013),(Action),Ashwini Chaudhary,Sunny Deol,Om Puri,Murli Sharma
+Ghulam,(1998),(Action),Vikram Bhatt,Aamir Khan,Rani Mukerji,Sharat Saxena
+Ghulami,(2013),(Action),Tigmanshu Dhulia,Sunny Deol,Sameera Reddy
+Go,(2007),(Action),Manish Srivastav,Priyanka Kothari,Rajpal Yadav,Kay Kay Menon
+Go Goa Gone,(2013),(Comedy),Krishna D. K.,Raj Nidimoru,Saif Ali Khan,Kunal Khemu,Vir Das
+Godmother,(1999),(Biopic),Vinay Shukla,Shabana Azmi,Sharman Joshi,Vineet Kumar
+Good Boy - Bad Boy,(2007),(Comedy Drama),Ashwini Chaudhary,Tusshar Kapoor,Emraan Hashmi,Isha Sharvani
+Good Luck,(2008),(Comedy),Aaditya Datt,Aryaman,Sayali Bhagat,Ranvir Shorey
+Grand Masti,(2013),(Comedy),Indra Kumar,Riteish Deshmukh,Vivek Oberoi,Aftab Shivdasani
+Guddi,(1971),(Social),Hrishikesh Mukherjee,Jaya Bachchan,Samit Bhanja,Utpal Dutta
+Guftagoo,(2013),(Comedy),Sagar Ballary,Vinay Pathak,Ranvir Shorey
+Gumnaam,(1965),(Suspense),Raja Navathe,Manoj Kumar,Nanda,Pran
+Haal-e-dil,(2008),(Romance),Anil Devgan,Nakuul Mehta,Amita Pathak,Adhyayan Suman
+Halla Bol,(2008),(Drama),Raj Kumar Santoshi,Ajay Devgn,Vidya Balan,Pankaj Kapur
+Hanuman,(2005),(Children Animation),V. G. Samant,Mukesh Khanna
+Happy Birthday,(2014),(Science Fiction),Sriram Raghavan,John Abraham,Aishwarya Rai-Bachchan,Paresh Rawal
+Happy New Year,(2014),(Comedy Romance),Farah Khan,Deepika Padukone,Shah Rukh Khan,Abhishek Bachchan
+Hara,(2013),(Animation),K. S. Ravikumar,Soundarya Rajinikanth,Rajinikanth,Vijayalakshmi,Rahul Dev
+Hate Story,(2012),(Drama Thriller),Vivek Agnihotri,Gulshan Devaiya,Paoli Dam,Nikhil Dwivedi
+Heartbreaker Remake,(2013),(Comedy Romance),Karan Johar,Shah Rukh Khan
+Heer And Ranjha,(2013),(Romance),Sabbir Khan,Shahid Kapoor,Deepika Padukone
+Hello,(2008),(Drama),Atul Agnihotri,Sohail Khan,Sharman Joshi,Amrita Arora
+Hello Darling,(2010),(Comedy),Manoj Tiwari,Celina Jaitley,Gul Panag,Isha Koppikar
+Hello Hum Lallan Bol Rahe Hain,(2010),(Comedy),Dilip Shukla,Rajpal Yadav,Preeti Mehra,Ravi Zhankal
+Hello Zindagi,(2010),(Drama),Raja Unnithan,Mrunmayee Lagoo,Milind Gunaji,Neena Gupta
+Help,(2010),(Drama Horror),Rajeev Virani,Bobby Deol,Mugdha Godse,Sophia Handa
+Hera Pheri,(2000),(Comedy),Priyadarshan,Akshay Kumar,Sunil Shetty,Paresh Rawal
+Hera Pheri 4,(2013),(Comedy),Anees Bazmee,Akshay Kumar,Sunil Shetty,Paresh Rawal
+Hero No. 1,(1997),(Comedy),David Dhawan,Govinda,Karisma Kapoor,Paresh Rawal
+Heroes,(2008),(Drama),Samir Karnik,Sohail Khan,Vatsal Seth,Salman Khan
+Heroine,(2012),(Drama),Madhur Bhandarkar,Kareena Kapoor Khan,Arjun Rampal,Randeep Hooda
+Heyy Babyy,(2007),(Comedy),Sajid Khan,Akshay Kumar,Vidya Balan,Fardeen Khan
+Hide & Seek,(2010),(Romance Thriller),Sean Arranha,Purab Kohli,Arjan Bajwa,Samir Kochar
+Hissss,(2010),(Drama),Jennifer Chambers Lynch,Mallika Sherawat,Irrfan Khan,Divya Dutta
+Honeymoon Travels Pvt. Ltd.,(2007),(Comedy Romance),Reema Kagti,Shabana Azmi,Boman Irani,Kay Kay Menon
+Hook Ya Crook,(2013),(Comedy Sports),David Dhawan,John Abraham,Genelia D'Souza-Deshmukh,Kay Kay Menon
+Horn Ok Pleassss,(2009),(Comedy),Rakesh Sarang,Nana Patekar,Muzammil Ibrahim,Rimi Sen
+Housefull,(2010),(Comedy Romance),Sajid Khan,Akshay Kumar,Deepika Padukone,Riteish Deshmukh
+Housefull 2,(2012),(Action Comedy),Sajid Khan,Akshay Kumar,Asin Thottumkal,John Abraham
+Hu Tu Tu,(1999),(Drama Political),Gulzar,Tabu,Sunil Shetty,Nana Patekar
+Hulchul,(2004),(Comedy),Priyadarshan,Akshaye Khanna,Kareena Kapoor Khan,Paresh Rawal
+Hulla,(2008),(Drama),Jaideep Varma,Sushant Singh,Kartika Rane,Rajat Kapoor
+Hum,(1991),(Action),Mukul S. Anand,Amitabh Bachchan,Rajinikanth,Govinda
+Hum Aapke Dil Mein Rehte Hain,(1999),(Romance),Satish Kaushik,Anil Kapoor,Kajol,Anupam Kher
+Hum Aapke Hai Kaun,(1994),(Drama Family Romance),Sooraj R. Barjatya,Salman Khan,Madhuri Dixit-Nene,Mohnish Behl
+Hum Dil De Chuke Sanam,(1999),(Romance),Sanjay Leela Bhansali,Salman Khan,Aishwarya Rai-Bachchan,Ajay Devgn
+Hum Hain Rahi Pyar Ke,(1993),(Drama),Mahesh Bhatt,Aamir Khan,Juhi Chawla,Master Sharokh
+Hum Kisise Kum Nahi,(1977),(Thriller),Nazir Hussain,Rishi Kapoor,Tariq,Kajal Kiran
+Hum Saath Saath Hain,(1999),(Drama Family),Sooraj R. Barjatya,Salman Khan,Mohnish Behl,Saif Ali Khan
+Hum Tum,(2004),(Romance),Kunal Kohli,Saif Ali Khan,Rani Mukerji,Rishi Kapoor
+Hum Tum Aur Ghost,(2010),(Drama),Kabeer Kaushik,Arshad Warsi,Dia Mirza,Boman Irani
+Hungama,(2003),(Comedy),Priyadarshan,Aftab Shivdasani,Rimi Sen,Akshaye Khanna
+Haathi Mere Sathi,(1971),(Family Social),M. Thirumugam,Rajesh Khanna,Tanuja,Jr. Mehmood
+Hadh Kar Di Aapne,(2000),(Comedy),Manoj Agarwal,Govinda,Rani Mukerji,Johnny Lever
+Hairaan,(1993),(Drama),Ram Gopal Varma,Rami Reddy,Sridevi,Venraj Bhatia
+Half Ticket,(1962),(Comedy),Kalidas,Kishore Kumar,Shammi Kapoor,Madhubala
+Halo,(2000),(Children),Santosh Sivan,Benaf Dadachandji,Mukesh Rishi,Tinu Anand
+Hamara Dil Aapke Paas Hai,(2000),(Drama),Satish Kaushik,Anil Kapoor,Aishwarya Rai-Bachchan,Sonali Bendre
+Hamari Ranbhoomi,(2008),(Drama),Y. U. S. Chowdhary,Hari Krishna,Simran,Soundarya
+Hanuman Returns,(2007),(Children Animation),Anurag Kashyap,Daler Mehndi,Hrishikesh Kamerkar,Francois
+Haqeeqat,(1964),(Social),Chetan Anand,Balraj Sahni,Dharmendra,Priya Rajvansh
+Har Dil Jo Pyar Karega,(2000),(Romance),Raj Kanwar,Salman Khan,Rani Mukerji,Preity Zinta
+I Am Hariprasad,(2013),(Drama),Prem Soni,Salman Khan
+I Hate Luv Storys,(2010),(Drama Romance),Punit Malhotra,Imran Khan,Sonam Kapoor,Sameer Dattani
+Idiot Box,(2010),(Comedy Drama),Sunando Mitra,Hrishita Bhatt,Sushant Singh,Reema Lagoo
+Iqbal,(2005),(Drama Sports),Nagesh Kukunoor,Shreyas Talpade,Naseeruddin Shah,Shweta Prasad
+Ishq,(1997),(Romance),Indra Kumar,Aamir Khan,Ajay Devgn,Juhi Chawla
+Ishq Vishk,(2003),(Romance),Ken Ghosh,Shahid Kapoor,Amrita Rao,Vishal Malhotra
+Ishqiya,(2010),(Thriller),Abhishek Chaubey,Naseeruddin Shah,Vidya Balan,Arshad Warsi
+I AM,(2011),(Social),Onir,Sanjay Suri,Radhika Apte,Shernaz Patel
+I Am In Love,(2007),(Romance),B. M. Mirza,Nafisa Khan,Pinky Manihar,Siddharth Shukla
+I Love NY,(2013),(Comedy),Radhika Rao,Vinay Sapru,Sunny Deol,Kangna Ranaut,R. Madhavan
+I M 24,(2012),(Comedy Social),Saurabh Shukla,Rajat Kapoor,Ranvir Shorey,Neha Dhupia
+I See U,(2006),(Romance),Vivek Agarwal,Hrithik Roshan,Shah Rukh Khan,Arjun Rampal
+I - Me Aur Main,(2013),(Comedy Romance),Kapil Sharma,John Abraham,Chitrangada Singh,Prachi Desai
+Ijaazat,(1988),(Drama),Gulzar,Naseeruddin Shah,Rekha,Anuradha Patel
+In Aankhon Kaa Chakkar,(2013),(Comedy),Faroogh Siddiqui,Dharmendra,Raj Babbar,Farah
+Inquilaab,(1984),(Drama Political),T. Rama Rao,Amitabh Bachchan,Sridevi,Utpal Dutta
+Insaaf Ka Tarazu,(1980),(Suspense),B. R. Chopra,Zeenat Aman,Raj Babbar,Padmini Kolhapure
+Is Pyaar Ko Kya Naam Doon,(2014),(Romance),Rahul Rawail,John Abraham,Akanksha,Ranjeeta
+Is Raat Ki Subah Nahi,(1996),(Romance),Sudhir Mishra,Nirmal Pandey,Tara Deshpande,Smriti Mishra
+Ishkq In Paris,(2013),(Comedy Romance),Prem Soni,Preity Zinta,Gaurav Chanana,Rhehan Malliek
+It's My Life,(2013),(Drama Romance),Anees Bazmee,Harman Baweja,Genelia D'Souza-Deshmukh,Nana Patekar
+Ittefaq,(1969),(Suspense),Yash Chopra,Rajesh Khanna,Nanda,Jagirdar
+I Proud To Be An Indian,(2004),(Drama),Puneet Sira,Sohail Khan,Kulbhushan Kharbanda,Aasif Sheikh
+India Rocks,(2013),(Musical),Aditya Raj Kapoor,Mimoh Chakraborty,Riya Sen,Eleanor Glynn
+Inkaar,(1977),(Suspense),Raj N. Sippy,Vinod Khanna,Rakesh Roshan,Lily Chakraborty
+Insaan,(1982),(Drama),Narendra Bedi,Jeetendra,Vinod Khanna,Reena Roy
+Insaan,(2005),(Action),K. Subhash,Akshay Kumar,Ajay Devgn,Lara Dutta
+Inteha,(2003),(Drama Thriller),Vikram Bhatt,Nauheed Cyrusi,Vidya Malavade,Avtar Gill
+Inteqam,(1969),(Social),R. K. Nayyar,Ashok Kumar,Sadhana,Sanjay Khan
+Iqraar By Chance,(2006),(Drama),K. Ravi Shankar,Rahul Dev,Arbaaz Khan,Tiku Talsania
+Ishaan,(2013),(Drama),Anthony D'Souza,Chunkey Pandey,Shreyas Talpade,Esha Deol
+Ishaqzaade,(2012),(Action Romance),Habib Faisal,Arjun Kapoor,Parineeti Chopra,Anil Rastogi
+Ishq Hai Tumse,(2004),(Romance),G. Krishna,Deno Moria,Bipasha Basu,Dino Morea
+Issaq,(2013),(Romance Thriller),Manish Tiwary,Prateik Babbar,Amyra Dastur,Ravi Kishan
+It's Breaking News,(2007),(Drama),Vishal Inamdar,Koel Purie,Swati Sen,Vinay Apte
+Izzat,(1968),(Social),T. Prakash Rao,Balraj Sahni,Dharmendra,Manmohan Krishna
+Icy N Spicy,(2007),(Fantasy Animation),Anil Goel,Aakash Ahuja,Siraj Khan,Babla Khochar
+Idiot,(1992),(Drama),Mani Kaul,Shah Rukh Khan,Mita Vashisth
+Impatient Vivek,(2011),(Comedy Romance),Rahat Kazmi,Vivek Sudharshan,Sayali Bhagat
+Indian,(2001),(Drama),N. Maharajan,Sunny Deol,Raj Babbar,Shilpa Shetty Kundra
+Indian Babu,(2003),(Drama),Lawrence D'Souza,Johnny Lever,Alok Nath,Mohan Joshi
+Indra The Tiger,(2002),(Action),B. Gopal,Chiranjeevi,Sonali Bendre,Aarti Agarwal
+Insaaf -The Justice,(2004),(Action),Shrey Shrivastav,Amitabh Bachchan,Sanjay Suri,Dino Morea
+Insaniyat,(1955),(Costume),S. S. Vasan,Dilip Kumar,Dev Anand,Bina Rai
+Inteqam,(2001),(Drama),Aslam Azmi,Harish,Jeet Upendra,Akshay Anand
+Inteqam -The Perfect Game,(2004),(Action),Pankuj Parashar,Manoj Bajpai,Sharat Saxena,Vani Tripathi
+Inth Ka Jawaab Patthar,(2001),(Drama),S. Sachindra,Puru Raj Kumar,Deepak Shirke,Divya Dutta
+Ishq Ho Gaya Mamu,(2013),(Comedy),Sumbul-Gazi,Pratima Kazmi,Rajesh Vivek,Mushtaq Khan
+Ishq Mein Pagal,(2013),(Romance),Naresh Punjabi,Numain Mahiti Calcuttawala,Aryan Singh,Alok Singh
+Ishq Qayamat,(2004),(Drama),V. Menon,Shehzad Khan,Deepak Jethi,Suman Ranganathan
+Jaane Bhi Do Yaaron,(1983),(Comedy),Kundan Shah,Naseeruddin Shah,Ravi Baswani,Bhakti Barve
+Jaane Kahan Se Aayi Hai,(2010),(Comedy Fantasy Romance),Milap Milan Zaveri,Riteish Deshmukh,Jacqueline Fernandez,Ruslaan Mumtaz
+Jaane Kya Tune Kahi,(2014),(Romance),Abbas Tyrewala,Imran Khan,John Abraham,Genelia D'Souza-Deshmukh
+Jaane Tu...Ya Jaane Na,(2008),(Comedy Romance),Abbas Tyrewala,Imran Khan,Genelia D'Souza-Deshmukh,Manjari Phadnis
+Jab Jab Fools Mile,(2013),(Comedy),Sangeeth Sivan,Sanjay Dutt,Bobby Deol
+Jab We Met,(2007),(Romance),Imtiaz Ali,Shahid Kapoor,Kareena Kapoor Khan,Tarun Arora
+Jai Veeru,(2009),(Comedy),Puneet Sira,Fardeen Khan,Kunal Khemu,Dia Mirza
+Jail,(2009),(Drama),Madhur Bhandarkar,Neil Nitin Mukesh,Mugdha Godse,Manoj Bajpai
+Jannat,(2008),(Drama Sports),Kunal Deshmukh,Emraan Hashmi,Sonal Chauhan,Javed Shaikh
+Jewel Thief,(1967),(Suspense),Vijay Anand,Dev Anand,Vyjayanthimala,Ashok Kumar
+Jhankaar Beats,(2003),(Comedy),Sujoy Ghosh,Juhi Chawla,Sanjay Suri,Rahul Bose
+Jhootha Hi Sahi,(2010),(Comedy Romance),Abbas Tyrewala,John Abraham,Pakhi Tyrewala,Raghu Ram
+Jism,(2003),(Thriller Adult),Amit Saxena,John Abraham,Bipasha Basu,Gulshan Grover
+Jism 2,(2012),(Drama Romance Thriller Adult Crime),Pooja Bhatt,Sunny Leone,Randeep Hooda,Arunoday Singh
+Jodhaa Akbar,(2008),(Romance),Ashutosh Gowariker,Hrithik Roshan,Aishwarya Rai-Bachchan,Sonu Sood
+Jodi Breakers,(2012),(Romance),Ashwini Chaudhary,R. Madhavan,Bipasha Basu,Omi Vaidya
+Johnny Gaddaar,(2007),(Suspense),Sriram Raghavan,Neil Nitin Mukesh,Dharmendra,Rimi Sen
+Johny Mera Naam,(1970),(Action),Vijay Anand,Vijay Anand,Dev Anand,Hema Malini,Pran
+Johny Walker,(2013),(Drama),Shoojit Sircar,Amitabh Bachchan
+Joker,(2012),(Comedy Drama Fantasy),Adventure,Shirish Kunder,Akshay Kumar,Sonakshi Sinha,Shreyas Talpade
+Jolly LLB,(2013),(Comedy Drama),Subhash Kapoor,Arshad Warsi,Amrita Rao,Harsh Chhaya
+Jugaad,(2009),(Drama),Anand Kumar,Manoj Bajpai,Hrishita Bhatt,Vijay Raaz
+Jumbo,(2008),(Children Animation),Kompin Kemgumnird,Akshay Kumar,Lara Dutta,Dimple Kapadia
+Jaan-E-Mann: Let's Fall in Love... Again,(2006),(Romance),Shirish Kunder,Akshay Kumar,Salman Khan,Preity Zinta
+Jab Pyar Kisi Se Hota Hai,(1998),(Romance),Deepak Sareen,Salman Khan,Twinkle Khanna,Anupam Kher
+Jackpot,(2013),(Suspense Thriller),Amitabh Varma,Konkona Sen Sharma,Ranvir Shorey
+Jai Ramji,(2013),(Comedy),Tigmanshu Dhulia,Arjun Rampal,Jacqueline Fernandez
+Jai Santoshi Maa,(1975),(Musical),Vijay Sharma,Bhagwan,Bharat Bhushan,Neelam
+Jal,(2014),(Social),Girish Mallik,Purab Kohli,Tannishtha Chatterjee,Mukul Dev
+Jalwa,(1987),(Action),Pankuj Parashar,Naseeruddin Shah,Amitabh Bachchan,Kamini Kaushal
+Jannat 2,(2012),(Drama Thriller Crime),Kunal Deshmukh,Emraan Hashmi,Randeep Hooda,Esha Gupta
+Jashnn,(2009),(Musical),Raksha Mistry,Hasnain Hyderabadwala,Adhyayan Suman,Anjana Sukhani,Shahana Goswami
+Jawab,(1985),(Drama Social),Ravi Tandon,Raj Babbar,Smita Patil,Danny Denzongpa
+Jawani Diwani- A Youthful Ride,(2006),(Drama),Manish Sharma,Emraan Hashmi,Celina Jaitley,Mahesh Manjrekar
+Jayanta Bhai Ki Luv Story,(2013),(Action Drama),Vinnil Markan,Vivek Oberoi,Neha Sharma,Shishir Sharma
+Jhanak Jhanak Payal Baje,(1955),(Social),V. Shantaram,Sandhya,Gopi Krishna,Nana Palsikar
+Jhoom Barabar Jhoom,(2007),(Romance),Shaad Ali,Abhishek Bachchan,Preity Zinta,Lara Dutta
+Jhuk Gaya Aasman,(1968),(Fantasy),Lekh Tandon,Rajendra Kumar,Saira Banu,Durga Khote
+Jimmy,(2008),(Drama Musical Thriller),Raj N. Sippy,Mimoh Chakraborty,Pooja Singh,Vikas Kalantri
+Jis Desh Men Ganga Behti Hai,(1960),(Social),Radhu Karmarkar,Raj Kapoor,Padmini,Pran
+Jo Bole So Nihaal,(2005),(Action),Rahul Rawail,Sunny Deol,Kamal Khan,Shilpi Sharma
+Jo Jeeta Wohi Sikandar,(1992),(Romance),Mansoor Khan,Aamir Khan,Deepak Tijori,Ajit Vachani
+Jodi No.1,(2001),(Comedy),David Dhawan,Govinda,Sanjay Dutt,Twinkle Khanna
+Jogger's Park,(2003),(Drama Social),Anant Balani,Perizaad Zorabian,Victor Banerjee,Khalid Siddiqui
+Josh,(2000),(Drama),Mansoor Khan,Shah Rukh Khan,Aishwarya Rai-Bachchan,Chandrachur Singh
+Joshilaay,(1989),(Action),Sibte Hasan Rizvi,Anil Kapoor,Sunny Deol,Sridevi
+Judaai,(1997),(Drama Family),Raj Kanwar,Anil Kapoor,Sridevi,Urmila Matondkar
+Julie,(1975),(Drama Family),K. S. Sethumadhavan,Utpal Dutta,Om Prakash,Achala Sachdev
+Junction,(2013),(Drama),Atul Sabharwal,Abhay Deol,Vidya Malavade,Shilpa Shukla
+Jungle,(2000),(Action),Ram Gopal Varma,Sunil Shetty,Fardeen Khan,Urmila Matondkar
+Kaagaz Ke Phool,(1959),(Social),Guru Dutt,Guru Dutt,Waheeda Rehman,Naaz
+Kaamwali,(2009),(Drama Adult),Suresh Jain,Akhtar Khan,Urmila,Vijay Dhadia
+Kaante,(2002),(Action),Sanjay Gupta,Amitabh Bachchan,Sanjay Dutt,Sunil Shetty
+Kabhi Alvida Na Kehna,(2006),(Romance),Karan Johar,Shah Rukh Khan,Amitabh Bachchan,Abhishek Bachchan
+Kabhi Haan Kabhi Naa,(1994),(Romance),Kundan Shah,Shah Rukh Khan,Suchitra Krishnamurty,Deepak Tijori
+Kabhi Khushi Kabhie Gham...,(2001),(Drama Family),Karan Johar,Amitabh Bachchan,Shah Rukh Khan,Hrithik Roshan
+Kahaani,(2012),(Drama Thriller),Sujoy Ghosh,Vidya Balan,Parambrato Chattopadhyay,Nawazuddin Siddiqui
+Kaho Naa... Pyaar Hai,(2000),(Romance),Rakesh Roshan,Hrithik Roshan,Ameesha Patel,Anupam Kher
+Kajraare,(2010),(Drama),Pooja Bhatt,Himesh Reshammiya,Monalaizza,Amrita Singh
+Kal Ho Naa Ho,(2003),(Romance),Nikhil Advani,Shah Rukh Khan,Saif Ali Khan,Preity Zinta
+Kambakkht Ishq,(2009),(Action Romance),Sabbir Khan,Akshay Kumar,Kareena Kapoor Khan,Brandon Routh
+Kaminey,(2009),(Action Drama Romance Crime),Vishal Bhardwaj,Shahid Kapoor,Priyanka Chopra,Amol Gupte
+Kandahar,(2013),(Action),Major Ravi,Amitabh Bachchan,Mohanlal,Ganesh Venkatraman
+Karan Arjun,(1995),(Action),Rakesh Roshan,Salman Khan,Shah Rukh Khan,Mamta Kulkarni
+Karma,(1986),(Drama),Subhash Ghai,Dilip Kumar,Nutan,Jackie Shroff
+Karma Aur Holi,(2009),(Drama),Manish Gupta,Sushmita Sen,Naomi Campbell,Randeep Hooda
+Karthik Calling Karthik,(2010),(Drama Romance Thriller),Vijay Lalwani,Farhan Akhtar,Deepika Padukone,Ram Kapoor
+Karz,(1980),(Drama Social),Subhash Ghai,Rishi Kapoor,Tina Munim,Simi Garewal
+Karzzzz,(2008),(Romance),Satish Kaushik,Himesh Reshammiya,Shweta Kumar,Urmila Matondkar
+Khakee,(2004),(Action),Raj Kumar Santoshi,Amitabh Bachchan,Akshay Kumar,Aishwarya Rai-Bachchan
+Khal Nayak,(1993),(Action),Subhash Ghai,Jackie Shroff,Madhuri Dixit-Nene,Sanjay Dutt
+Khamoshi The Musical,(1996),(Romance),Sanjay Leela Bhansali,Salman Khan,Manisha Koirala,Nana Patekar
+Khatta Meetha,(2010),(Comedy Romance),Priyadarshan,Akshay Kumar,Trisha Krishnan,Urvashi Sharma
+Khelein Hum Jee Jaan Sey,(2010),(Thriller Period),Ashutosh Gowariker,Abhishek Bachchan,Deepika Padukone,Sikander Kher
+Khichdi The Movie,(2010),(Comedy),Aatish Kapadia,Supriya Pathak,Anang Desai,Rajeev Mehta
+Khiladi 786,(2012),(Action Comedy),Ashish R. Mohan,Akshay Kumar,Himesh Reshammiya,Asin Thottumkal
+Khoon Bhari Maang,(1988),(Action),Rakesh Roshan,Rekha,Kabir Bedi,Sonu Walia
+Khosla Ka Ghosla,(2006),(Comedy),Dibakar Banerjee,Anupam Kher,Boman Irani,Parvin Dabbas
+Khote Sikkey,(2013),(Thriller),Soham Shah,Sanjay Dutt,Arjun Rampal,Nana Patekar
+Khuda Gawah,(1992),(Costume),Mukul S. Anand,Amitabh Bachchan,Sridevi,Danny Denzongpa
+Kick,(2014),(Action Romance),Sajid Nadiadwala,Salman Khan,Jacqueline Fernandez,Randeep Hooda
+Kidnap,(2008),(Suspense),Sanjay Gadhvi,Imran Khan,Minissha Lamba,Sanjay Dutt
+Kisaan,(2009),(Drama),Puneet Sira,Jackie Shroff,Sohail Khan,Arbaaz Khan
+Kismat Konnection,(2008),(Musical Romance),Aziz Mirza,Shahid Kapoor,Vidya Balan,Juhi Chawla
+Kismat Talkies,(2013),(Comedy Drama Thriller),Zoya Akhtar,Hrithik Roshan,Kareena Kapoor Khan
+Kisse Pyaar Karoon,(2009),(Romance),Ajay Chandok,Arshad Warsi,Ashish Choudhary,Udita Goswami
+Kites,(2010),(Action Romance Thriller),Anurag Basu,Hrithik Roshan,Barbara Mori,Kangna Ranaut
+Knock Out,(2010),(Drama),Mani Shankar,Sanjay Dutt,Irrfan Khan,Kangna Ranaut
+Koi... Mil Gaya,(2003),(Romance),Rakesh Roshan,Hrithik Roshan,Preity Zinta,Rekha
+Komagata Maru,(2013),(Historical),Deepa Mehta,Shreya,Akshay Kumar
+Koochie Koochie Hota Hai,(2013),(Animation),Tarun Mansukhani,Shah Rukh Khan,Kajol,Rani Mukerji
+Krantiveer,(1994),(Action),Mehul Kumar,Nana Patekar,Atul Agnihotri,Mamta Kulkarni
+Krantiveer - The Revolution,(2010),(Drama),Mehul Kumar,Nana Patekar,Dimple Kapadia,Jahan Bloch
+Krazzy 4,(2008),(Comedy),Jaideep Sen,Juhi Chawla,Arshad Warsi,Irrfan Khan
+Krrish,(2006),(Action),Rakesh Roshan,Hrithik Roshan,Priyanka Chopra,Naseeruddin Shah
+Krrish 3,(2013),(Action Romance Science Fiction),Rakesh Roshan,Hrithik Roshan,Rekha,Riya Sen
+Kuch Kuch Hota Hai,(1998),(Romance),Karan Johar,Shah Rukh Khan,Kajol,Rani Mukerji
+Kuchh Kariye,(2010),(Drama),Jagbir Dahiya,Sukhwinder Singh,Vikram Kumar,Rufy Khan
+Lafangey Parindey,(2010),(Action),Pradeep Sarkar,Neil Nitin Mukesh,Deepika Padukone,Piyush Mishra
+Lagaan,(2001),(Drama),Ashutosh Gowariker,Aamir Khan,Gracy Singh,Paul Blackthorne
+Lage Raho Munna Bhai,(2006),(Comedy),Rajkumar Hirani,Sanjay Dutt,Arshad Warsi,Vidya Balan
+Lahore,(2010),(Drama),Sanjay Puransingh Chauhan,Aanaahad,Farooq Shaikh,Saurabh Shukla
+Lajjo,(2013),(Comedy),Mani Ratnam,Aamir Khan,Kareena Kapoor Khan
+Lakshya,(2004),(War),Farhan Akhtar,Hrithik Roshan,Preity Zinta,Amitabh Bachchan
+Lamhaa,(2010),(Action Drama Political),Rahul Dholakia,Sanjay Dutt,Bipasha Basu,Kunal Kapoor
+Lamhe,(1991),(Romance),Yash Chopra,Anil Kapoor,Sridevi,Waheeda Rehman
+Lava-Kusa : The Warrior Twins,(2010),(Children Animation),Dhavala Satyam,Arun Govil,Robert Lang,Vindu Dara Singh
+Lekin,(1991),(Drama Social),Gulzar,Dimple Kapadia,Vinod Khanna,Amjad Khan
+Life Express,(2010),(Drama),Anup Das,Divya Dutta,Rituparna Sengupta,Alok Nath
+Life In A... Metro,(2007),(Drama),Anurag Basu,Shiney Ahuja,Shilpa Shetty Kundra,Sharman Joshi
+Life Partner,(2009),(Comedy Romance),Rumi Jaffrey,Akshaye Khanna,Fardeen Khan,Tusshar Kapoor
+London Dreams,(2009),(Musical),Vipul Shah,Salman Khan,Ajay Devgn,Asin Thottumkal
+Lootera,(2013),(Romance),Vikramaditya Motwane,Ranveer Singh,Sonakshi Sinha,Vikrant Massey
+Love Aaj Kal,(2009),(Drama),Imtiaz Ali,Saif Ali Khan,Deepika Padukone,Rishi Kapoor
+Love Ka Tadka,(2009),(Romance),Rajan Wagdare,Gautam Adhikari,Sameer Dattani,Nauheed Cyrusi,Rakesh Bedi
+Love Khichdi,(2009),(Comedy),Srinivas Bhashyam,Randeep Hooda,Sada,Riya Sen
+Love Sex Aur Dhokha,(2010),(Drama Romance),Dibakar Banerjee,Anshuman Jha,Shruti,Neha Chauhan
+Love Story 2050,(2008),(Romance),Harry Baweja,Harman Baweja,Priyanka Chopra,Boman Irani
+Luck,(2009),(Thriller),Soham Shah,Sanjay Dutt,Imran Khan,Shruti Haasan
+Luck By Chance,(2009),(Drama),Zoya Akhtar,Farhan Akhtar,Konkona Sen Sharma,Rishi Kapoor
+L.O.C. Kargil,(2003),(War),J. P. Dutta,Saif Ali Khan,Sanjay Dutt,Sunil Shetty
+Laaga Chunari Mein Daag,(2007),(Drama),Pradeep Sarkar,Rani Mukerji,Konkona Sen Sharma,Jaya Bachchan
+Lajja,(2001),(Drama Social),Raj Kumar Santoshi,Ajay Devgn,Manisha Koirala,Anil Kapoor
+Lakeer - Forbidden Lines,(2004),(Action),Ahmed Khan,Sunil Shetty,John Abraham,Sunny Deol
+Libaas,(1988),(Drama),Gulzar,Naseeruddin Shah,Shabana Azmi,Raj Babbar
+Life Mein Kabhie Kabhiee,(2007),(Drama),Vikram Bhatt,Dino Morea,Aftab Shivdasani,Sameer Dattani
+Loins Of Punjab Presents,(2007),(Comedy),Manish Acharya,Shabana Azmi,Seema Rehmani,Ayesha Dharker
+London-Paris-New York,(2012),(Comedy),Anu Menon,Ali Zafar,Aditi Rao Hydari,Dalip Tahil
+Lottery,(2009),(Comedy),Hemant Prabhu,Abhijeet Sawant,Sanjay Narvekar,Mukesh Tiwari
+Love Ke Liye Kuch Bhi Karega,(2001),(Comedy),E. Nivas,Saif Ali Khan,Fardeen Khan,Sonali Bendre
+Love Story,(1981),(Romance Social),Rahul Rawail,Kumar Gaurav,Vijeyta Pandit,Rajendra Kumar
+Lovesongs,(2008),(Drama),Jayabrato Chatterjee,Jaya Bachchan,Om Puri,Shahana Chatterjee
+Lucky - No Time For Love,(2005),(Romance),Radhika Rao,Vinay Sapru,Mithun Chakraborty,Salman Khan,Kader Khan
+Laal Batti,(2013),(Action Drama Romance),Arshad Siddiqui,Priyanshu Chatterjee,Laxmi Rai,Vijay Raaz
+Laat Saheb,(1967),(Social),Hari Walia,Shammi Kapoor,Nutan,Prem Chopra
+Laawaris,(1981),(Drama Social),Prakash Mehra,Amitabh Bachchan,Zeenat Aman,Mumtaz Begum
+Lahu Ke Do Rang,(1979),(Action),Mahesh Bhatt,Vinod Khanna,Shabana Azmi,Danny Denzongpa
+Lakhon Ki Baat,(1984),(Comedy),Basu Chatterjee,Sanjeev Kumar,Utpal Dutta,Farooq Shaikh
+Lara,(2013),(Drama),Deepak Bahry,Hrishita Bhatt,Arbaaz Khan,Deepshikha
+Leader,(1964),(Musical),Ram Mukerji,Dilip Kumar,Vyjayanthimala,Jayant
+Let's Dance,(2009),(Musical),Aarif Sheikh,Gayatri Patel,Master Abhaas,Master Paras
+Let's Enjoy,(2004),(Drama),Ankur Tewari,Siddarth Raj Anand,Ashish Choudhary,Shomendra Bose,Roshni Chopra
+Life Ise Gale Laga Le,(2013),(Romance),Yogesh Pagare,Adhyayan Suman,Divya Dutta,Sushant Singh
+Life Ki Toh Lag Gayi,(2012),(Comedy),Rakesh Mehta,Kay Kay Menon,Ranvir Shorey,Manu Rishi
+Life Reboot Nahi Hoti,(2013),(Romance Thriller),Avinash Nanda,Rajat Barmecha,Jennifer Winget,Meiyang Chang
+Life's Good,(2013),(Drama),Anant Mahadevan,Jackie Shroff,Rajit Kapur,Mohan Kapoor
+Lo..! Ho Gai Party,(2013),(Comedy),Tejas R. Padia,Satish Kaushik,Manoj Joshi,Anirudhh Dave
+Maachis,(1996),(Drama),Gulzar,Chandrachur Singh,Tabu,Om Puri
+Maalik Ek,(2010),(Devotional),Deepak Balraj Vij,Jackie Shroff,Smriti Irani,Divya Dutta
+Maan Gaye Mughall-E-Azam,(2008),(Comedy),Sanjay Chhel,Mallika Sherawat,Rahul Bose,Paresh Rawal
+Madhumati,(1958),(Social),Bimal Roy,Dilip Kumar,Vyjayanthimala,Pran
+Maharathi,(2008),(Drama),Shivam Nair,Paresh Rawal,Naseeruddin Shah,Neha Dhupia
+Main Aurr Mrs Khanna,(2009),(Comedy),Prem Soni,Salman Khan,Kareena Kapoor Khan,Sohail Khan
+Main Azaad Hoon,(1989),(Action),Tinu Anand,Amitabh Bachchan,Shabana Azmi,Manohar Singh
+Main Hoon Na,(2004),(Drama),Farah Khan,Shah Rukh Khan,Sunil Shetty,Amrita Rao
+Maine Pyaar Kyun Kiya,(2005),(Comedy),David Dhawan,Salman Khan,Katrina Kaif,Sushmita Sen
+Maine Pyar Kiya,(1989),(Romance),Sooraj R. Barjatya,Salman Khan,Bhagyashree,Laxmikant Berde
+Mallika,(2010),(Horror),Wilson Louis,Sameer Dattani,Sheena Nayar
+Maqbool,(2004),(Drama),Vishal Bhardwaj,Irrfan Khan,Pankaj Kapur,Tabu
+Masoom,(1983),(Drama Children),Shekhar Kapur,Naseeruddin Shah,Shabana Azmi,Jugal Hansraj
+Masters,(2013),(Comedy),Anil Sharma,Sunny Deol,Bobby Deol,Dharmendra
+Masti,(2004),(Comedy),Indra Kumar,Ajay Devgn,Vivek Oberoi,Aftab Shivdasani
+Meerabai Not Out,(2008),(Drama Sports),Chandrakant Kulkarni,Mandira Bedi,Anupam Kher,Ejaz Khan
+Mera Naam Joker,(1970),(Drama Social),Raj Kapoor,Raj Kapoor,Simi Garewal,Padmini
+Mere Baap Pehle Aap,(2008),(Comedy),Priyadarshan,Akshaye Khanna,Paresh Rawal,Om Puri
+Milenge Milenge,(2010),(Romance),Satish Kaushik,Shahid Kapoor,Kareena Kapoor Khan,Aarti Chhabria
+Mission 11 July,(2010),(Action Drama Social),Vinod R. Thakur,Vikram Gokhale,Mukesh Tiwari,Neena Kulkarni
+Mission Istaanbul,(2008),(Action Thriller),Apoorva Lakhia,Zayed Khan,Vivek Oberoi,Shriya Saran
+Mission Kashmir,(2000),(Drama),Vidhu Vinod Chopra,Sanjay Dutt,Hrithik Roshan,Preity Zinta
+Mithya,(2008),(Comedy),Rajat Kapoor,Ranvir Shorey,Naseeruddin Shah,Neha Dhupia
+Mittal v/s Mittal,(2010),(Drama),Karan Razdan,Rituparna Sengupta,Rohit Roy,Gulshan Grover
+Mohabbatein,(2000),(Romance),Aditya Chopra,Amitabh Bachchan,Shah Rukh Khan,Aishwarya Rai-Bachchan
+Mohandas,(2009),(Thriller),Mazhar Kamran,Sonali Kulkarni,Nakul Vaid,Sushant Singh
+Mohra,(1994),(Action),Rajiv Rai,Akshay Kumar,Raveena Tandon,Sunil Shetty
+Money Hai Toh Honey Hai,(2008),(Comedy),Ganesh Acharya,Govinda,Manoj Bajpai,Ravi Kishan
+Monsoon Wedding,(2001),(Drama Family),Mira Nair,Naseeruddin Shah,Lillette Dubey,Parvin Dabbas
+Most Wanted,(2013),(Action),Boney Kapoor,Salman Khan,Asin Thottumkal
+Mother: The Indira Gandhi Story,(2013),(Drama Political),Krishna Shah,Madhuri Dixit-Nene,Tom Hanks,Helen Mirren
+Mr India 2,(2013),(Drama Fantasy),Shekhar Kapur,Salman Khan,Anil Kapoor,Sridevi
+Mr. Fraud,(2013),(Comedy),Abbas-Mustan,Sanjay Dutt,Ajay Devgn,Bipasha Basu
+Mr. India,(1987),(Comedy Drama Fantasy),Shekhar Kapur,Anil Kapoor,Sridevi,Amrish Puri
+Mrityudand,(1997),(Drama Social),Prakash Jha,Madhuri Dixit-Nene,Shabana Azmi,Ayub Khan
+Mudrank,(2009),(Drama),Shakir Shaikh,Sudha Chandran,Milind Gunaji
+Mughal-E-Azam,(1960),(Historical),K. Asif,Prithviraj Kapoor,Dilip Kumar,Madhubala
+Mujhse Shaadi Karogi,(2004),(Romance),David Dhawan,Salman Khan,Akshay Kumar,Priyanka Chopra
+Mumbai 118,(2010),(Action Drama),Rajeev,Aditya Raj Kapoor,Kiran Jangani,Kohinoor Khan
+Mumbai Meri Jaan,(2008),(Drama),Nishikant Kamat,R. Madhavan,Soha Ali Khan,Paresh Rawal
+Munna Bhai M.B.B.S.,(2003),(Comedy),Rajkumar Hirani,Sanjay Dutt,Gracy Singh,Arshad Warsi
+Munnabhai Chale Amerika,(2013),(Comedy),Rajkumar Hirani,Sanjay Dutt,Arshad Warsi
+Murder,(2004),(Action),Anurag Basu,Emraan Hashmi,Ashmit Patel,Mallika Sherawat
+Musaa,(2010),(Action Thriller),Himanshu Bhatt,Jackie Shroff,Samir Aftab,Sushant Singh
+Muskurake Dekh Zara,(2010),(Comedy Romance),Som Shekhar,Gashmeer Mahajani,Twinkle Patel,Sunil Sabarwal
+My Friend Ganesha 3,(2010),(Children Animation),Rajiv S. Ruia,Baba Sehgal,Rahul Pendkalkar,Sayaji Shinde
+My Name Is Anthony Gonsalves,(2008),(Drama),E. Nivas,Nikhil Dwivedi,Amrita Rao,Mithun Chakraborty
+My Name Is Khan,(2010),(Drama),Karan Johar,Shah Rukh Khan,Kajol,Jimmy Shergill
+Madholal - Keep Walking,(2010),(Drama),Jai Tank,Pranay Narayan,Subrat Dutta,Neela Gokhale
+Mahaan,(1983),(Drama Thriller),S. Ramanathan,Amitabh Bachchan,Ashok Kumar,Zeenat Aman
+Na Ghar Ke Na Ghaat Ke,(2010),(Comedy),Rahul Agarwal,Rahul Agarwal,Paresh Rawal,Narayani Shastri
+Naam,(2013),(Drama),Anees Bazmee,Ajay Devgn,Bhoomika Chawla,Sameera Reddy
+Namastey London,(2007),(Drama),Vipul Shah,Akshay Kumar,Katrina Kaif,Rishi Kapoor
+Nayak,(2001),(Drama),Shankarsingh Raghuwanshi,Anil Kapoor,Rani Mukerji,Pooja Batra
+New York,(2009),(Drama),Kabir Khan,John Abraham,Katrina Kaif,Neil Nitin Mukesh
+No Entry,(2005),(Comedy),Anees Bazmee,Salman Khan,Anil Kapoor,Fardeen Khan
+No Entry Mein Entry,(2013),(Comedy),Anees Bazmee,Salman Khan,Anil Kapoor,Fardeen Khan
+No One Killed Jessica,(2011),(Political Thriller),Rajkumar Gupta,Rani Mukerji,Vidya Balan,Rajesh Sharma
+No Problem,(2010),(Comedy),Anees Bazmee,Anil Kapoor,Sanjay Dutt,Akshaye Khanna
+Na Tum Jaano Na Hum,(2002),(Romance),Arjun Sablok,Saif Ali Khan,Hrithik Roshan,Mousumi Chatterjee
+Naam,(1986),(Drama),Mahesh Bhatt,Sanjay Dutt,Poonam Dhillon,Nutan
+Nakshatra,(2010),(Action),Mohan Savalkar,Milind Soman,Anupam Kher,Shubh Mukherjee
+Namak Halaal,(1982),(Comedy Drama),Prakash Mehra,Amitabh Bachchan,Shashi Kapoor,Waheeda Rehman
+Namak Haraam,(1973),(Drama Social),Hrishikesh Mukherjee,Amitabh Bachchan,Rekha,Rajesh Khanna
+Naqaab,(2007),(Suspense),Abbas-Mustan,Bobby Deol,Akshaye Khanna,Urvashi Sharma
+Naram Garam,(1981),(Comedy),Hrishikesh Mukherjee,Shatrughan Sinha,Dina Pathak,Amol Palekar
+Naseeb,(1981),(Drama),Manmohan Desai,Amitabh Bachchan,Shatrughan Sinha,Rishi Kapoor
+Nasoor,(1985),(Drama),Ashok Chopra,Om Puri,K. K. Raina,Reema Lagoo
+Nastik,(1983),(Drama Social),Pramod Chakraborty,Amitabh Bachchan,Hema Malini,Pran
+Neal 'N' Nikki,(2005),(Romance),Arjun Sablok,Abhishek Bachchan,Richa Pallod,Tanishaa Mukerji
+Nehlle Pe Dehlla,(2007),(Comedy),Ajay Chandok,Saif Ali Khan,Sanjay Dutt,Bipasha Basu
+New Delhi Times,(1986),(Thriller),Romesh Sharma,Shashi Kapoor,Sharmila Tagore,Om Puri
+Nidar - The Fearless,(2013),(Action Thriller),B. Vijay Reddy,Naseeruddin Shah,Johnny Lever,Mousumi Chatterjee
+Nikaah,(1982),(Drama),B. R. Chopra,Raj Babbar,Deepak Parasher,Salma Agha
+Nishabd,(2007),(Drama),Ram Gopal Varma,Amitabh Bachchan,Jiah Khan,Naseer
+No Smoking,(2007),(Thriller),Anurag Kashyap,John Abraham,Ayesha Takia,Paresh Rawal
+Naach,(2004),(Drama),Ram Gopal Varma,Abhishek Bachchan,Riteish Deshmukh,Antra Mali
+Naache Mayuri,(1986),(Musical),T. Rama Rao,Sudha Chandran,Sushma Seth,Shekhar Suman
+Naajayaz,(1995),(Action),Mahesh Bhatt,Mukesh Bhatt,Naseeruddin Shah,Ajay Devgn,Juhi Chawla
+Naam Gum Jaayega,(2005),(Romance),Amol Shetge,Rakesh Bapat,Dia Mirza,Mandira Bedi
+Nadiya Ke Paar,(1982),(Drama Social),Govind Moonis,Sachin Pilgaonkar,Sadhana Singh,Mitali
+Nagin,(1954),(Fantasy),Nandlal Jaswantal,Vyjayanthimala,Pradip Kumar,Jeevan
+Nagina,(1986),(Costume),Harmesh Malhotra,Rishi Kapoor,Sridevi,Amrish Puri
+Naina,(2005),(Horror),Shripal Morakhia,Urmila Matondkar,Anuj Sawhney,Amardeep Jha
+Naksha,(2006),(Action),Sachin Bajaj,Sunny Deol,Jackie Shroff,Vivek Oberoi
+Namkeen,(1982),(Comedy),Gulzar,Sanjeev Kumar,Sharmila Tagore,Shabana Azmi
+Nanhe Jaisalmer,(2007),(Children),Samir Karnik,Dwij Yadav,Bobby Deol,Karan Arora
+Naseem,(1996),(Biopic),Saeed Mirza,Mayuri Kango,Kaifi Azmi,Lalit M. Tiwari
+Nau Do Gyarah,(1957),(Social),Vijay Anand,Dev Anand,Kalpana Kartik,Madan Puri
+Nauker,(1979),(Comedy),Ismail Menon,Sanjeev Kumar,Jaya Bachchan,Yogita Bali
+Naukri,(1954),(Comedy),Bimal Roy,Kishore Kumar,Kanhaiyalal,Sheila Ramani
+Navrang,(1959),(Social),V. Shantaram,Sandhya,Mahipal,Keshavrao Date
+Naya Daur,(1957),(Social),B. R. Chopra,Dilip Kumar,Vyjayanthimala,Leela Chitnis
+Nayee Padosan,(2003),(Comedy),B. H. Tharunkumar,Rahul Bhatt,Aslam Khan,Mahek Chahal
+Nazar,(2005),(Drama),Soni Razdan,Ashmit Patel,Meera,Alyy Khan
+Neel Kamal,(1968),(Social),Ram Maheshwari,Raaj Kumar,Waheeda Rehman,Balraj Sahni
+New Delhi,(1956),(Social),Mohan Seghal,Kishore Kumar,Vyjayanthimala,Prabhu Dayal
+Night In London,(1967),(Social),Brij,Biswajeet,Mala Sinha,Johnny Walker
+Nishant,(1975),(Social),Shyam Benegal,Girish Karnad,Smita Patil,Amrish Puri
+Non Stop Fun,(2013),(Comedy Children),Sunil Advani,Urmila Matondkar,Mukesh Tiwari
+Oh My God,(2008),(Comedy),Sourabh Shrivastava,Vinay Pathak,Divya Dutta,Gaurav Gera
+Om Shanti Om,(2007),(Romance),Farah Khan,Shah Rukh Khan,Deepika Padukone,Arjun Rampal
+Omkara,(2006),(Action),Vishal Bhardwaj,Ajay Devgn,Kareena Kapoor Khan,Saif Ali Khan
+Once Upon A Time In Mumbaai,(2010),(Drama),Milan Luthria,Ajay Devgn,Emraan Hashmi,Kangna Ranaut
+Once Upon Ay Time In Mumbai Dobaara,(2013),(Drama Crime),Milan Luthria,Akshay Kumar,Imran Khan,Sonakshi Sinha
+One Two Three,(2008),(Comedy),Ashwni Dhir,Paresh Rawal,Tusshar Kapoor,Sunil Shetty
+Oye Lucky! Lucky Oye!,(2008),(Comedy),Dibakar Banerjee,Abhay Deol,Manu Rishi,Paresh Rawal
+Oldd Iss Goldd,(2007),(Comedy),Neeraj Sahay,Vikram Singh,Kader Khan,Asrani
+Om Jai Jagadish,(2002),(Drama Family),Anupam Kher,Anil Kapoor,Fardeen Khan,Abhishek Bachchan
+One 2 Ka 4,(2001),(Action),K. Shashilal Nair,Shah Rukh Khan,Juhi Chawla,Jackie Shroff
+Osama,(2013),(Drama),Faisal Saif,Kamal Haasan,Rituparna Sengupta,Milind Gunaji
+Ocean Of An Old Man,(2009),(Drama),Rajesh Shera,Tom Alter,Jamie Alter,Iris Maya Tittelback
+Oh God Sare Hain Fraud,(2013),(Comedy),Ashu Trikha,Shreyas Talpade,Mugdha Godse,Johnny Lever
+OMG - Oh My God,(2012),(Comedy),Umesh Shukla,Akshay Kumar,Paresh Rawal,Mithun Chakraborty
+One Fine Monday,(2013),(Drama),Manu Chobe,Shekhar Suman,Gauri Karnik,Tanaz Currim
+Out Of Control,(2003),(Comedy),Apurva Asrani,Ramanjit Juneja,Riteish Deshmukh,Brande Roderick,Himani Shivpuri
+Overtime,(2012),(Drama),Ajay Yadav,Swati Sharma,Yashpal Sharma,Satish Kaushik
+Oct 2nd,(2003),(Action),Sunil Tiwari,Makrand Deshpande,Ashutosh Rana,Saadhika
+Officer,(2001),(Action),Naeem Sha,Sunil Shetty,Raveena Tandon,Pramod Moutho
+Om - The Ultimate Power,(2003),(Action),Ashok Honda,Ashok K. Kotwani,Deepak Shirke,Rakhi Sawant,Smita Jaykar
+Om-Dar-Ba-Dar,(1988),(Drama),Kamal Swaroop,Gopi Desai,Manish Gupta,Anita Kumar
+Oops!,(2003),(Drama Adult),Deepak Tijori,Mita Vashisth,Kiran Kumar,Vikas Sethi
+O Janewale,(1948),(Social),S. Sardesai,Trilok Kapoor,Geeta Desai
+O Panchhi,(1944),(Social),Zahur Raja,Radharani,Zahur Raja
+O Tera Kya Kehana,(1959),(Social),K. Parvez,Mehmood,Chitra
+Oh Bewafaa,(1980),(Drama),Sawan Kumar,Anil Dhawan,Yogita Bali,Farida
+Oh Darling Yeh Ha India,(1995),(Comedy),Ketan Mehta,Shah Rukh Khan,Amrish Puri,Anupam Kher
+Om Jai Jagdish Hare,(1985),(Drama),P. V. T. Raman,Shri Priya,Vijaya Kuamri,Jai Ganesh
+Omar Khaiyyam,(1946),(Biopic),Mohan Sinha,K. L. Saigal,Suraiya
+On the Ramp,(2013),(Social),Imran Khalid,Ranvir Shorey,Urvashi Sharma,Supriya Karnik
+One By Two,(2014),(Comedy Romance),Devika Bhagat,Abhay Deol,Preeti Desai,Rati Agnihotri
+One Hundred One Raten,(1990),(Drama),Sasi Mohan,Disco Shanti,Harish,Babloo
+Oomar Qaid,(1961),(Social),Aspi Irani,Hiralal,Sheikh Mukhtar,Sudhir
+Oonch Neech,(1948),(Social),Hem Chander,Bharati Debi,Sumitra
+Oonch Neech Beech,(1989),(Social),Wasi Khan,Sanjeev Kumar,Shashi Kapoor,Smita Patil
+Oonche Log,(1985),(Drama),Phani Majumdar,Brij,Rajesh Khanna,Salma Agha,Pradip Kumar
+Oonche Log,(1965),(Social),Phani Majumdar,Ashok Kumar,Raaj Kumar,Feroz Khan
+Oonchi Haveli,(1955),(Social),Dhirubhai Desai,Nirupa Roy,Karan Dewan
+Ooparwala Jane,(1977),(Social),Naresh Saigal,Vinod Mehra,Rehana Sultan
+Oot Patang,(1955),(Social),Chandulal J. Shah,Usha Kiran,Agha
+Opera House,(1961),(Social),P. L. Santoshi,Ajit,B. Saroja Devi
+Paa,(2009),(Drama Family),R. Balki,Amitabh Bachchan,Abhishek Bachchan,Vidya Balan
+Paani,(2013),(Romance),Shekhar Kapur,Hrithik Roshan,Kristen Stewart
+Paathshaala,(2010),(Drama),Milind Ukey,Nana Patekar,Shahid Kapoor,Ayesha Takia
+Page 3,(2005),(Drama Social),Madhur Bhandarkar,Konkona Sen Sharma,Atul Kulkarni,Boman Irani
+Paheli,(2005),(Drama),Amol Palekar,Shah Rukh Khan,Rani Mukerji,Sunil Shetty
+Pangaa Gang,(2010),(Animation),Pankaj Sharma,Archana Puran Singh,Sudesh Bhonsle,Purbi Joshi
+Pankh,(2010),(Drama),Sudipto Chattopadhyay,Bipasha Basu,Lillette Dubey,Maradona Rebello
+Pardes,(1997),(Romance),Subhash Ghai,Shah Rukh Khan,Mahima Chaudhry,Apoorva Agnihotri
+Parinda,(1989),(Action),Vidhu Vinod Chopra,Jackie Shroff,Anil Kapoor,Madhuri Dixit-Nene
+Parineeta,(2005),(Drama),Pradeep Sarkar,Saif Ali Khan,Vidya Balan,Sanjay Dutt
+Partner,(2007),(Comedy),David Dhawan,Salman Khan,Govinda,Katrina Kaif
+Partner 2,(2013),(Crime),David Dhawan,Salman Khan,Govinda,Sanjay Dutt
+Peepli Live,(2010),(Drama Political),Anushka Rizvi,Omkar Das Manikpuri,Naseeruddin Shah,Raghubir Yadav
+Phaans: Ek Jasoos Ki Kahani,(2010),(Action),Avtansh Chitransh,Kanan Malhotra,Moin Khan,Shiva
+Phhir,(2011),(Romance Thriller),Girish Dhamjia,Rajneesh Duggal,Adah Sharma,Roshni Chopra
+Phir Hera-Pheri,(2006),(Comedy),Neeraj Vora,Akshay Kumar,Sunil Shetty,Paresh Rawal
+Phool Aur Kaante,(1991),(Action),Kukku Kohli,Ajay Devgn,Madhu,Amrish Puri
+Phoonk,(2008),(Horror),Ram Gopal Varma,Sudeep,Amruta Khanvilkar,Ahsaas Channa
+Phoonk 2,(2010),(Horror Thriller),Milind Gadagkar,Sudeep,Amruta Khanvilkar,Ahsaas Channa
+Players,(2012),(Action Thriller Crime),Abbas Burmawala,Mustan Burmawala,Abhishek Bachchan,Neil Nitin Mukesh,Bipasha Basu
+Power,(2013),(Thriller Crime),Raj Kumar Santoshi,Amitabh Bachchan,Anil Kapoor,Sanjay Dutt
+Prem Kaa Game,(2010),(Comedy),Ashok Kheny,Arbaaz Khan,Tara Sharma,Madhuri Bhattacharya
+Prince,(2010),(Action Thriller),Kookie V Gulati,Vivek Oberoi,Aruna Shields,Nandana Sen
+Pukar,(2000),(Thriller Patriotic),Raj Kumar Santoshi,Anil Kapoor,Namrata Shirodkar,Madhuri Dixit-Nene
+Pyaar Impossible,(2010),(Comedy Romance),Jugal Hansraj,Uday Chopra,Priyanka Chopra,Anupam Kher
+Pyaar Kaa Fundaa,(2010),(Romance Thriller),Monazir Hasan,Yogbodh Garewal,Surbhi Shukla,Kashi Tiwari
+Pyaar Ke Side/Effects,(2006),(Comedy),Saket Chaudhary,Ranvir Shorey,Mallika Sherawat,Rahul Bose
+Pyar Kiya To Darna Kya,(1998),(Comedy Romance),Sohail Khan,Dharmendra,Salman Khan,Kajol
+Pyar To Hona Hi Tha,(1998),(Comedy Romance),Anees Bazmee,Ajay Devgn,Kajol,Mushtaq Khan
+Paan Singh Tomar,(2012),(Drama Crime),Tigmanshu Dhulia,Irrfan Khan,Mahi Gill,Imran Hasnee
+Paar,(1985),(Drama Social),Gautam Ghosh,Naseeruddin Shah,Shabana Azmi,Om Puri
+Padosan,(1968),(Social),Jyoti Swaroop,Sunil Dutt,Saira Banu,Kishore Kumar
+Pakeezah,(1972),(Drama Social),Kamal Amrohi,Raaj Kumar,Ashok Kumar,Meena Kumari
+Panga Naa Lo,(2007),(Comedy Drama),Rajen Kothari,Om Puri,Supriya Pathak,Razzak Khan
+Papa Kahte Hain,(1996),(Romance),Mahesh Bhatt,Dinesh Hingoo,Suhas Joshi,Alok Nath
+Parakh,(1960),(Social),Bimal Roy,Motilal,Sadhana,Basanta Chowdhury
+Party,(1984),(Drama),Govind Nihalani,Rohini Hattangadi,Manohar Singh,Vijaya Mehta
+Parveen Bobby,(2007),(Drama),Sandeep Kumar,Mohan Joshi,Mushtaq Khan,Amrita Dhanoa
+Parwana,(1971),(Suspense),Jyoti Swaroop,Amitabh Bachchan,Shatrughan Sinha,Navin Nischol
+Parzania,(2007),(Drama Social),Rahul Dholakia,Naseeruddin Shah,Corin Nemec,Sarika
+Pasand Apni Apni,(1983),(Comedy),Basu Chatterjee,Mithun Chakraborty,Ashok Kumar,Rati Agnihotri
+Pati Patni Aur Woh,(1978),(Comedy),B. R. Chopra,Asrani,Parveen Babi,Rishi Kapoor
+Paying Guests,(2009),(Comedy),Paritossh Painter,Ashish Choudhary,Shreyas Talpade,Celina Jaitley
+Perfect Mismatch,(2009),(Comedy Drama Romance),Ajmal Zaheer Ahmad,Anubhav Anand,Nandana Sen,Anupam Kher
+Peter Gaya Kaam Se,(2013),(Romance),John Owen,Rajeev Khandelwal,Lekha Washington,Mugdha Godse
+Phansi,(2013),(Drama),Chandrakant Barve,Sunil Shetty,Rahul Dev,Irrfan Khan
+Phillum City,(2014),(Drama),Deven Khote,John Abraham,Kavita Kaushik
+Phir Bhi Dil Hai Hindustani,(2000),(Drama),Aziz Mirza,Shah Rukh Khan,Juhi Chawla,Johnny Lever
+Phir Kabhi,(2009),(Drama),V. K. Prakash,Mithun Chakraborty,Dimple Kapadia,Rati Agnihotri
+Phir Milenge,(2004),(Drama Social),Revathi,Salman Khan,Shilpa Shetty Kundra,Abhishek Bachchan
+Qayamat Se Qayamat Tak,(1988),(Romance),Mansoor Khan,Aamir Khan,Juhi Chawla,Raj Zutshi
+Quick Gun Murugun,(2009),(Drama),Shashanka Ghosh,Dr. Rajendra Prasad,Shanmugha Rajan,Naseer
+Qayamat,(2003),(Action),Harry Baweja,Sunil Shetty,Ajay Devgn,Raveena Tandon
+Qurbani,(1980),(Thriller),Feroz Khan,Vinod Khanna,Zeenat Aman,Feroz Khan
+Qaidi,(2002),(Action),T. L. V. Prasad,Mithun Chakraborty,Nirmal Pandey,Jeet Pradhan
+Qasam Se Qasam Se,(2012),(Romance),Ashfaq Makrani,Azim Rizvi,Faith,Rakhi Sawant
+Qatil Haseeno Ka,(2001),(Suspense Crime),K. Shivram,Kiran Kumar,Sudhir,Mac Mohan
+Qatil-E-Aam,(2005),(Action),Sanjay Sharma,Mithun Chakraborty,Gulshan Grover,Laxmikant Berde
+Queens Destiny of Dance,(2011),(Drama Musical),David Atkins,Seema Biswas,Vineeth,Laxmi Narayan Tripathi
+Qahar,(1997),(Action),Raj Kumar Kohli,Sunil Shetty,Sunny Deol,Raj Babbar
+Qaid,(1975),(Social),Atmaram,Vinod Khanna,Leena Chandavarkar
+Qaid Mein Hai Bulbul,(1992),(Romance),Ravindra Peepat,Rana Jung Bahadur,Bhagyashree,Sudha Chandran
+Qaidi,(1940),(Social),S. F. Hussein,Ramola,Mehtab,Monica Desai
+Qaidi,(1957),(Action),Mohd. Hussien Jr.,Padmini,Suresh
+Qaidi,(1984),(Action),S. S. Ravichandran,Shatrughan Sinha,Jeetendra,Hema Malini
+Qaidi No. 911,(1959),(Social),Aspi Irani,Nanda,Shaikh Mukhtar
+Qatil,(1960),(Action),Hussein,Premnath,Chitra
+Qatil,(1970),(Action),K. Mallik,Johny Bond,Babu Raje,Habib
+Qatil,(1944),(Action),K. L. Khan,E. Billimoria,Shantarin
+Qatil,(1988),(Suspense),Ashok Gaikwad,Amjad Khan,Aditya Pancholi,Sangeeta Bijlani
+Qatil Aur Aashiq,(1986),(Action),Swaroop Kumar,Kalpana Iyer,Kapana Iyer,Zarina Wahab
+Qatil Chandalini,(1999),(Action),Rajan Layalpuri Poonam,Mac Mohan
+Qatil Jawani,(1990),(Drama),K. S. Gopal Krishnan,Kapil Dev,Uma Maheshwari,Babloo
+Qatl,(1986),(Action),R. K. Nayyar,Sanjeev Kumar,Sarika,Marc Zuber
+Qayamat,(1983),(Action),Raj N. Sippy,Dharmendra,Shatrughan Sinha,Jaya Prada
+Qayamat Hi Qayamat,(2012),(Drama Romance),Vicky Ranawat,Prakash Sagar,Easter Noronha,Gracy Singh
+Qayamat Ki Raat,(1990),(Suspense),Harvey Pappu,Aasif,Sabeeha
+Qazzak Ki Ladki,(1937),(Costume),K. Sardar,Surendra,Sushila,Bibbo
+Qeemat,(1956),(Social),Hira Singh,Abhi Bhattacharya,Jabeen Jalil
+Qila,(1998),(Action),Umesh Mehra,Dilip Kumar,Rekha,Satish Kaushik
+Queen,(2014),(Romance),Vikas Bahl,Kangna Ranaut,Raj Kumar Yadav,Vinay Singh
+Qurbani Rang Layegi,(1991),(Romance),Raj N. Sippy,Sanjay Dutt,Padmini Kolhapure,Poonam Dhillon
+Raajneeti,(2010),(Drama),Prakash Jha,Ajay Devgn,Katrina Kaif,Nana Patekar
+Raat Gayi Baat Gayi,(2009),(Comedy),Saurabh Shukla,Rajat Kapoor,Vinay Pathak,Neha Dhupia
+Raavan,(2010),(Mythology Romance),Mani Ratnam,Abhishek Bachchan,Aishwarya Rai-Bachchan,Vikram
+Raaz,(2002),(Horror),Vikram Bhatt,Dino Morea,Bipasha Basu,Ashutosh Rana
+Raaz - The Mystery Continues,(2009),(Horror),Mohit Suri,Emraan Hashmi,Kangna Ranaut,Adhyayan Suman
+Rab Ne Bana Di Jodi,(2008),(Drama Musical Romance),Aditya Chopra,Shah Rukh Khan,Anushka Sharma,Vinay Pathak
+Race,(2008),(Suspense),Abbas-Mustan,Saif Ali Khan,Akshaye Khanna,Anil Kapoor
+Race 2,(2013),(Action Suspense Thriller),Abbas-Mustan,Saif Ali Khan,Anil Kapoor,John Abraham
+Radio,(2009),(Drama Romance),Isshaan Trivedi,Himesh Reshammiya,Shehnaz Treasurywala,Sonal Sehgal
+Ragini MMS,(2011),(Thriller),Pawan Kripalani,Raj Kumar Yadav,Kainaz Motivala
+Raja Babu,(1994),(Drama),David Dhawan,Govinda,Karisma Kapoor,Shakti Kapoor
+Raja Hindustani,(1996),(Romance),Dharmesh Darshan,Aamir Khan,Karisma Kapoor,Johnny Lever
+Rajnigandha,(1974),(Comedy),Basu Chatterjee,Amol Palekar,Vidya Sinha,Dinesh Thakur
+Raju Ban Gaya Gentleman,(1992),(Romance),Aziz Mirza,Shah Rukh Khan,Juhi Chawla,Amrita Singh
+Rakht Charitra - I,(2010),(Action Biographical Drama),Ram Gopal Varma,Vivek Oberoi,Shatrughan Sinha,Surya Sivakumar
+Ram Lakhan,(1989),(Action),Subhash Ghai,Jackie Shroff,Anil Kapoor,Rakhee
+Ram Teri Ganga Maili,(1985),(Drama Social),Raj Kapoor,Rajiv Kapoor,Mandakini,Divya Rana
+Ramchand Pakistani,(2008),(Drama),Mehreen Jabbar,Fazal Hussain,Nandita Das,Rashid Farooqi
+Rana,(2013),(Action Romance),K. S. Ravikumar,Rajinikanth,Deepika Padukone,Sonu Sood
+Rang De Basanti,(2006),(Drama Social),Rakeysh Omprakash Mehra,Aamir Khan,Alice Patten,Soha Ali Khan
+Rangeela,(1995),(Romance),Ram Gopal Varma,Aamir Khan,Urmila Matondkar,Jackie Shroff
+Rann,(2010),(Drama),Ram Gopal Varma,Amitabh Bachchan,Riteish Deshmukh,Paresh Rawal
+Red Alert - The War Within,(2010),(Drama),Anant Mahadevan,Naseeruddin Shah,Vinod Khanna,Sunil Shetty
+Refugee,(2000),(Action),J. P. Dutta,Abhishek Bachchan,Kareena Kapoor Khan,Jackie Shroff
+Right Yaaa Wrong,(2010),(Drama),Neeraj Pathak,Sunny Deol,Irrfan Khan,Konkona Sen Sharma
+Road To Sangam,(2010),(Drama),Amit Rai,Om Puri,Paresh Rawal,Javed Shaikh
+Road - Movie,(2010),(Comedy Romance),Adventure,Dev Benegal,Abhay Deol,Satish Kaushik,Tannishtha Chatterjee
+Roadside Romeo,(2008),(Action),Jugal Hansraj,Saif Ali Khan,Kareena Kapoor Khan,Jaaved Jaaferi
+Robot,(2010),(Action Comedy Fantasy),Adventure,Science Fiction,S. Shankar,Rajinikanth,Aishwarya Rai-Bachchan,Danny Denzongpa
+Rock On,(2008),(Drama Musical),Abhishek Kapoor,Farhan Akhtar,Prachi Desai,Arjun Rampal
+Rock On 2,(2013),(Drama),Abhishek Kapoor,Arjun Rampal,Farhan Akhtar,Priyanka Chopra
+Rocket Singh - Salesman Of The Year,(2009),(Comedy),Shimit Amin,Ranbir Kapoor,Shazahn Padamsee,Sharon Prabhakar
+Roja,(1993),(Drama Patriotic),Mani Ratnam,Arvind Swamy,Madhu,Pankaj Kapur
+Rokkk,(2010),(Horror Thriller),Rajesh Ranshinge,Udita Goswami,Shaad Randhawa,Nishigandha Wad
+Roti,(1974),(Social),Manmohan Desai,Rajesh Khanna,Mumtaz,Asrani
+Rowdy Rathore,(2012),(Action),Prabhudheva,Akshay Kumar,Sonakshi Sinha,Naseer
+Ruslaan,(2009),(Drama),Mohan Sharma,Rajveer Sharma,Megha Chatterjee,Asrani
+Raakh,(2013),(Drama Romance),Hansal Mehta,Mithun Chakraborty,Sohail Khan,Amrita Arora
+Raaz,(1967),(Drama),Ravindra Dave,I. S. Johar,Rajesh Khanna,Babita
+Raaz 3,(2012),(Suspense Thriller),Vikram Bhatt,Emraan Hashmi,Bipasha Basu,Esha Gupta
+Rafoo Chakkar-Fun On The Run,(2008),(Comedy),B. H. Tharunkumar,Aslam Khan,Yudhistir,Nauheed Cyrusi
+Raftaar,(2009),(Drama),Vicky Kumar,Aryan Singh,Tonisha Pawar,Vishaal Kaushik
+Raja,(1995),(Romance),Indra Kumar,Madhuri Dixit-Nene,Mukesh Khanna,Charlie
+Raja Rani,(1973),(Social),Sachin Bhowmik,Rajesh Khanna,David,Sharmila Tagore
+Raju Chacha,(2000),(Drama Children),Anil Devgan,Sanjay Dutt,Ajay Devgn,Rishi Kapoor
+Ram Jaane,(1995),(Action),Rajiv Mehra,Shah Rukh Khan,Juhi Chawla,Pankaj Kapur
+Rama - The Saviour,(2010),(Drama),Hadi Ali Abrar,Saahil Khan,Tanushree Datta,The Great Khali
+Rama Rama Kya Hai Drama,(2008),(Comedy),Chandrakant Singh,Ashish Choudhary,Rajpal Yadav,Neha Dhupia
+Ramayana - The Epic,(2010),(Mythology Animation),Chetan Desai,Manoj Bajpai,Juhi Chawla,Ashutosh Rana and others
+Saagar,(1985),(Drama Romance),Ramesh Sippy,Rishi Kapoor,Kamal Haasan,Dimple Kapadia
+Saajan,(1991),(Romance),Lawrence D'Souza,Sanjay Dutt,Salman Khan,Madhuri Dixit-Nene
+Saajan Chale Sasural,(1996),(Comedy),David Dhawan,Govinda,Karisma Kapoor,Tabu
+Saaransh,(1984),(Drama),Mahesh Bhatt,Anupam Kher,Rohini Hattangadi,Soni Razdan
+Saathiya,(2002),(Romance),Shaad Ali,Vivek Oberoi,Rani Mukerji,Sharat Saxena
+Saawariya,(2007),(Romance),Sanjay Leela Bhansali,Ranbir Kapoor,Sonam Kapoor,Rani Mukerji
+Sadiyaan,(2010),(Drama Romance),Raj Kanwar,Luv Sinha,Ferena Wazier,Rishi Kapoor
+Sahib Biwi Ghulam,(2013),(Drama),Rituparno Ghosh,Salman Khan,Priyanka Chopra,John Abraham
+Salaam Namaste,(2005),(Romance),Siddarth Raj Anand,Saif Ali Khan,Preity Zinta,Arshad Warsi
+Salaam-E-Ishq,(2007),(Romance),Nikhil Advani,Salman Khan,Priyanka Chopra,Anil Kapoor
+Sankat City,(2009),(Comedy),Pankaj Advani,Kay Kay Menon,Anupam Kher,Rimi Sen
+Sapno Ke Desh Mein,(2010),(Thriller),Mystery,Chetan Shah,Rohan Gupta,Lekha Washington,Kartik Kumar
+Sarfarosh,(1999),(Action),John Matthan,Aamir Khan,Naseeruddin Shah,Sonali Bendre
+Sargam,(1979),(Drama Social),K. Viswanath,Rishi Kapoor,Jaya Prada,Dheeraj Kumar
+Sargna,(2013),(Drama),Saurabh Shukla,Ajay Devgn,Dino Morea,Bhoomika Chawla
+Sarkar,(2005),(Action),Ram Gopal Varma,Abhishek Bachchan,Amitabh Bachchan,Kay Kay Menon
+Sarkar Raj,(2008),(Suspense Thriller),Ram Gopal Varma,Amitabh Bachchan,Abhishek Bachchan,Aishwarya Rai-Bachchan
+Satsang,(2013),(Drama),Prakash Jha,Katrina Kaif
+Satte Pe Satta,(1982),(Comedy),Raj N. Sippy,Amitabh Bachchan,Hema Malini,Ranjeeta
+Satte Pe Satta remake,(2013),(Comedy),Soham Shah,Sanjay Dutt,Madhuri Dixit-Nene
+Satya,(1998),(Action),Ram Gopal Varma,J. D. Chakravarthy,Urmila Matondkar,Manoj Bajpai
+Saudagar,(1991),(Drama),Subhash Ghai,Dilip Kumar,Raaj Kumar,Vivek Mushran
+Shaabash! You Can Do It,(2009),(Drama Thriller),Shankar Mondal,Hitesh Agrawal,Mansi Dovhal,Sudesh Berry
+Shaapit,(2010),(Horror Romance),Vikram Bhatt,Aditya Narayan,Shweta Agrawal,Rahul Dev
+Shahenshah,(1988),(Action),Tinu Anand,Amitabh Bachchan,Meenakshi Sheshadri,Amrish Puri
+Shahrukh Bola Khoobsurat Hai Tu,(2010),(Drama),Makrand Deshpande,Shah Rukh Khan,Pritika Chawla,Sanjay Dadheech
+Shakti,(1982),(Drama Thriller),Ramesh Sippy,Dilip Kumar,Amitabh Bachchan,Rakhee
+Shanghai,(2012),(Romance Thriller),Dibakar Banerjee,Abhay Deol,Emraan Hashmi,Prosenjit
+Sharaabi,(1984),(Drama),Prakash Mehra,Amitabh Bachchan,Jaya Prada,Pran
+Shaurya,(2008),(Drama),Samar Khan,Rahul Bose,Minissha Lamba,Jaaved Jaaferi
+Shikshanacha Aaicha Gho - (Remake),(2013),(Comedy,Social),Mahesh Manjrekar,Salman Khan,Kangna Ranaut
+Shiva,(1990),(Action),Ram Gopal Varma,Nagarjuna,Amala,Raghuvaran
+Shoebite,(2013),(Drama),Shoojit Sircar,Amitabh Bachchan,Sarika,Jimmy Shergill
+Sholay,(1975),(Drama Thriller),Ramesh Sippy,Dharmendra,Sanjeev Kumar,Hema Malini
+Shool,(1999),(Action),E. Nivas,Manoj Bajpai,Raveena Tandon,Sayaji Shinde
+Shootout At Lokhandwala,(2007),(Action),Apoorva Lakhia,Sanjay Dutt,Amitabh Bachchan,Sunil Shetty
+Shootout At Wadala,(2013),(Action Crime),Sanjay Gupta,John Abraham,Anil Kapoor,Ronit Roy
+Shortkut - The Con Is On,(2009),(Comedy),Neeraj Vora,Roshan Andrews,Akshaye Khanna,Arshad Warsi,Amrita Rao
+Siddharth - The Prisoner,(2009),(Drama),Pryas Gupta,Rajat Kapoor,Sachin Nayak,Govind Namdeo
+Silsila,(1981),(Drama Romance),Yash Chopra,Amitabh Bachchan,Rekha,Jaya Bachchan
+Singh Is Kinng,(2008),(Action Comedy Romance),Anees Bazmee,Akshay Kumar,Katrina Kaif,Sonu Sood
+Soch Lo,(2010),(Action),Sartaj Singh Pannu,Barkha Madan,Iris Maity,Nishan Nanaiah
+Soldier,(1998),(Action),Abbas-Mustan,Bobby Deol,Preity Zinta,Suresh Oberoi
+Son Of Sardaar,(2012),(Action Comedy Drama),Ashwni Dhir,Ajay Devgn,Sonakshi Sinha,Sanjay Dutt
+Sorry Bhai,(2008),(Comedy Romance),Onir,Sharman Joshi,Chitrangada Singh,Sanjay Suri
+Spanish Beauty - (A Beautiful Wife),(2010),(Drama,Romance),Ricardo De Montreuil,Barbara Mori,Christian Meier,Manolo Cardona
+Special 26,(2013),(Action Crime),Neeraj Pandey,Akshay Kumar,Kajal Aggarwal,Manoj Bajpai
+Stanley Ka Dabba,(2011),(Drama Social Children),Amol Gupte,Divya Dutta,Partho Gupte,Divya Jagdale
+Straight,(2009),(Comedy),Parvati Balgopalan,Siddharth Makkar,Vinay Pathak,Gul Panag,Achla Sachdev and others
+Taal,(1999),(Romance),Subhash Ghai,Akshaye Khanna,Aishwarya Rai-Bachchan,Anil Kapoor
+Taalismaan,(2013),(Fantasy),Ram Madhvani,Amitabh Bachchan,Abhishek Bachchan,Aishwarya Rai-Bachchan
+Taare Zameen Par,(2007),(Drama Social Children),Aamir Khan,Darsheel Safary,Aamir Khan,Tisca Chopra
+Tahaan,(2008),(Drama),Santosh Sivan,Victor Banerjee,Purav Bhandare,Rahul Bose
+Talaash,(2012),(Drama Suspense Thriller),Reema Kagti,Aamir Khan,Kareena Kapoor Khan,Rani Mukerji
+Tashan,(2008),(Action),Vijay Krishna Acharya,Akshay Kumar,Saif Ali Khan,Kareena Kapoor Khan
+Taxi No. 9 2 11,(2006),(Comedy),Milan Luthria,John Abraham,Nana Patekar,Sameera Reddy
+Teen Patti,(2010),(Drama Thriller),Leena Yadav,Amitabh Bachchan,Ben Kingsley,R. Madhavan
+Tees Maar Khan,(2010),(Action Comedy),Farah Khan,Akshay Kumar,Akshaye Khanna,Katrina Kaif
+Tere Bin Laden,(2010),(Comedy Drama),Abhishek Sharma,Ali Zafar,Barry John,Chinmay Mandlekar
+Tere Naam,(2003),(Drama),Satish Kaushik,Salman Khan,Bhoomika Chawla,Sachin Khedekar
+Teri Meri Kahaani,(2012),(Comedy Drama Romance Social),Kunal Kohli,Shahid Kapoor,Priyanka Chopra,Neha Sharma
+Tezaab,(1988),(Action),N. Chandra,Anil Kapoor,Madhuri Dixit-Nene,Chunkey Pandey
+Tezz,(2012),(Action),Priyadarshan,Anil Kapoor,Ajay Devgn,Kangna Ranaut
+Thanks Maa,(2010),(Social),Irfan Kamal,Master Shams Patel,Master Salman,Master Fayaaz
+The Camp,(2010),(Comedy Children),Adventure,Nitin Mahadar,Sonali Kulkarni,Rakesh Bedi,Sanjay Mishra
+The Fakir Of Venice,(2013),(Social),Anand Surapur,Farhan Akhtar,Annu Kapoor,Kamal Sidhu
+The Film Emotional Atyachar,(2010),(Film Noir),Akshay Shere,Mohit Ahlawat,Kalki Koechlin,Vinay Pathak
+The Great Indian Butterfly,(2010),(Drama),Sharthak Dasgupta,Aamir Bashir,Sandhya Mridul,Koel Purie
+The Hangman,(2010),(Drama),Vishal Bhandari,Om Puri,Gulshan Grover,Shreyas Talpade
+The Last Lear,(2008),(Drama),Rituparno Ghosh,Amitabh Bachchan,Preity Zinta,Arjun Rampal
+The Legend Of Bhagat Singh,(2002),(Biopic),Raj Kumar Santoshi,Ajay Devgn,Sushant Singh,D. Santosh
+The Legend Of Kunal,(2013),(Period),Dr. Chandraprakash Dwivedi,Amitabh Bachchan,Arjun Rampal,Tabu
+The Man,(2013),(Action),Neeraj Pathak,Sunny Deol,Shilpa Shetty Kundra,Danny Denzongpa
+The Stoneman Murders,(2009),(Drama),Manish Gupta,Kay Kay Menon,Rukhsar,Arbaaz Khan
+The Waiting Room,(2010),(Drama Thriller),Maneej Premnath,Raja Chaudhary,Sandeep Kulkarni,Pratiksha Lonkar
+Thoda Pyaar Thoda Magic,(2008),(Romance),Kunal Kohli,Saif Ali Khan,Rani Mukerji,Ameesha Patel
+Three - Love - Lies and Betrayal,(2009),(Drama Thriller),Vishal Pandya,Ashish Choudhary,Akshay Kapoor,Nausheen Ali Sardar
+Time Machine,(2013),(Drama),Ram Gopal Varma,Amitabh Bachchan,Abhishek Bachchan,Aishwarya Rai-Bachchan
+Toh Baat Pakki!,(2010),(Comedy Romance),Kedar Shinde,Tabu,Ayub Khan,Sharman Joshi
+Toonpur Ka Superrhero,(2010),(Animation),Adventure,Kireet Khurana,Ajay Devgn,Kajol,Sanjay Mishra
+Toss,(2009),(Comedy),Ramesh Khatkar,Prashant Raj,Ashmit Patel,Rannvijay Singh
+Traffic Signal,(2007),(Drama Social),Madhur Bhandarkar,Kunal Khemu,Neetu Chandra,Upendra Limaye
+Tridev,(1989),(Action),Rajiv Rai,Sunny Deol,Jackie Shroff,Naseeruddin Shah
+Trishul,(1978),(Drama Family),Yash Chopra,Amitabh Bachchan,Sanjeev Kumar,Shashi Kapoor
+Trump Card,(2010),(Thriller),Arshad Khan,Vikram Kumar,Haider,Pankaj Gupta
+Tum Mile,(2009),(Romance),Kunal Deshmukh,Emraan Hashmi,Soha Ali Khan,Kishori Shahane Vij
+Tum Milo Toh Sahi,(2010),(Romance),Kabir Sadanand,Nana Patekar,Dimple Kapadia,Sunil Shetty
+Ta Ra Rum Pum,(2007),(Drama Romance),Siddarth Raj Anand,Saif Ali Khan,Rani Mukerji,Jaaved Jaaferi
+Taarzan - The Wonder Car,(2004),(Drama),Abbas-Mustan,Vatsal Seth,Ayesha Takia,Ajay Devgn
+Tathastu,(2006),(Drama),Anubhav Sinha,Sanjay Dutt,Ameesha Patel,Jaya Prada
+Team - The Force,(2009),(Action),Ajay Chandok,Sohail Khan,Amrita Arora,Aarti Chhabria
+Teen Ekkey,(1980),(Action),Joginder,Rita Haksar,Joginder,Satish Kaul
+Teesri Kasam,(1966),(Social),Basu Bhattacharya,Raj Kapoor,Waheeda Rehman,Iftekhar
+Teesri Manzil,(1966),(Social),Vijay Anand,Shammi Kapoor,Asha Parekh,K. N. Singh
+Teesri Manzil,(2013),(Drama),Navneet Baj Saini,Deepal Shaw,Irrfan Khan,Lucky Ali
+Tera Kya Hoga Johny,(2010),(Drama),Sudhir Mishra,Kay Kay Menon,Soha Ali Khan,Neil Nitin Mukesh
+Tere Ghar Ke Samne,(1963),(Social),Vijay Anand,Dev Anand,Nutan,Om Prakash
+Tere Mere Sapne,(1971),(Social),Vijay Anand,Dev Anand,Hema Malini,Mumtaz
+Tere Mere Sapne,(1996),(Romance),Joy Augustine,Arshad Warsi,Chandrachur Singh,Simran
+U Me Aur Hum,(2008),(Romance),Ajay Devgn,Ajay Devgn,Kajol,Isha Sharvani
+Udaan,(2010),(Drama Family),Vikramaditya Motwane,Rajat Barmecha,Ronit Roy,Aayan Boradia
+Ugly Aur Pagli,(2008),(Comedy Romance),Sachin Kamlakar Khot,Mallika Sherawat,Ranvir Shorey,Sushmita Mukherjee
+Umrao Jaan,(2006),(Drama),J. P. Dutta,Abhishek Bachchan,Aishwarya Rai-Bachchan,Shabana Azmi
+Umrao Jaan,(1981),(Costume Drama Musical),Muzaffar Ali,Rekha,Farooq Shaikh,Naseeruddin Shah
+Undertrial,(2007),(Biopic),Aziz Khan,Rajpal Yadav,Monica Castellno,Sambhavna Seth
+Upkar,(1967),(Social Patriotic),Manoj Kumar,Manoj Kumar,Pran,Kamini Kaushal
+Utsav,(1985),(Drama Period),Girish Karnad,Shashi Kapoor,Rekha,Shekhar Suman
+Udhar Ki Zindagi,(1994),(Drama Family),K. V. Raju,Jeetendra,Kajol,Mousumi Chatterjee
+Umar,(2006),(Drama),Karan Razdan,Anupam Kher,Jimmy Shergill,Dalip Tahil
+Unns,(2006),(Drama),Bhupendra Gupta,Rituparna Sengupta,Raj Babbar,Sanjay Kapoor
+Uphaar,(1971),(Social),Sudhendu Roy,Jaya Bachchan,Kamini Kaushal,Swarup Dutta
+Uski Roti,(1971),(Social),Mani Kaul,Garima Kapoor,Gurdeep Singh,Birbal
+Uthhaan,(2006),(Drama),Ujjwal Chatterjee,Neha Dhupia,Priyanshu Chatterjee,Avtar Gill
+Udan Khatola,(1955),(Costume),S. U. Sunny,Dilip Kumar,Surya Kumari,Jeevan
+Uljhan,(2001),(Drama),Rajan Johri,Pahlaj Nihalani,Puru Raj Kumar,Deepti Bhatnagar,Kanchan
+United Six,(2011),(Action),Vishal Aryan Singh,Parvathy Omanakuttan,Daisy Bopanna,Luna Lashkar
+Unlimited Nasha,(2005),(Action),Sanjay Khandelwal,Ravi K. Patwa,Sudesh Berry,Adarsh Kumar,Amrita Dhanoa
+Uski Kahani,(1966),(Social),Basu Bhattacharya,Dina Gandhi,Anju Mahendroo,Tarun Ghosh
+Usne Kaha Tha,(1960),(Social),Moni Bhattacharya,Sunil Dutt,Nanda,Durga Khote
+Utt Pataang,(2011),(Comedy),Srikant Velagaleti,Vinay Pathak,Mahi Gill,Saurabh Shukla
+Uuf Kya Jadoo Mohabbat Hai,(2004),(Drama Musical Romance),Manoj Bhatia,Sachin Khedekar,Anang Desai,Akshay Anand
+U R My Jaan,(2011),(Romance),Aron Govil,Rajesh Khera,Himani Shivpuri,Anil Dhawan
+U - Bomsi n Me,(2005),(Comedy),Jairaj Padmanabhan,Bobby Bahal,Gautam Rode,Vidya Malavade
+Udaan,(1997),(Drama),Asrani,Saif Ali Khan,Rekha,Madhu
+Uddhar,(1949),(Social),S. S. Kulkarni,Dev Anand,Munawar Sulatana
+Udhar Ka Sindur,(1976),(Social),Chander Vohra,Jeetendra,Reena Roy,Asha Parekh
+Uff! Yeh Mohabbat,(1996),(Romance),Vipin Handa,Twinkle Khanna,Anupam Kher,Abhishek Kapoor
+Ugly,(2014),(Drama),Anurag Kashyap,Siddhant Kapoor,Tejaswini Kolhapure,Ronit Roy
+Ujala,(1942),(Social),K. M. Multani,Prithviraj Kapoor,Naseem
+Ujala,(1959),(Social),Naresh Saigal,Raaj Kumar,Shammi Kapoor,Mala Sinha
+Ujala Hi Ujala,(1974),(Social),S. M. Sagar,Vinod Mehra,Yogita Bali
+Ulfat Ki Nayi Manzilen,(1994),(Drama),K. Shankar,K. Ravi Shankar,Raaj Kumar,Shammi Kapoor,Waheeda Rehman
+Uljhan,(1975),(Social),Raghunath Jhalani,Ashok Kumar,Sanjeev Kumar,Asrani
+Uljhan,(1942),(Social),N. R. Acharya,Mazhar Khan,Sardar Akhtar
+Ulta Seedha,(1985),(Comedy),Subodh Mukerji,Raj Babbar,Utpal Dutta,Rati Agnihotri
+Ulti Ganga,(1942),(Social),K. Dhaibar,Pramila,Sadiq Ali
+Umang,(1944),(Social),K. M. Multani,Motilal,Chandraprabha
+Umar 55 Ki Dil Bachpan Ka,(1992),(Costume),Ajay Kumar,Anupam Kher,Kader Khan,Aruna Irani
+Umar Qaid,(1975),(Social),Sikandar Khanna,Vinod Mehra,Sunil Dutt,Mousumi Chatterjee
+Umeed,(1971),(Social),Nitin Bose,Joy Mukherjee,Nanda,Ashok Kumar
+Ummeed,(1941),(Social),Mani Bhai Vyas,Ishwarlal,Prabha
+Unees Bees,(1980),(Drama),Swaroop Kumar,Mithun Chakraborty,Rakesh Roshan,Ranjeeta
+Ungli,(2014),(Comedy),Rensil D'Silva,Sanjay Dutt,Emraan Hashmi,Kangna Ranaut
+Upaasna,(1971),(Social),Mohan,Feroz Khan,Sanjay Khan,Mumtaz
+Uranchoo,(1976),(Comedy),Shivendra Sinha,Johnny Walker,Tun Tun,K. Ravi
+Urvashi,(1946),(Musical),Babubhai Jani,Shobhana Samarth,Prem Adeeb
+Vaada Raha... I Promise,(2009),(Drama),Samir Karnik,Bobby Deol,Kangna Ranaut,Dwij Yadav
+Vaastav,(1999),(Action),Mahesh Manjrekar,Deepak,Sanjay Dutt,Namrata Shirodkar,Ashish Vidyarthi
+Veer,(2010),(Historical),Anil Sharma,Salman Khan,Mithun Chakraborty,Zarine Khan
+Veer-Zaara,(2004),(Romance),Yash Chopra,Shah Rukh Khan,Preity Zinta,Rani Mukerji
+Via Darjeeling,(2008),(Drama),Arindam Nandy,Kay Kay Menon,Sonali Kulkarni,Parvin Dabbas
+Victory,(2009),(Drama Sports),Ajitpal Mangat,Harman Baweja,Amrita Rao,Tinu Anand
+Virasat,(1997),(Drama),Priyadarshan,Anil Kapoor,Tabu,Amrish Puri
+Virsa,(2010),(Drama),Pankaj Batra,Gulshan Grover,Shazia,Arya Babbar
+Viruddh...Family Comes First,(2005),(Drama Family),Mahesh Manjrekar,Amitabh Bachchan,John Abraham,Anusha Dandekar
+Vishwaroop,(2013),(Thriller),Kamal Haasan,Kamal Haasan,Pooja Kumar,Andrea Jeremiah
+Vivah,(2006),(Romance),Sooraj R. Barjatya,Shahid Kapoor,Amrita Rao,Alok Nath
+Vroom,(2010),(Comedy Drama Fantasy),Savin Tuscano,Gaurav Bajaj,Nina Sarkar,Daisy Irani
+Vaah! Life Ho Toh Aisi!,(2005),(Drama Children),Mahesh Manjrekar,Sanjay Dutt,Shahid Kapoor,Amrita Rao
+Victoria No. 203,(2007),(Drama),Anant Mahadevan,Anupam Kher,Om Puri,Jimmy Shergill
+Videsh - Heaven On Earth,(2009),(Drama),Deepa Mehta,Preity Zinta,Balinder Johal,Vansh Bhardwaj
+Vidhaata,(1982),(Drama Thriller),Subhash Ghai,Sanjay Dutt,Dilip Kumar,Sanjeev Kumar
+Vighnaharta... Shree Siddhivinayak,(2009),(Drama),Yashawant Ingawale,Ramesh Deo,Parmeet Sethi,Divya Dutta
+Vijay,(1988),(Drama),Yash Chopra,Anil Kapoor,Rajesh Khanna,Rishi Kapoor
+Vishwatma,(1992),(Action),Rajiv Rai,Naseeruddin Shah,Sunny Deol,Sonam
+Voice From The Sky,(2013),(Drama),Farhan Akhtar,Akshaye Khanna,Irrfan Khan
+Vaada,(2005),(Suspense),Satish Kaushik,Arjun Rampal,Zayed Khan,Ameesha Patel
+Vaastu Shastra,(2004),(Horror),Saurabh Narang,Sushmita Sen,J. D. Chakravarthy,Ahsaas Channa
+Vicky Donor,(2012),(Comedy),Shoojit Sircar,Ayushmann Khurrana,Yami Gautam,Annu Kapoor
+Vidhata Tere Khel Hai Nirale,(2013),(Drama),Sanjay Pathak,Raj Vaidya,Aashrita Agarwal,Gajendra Chauhan
+Vijeta,(1983),(Drama Thriller),Govind Nihalani,Shashi Kapoor,Rekha,Kunal Kapoor
+Virus Diwan,(2014 - Hindi),(Science Fiction),Vivek Bhushan, Arjun Kapoor
+Vishwasghat,(1976),(Social),Mahesh Bhatt,Sanjeev Kumar,Bhagwan,Shabana Azmi
+Vivash,(2013),(Drama),Navneet Baj Saini,Jackie Shroff,Lucky Ali,Rajpal Yadav
+Vadh,(2002),(Suspense),N. S. R.,Nana Patekar,Nakul,Puru Raj Kumar
+Vahshi Aatma,(2001),(Horror),Tilak,Anil Nagrath,Jay Kalgutkar,Kiran Jain
+Vajra - The Weapon,(2004),(Drama),Rajendra Rathi,Sameer Khan,S. P. Lalwani,Mohan Joshi
+Vardan,(1974),(Social),Arun Bhatt,Vinod Mehra,Reena Roy
+Vatsyayana Kamasutra,(2001),(Action),Sanjay Khandelwal,Sudesh Berry,Adarsh Gautam,Divya Dwivedi
+Veer Savarkar,(2001),(Biopic),Ved Rahi,Shailendra Gaur,Navni Parihar,Mrinal Kulkarni
+Vidyaarthi,(2006),(Drama),Rakesh Kakaria,Vishwajit Pradhan,Paresh Rawal,Govind Namdeo
+Vikalp,(2011),(Drama Crime),Mystery,Sachin Prabhakar Karande,Deepal Shaw,Akshay Singh,Kranti Prakash Jha
+Vikram Shashikala,(1949),(Legend),D. K. Kane,Master Vithal,Monica Desai
+Vishwas,(2005),(Drama),Kukku Batra,Ahsaan Baksh,Anandee Tripathi,Kashish Duggal
+Vaade Iraade,(1994),(Drama),Kalpana Bharadwaj,Suchitra Krishnamurty,Satyen Kappu,Deep Dhillon
+Vaasna,(1968),(Social),T. Prakash Rao,Raaj Kumar,Padmini
+Vaasna Ki Bhookh,(1989),(Drama),P. Chandra Kumar,Aruna,Balan K. Nair,Bhagyalakshmi
+Vachan,(1974),(Social),Suraj Prakash,Shashi Kapoor,Vimi,Prem Chopra
+Vachan,(1955),(Social),Raj Rishi,Rajendra Kumar,Geeta Bali,Madan Puri
+Vachan,(1938),(Costume),Franz Osten,Ashok Kumar,Devika Rani,Meera
+Vahri Duniya,(1937),(Action),Gunjal,D. Billimoria,Jamna,Laxmi
+Vakil Baboo,(1982),(Drama),Asit Sen,Raj Kapoor,Shashi Kapoor,Zeenat Aman
+Vakil Saheb,(1943),(Social),Mohan Sinha,Trilok Kapoor,Madhuri
+Valentine's Night,(2012),(Romance Thriller),Kirshan-Baadal,Payal Rohatgi,Sangram Singh,Rahul Minz
+Vallah Kya Baat Hai,(1962),(Social),Hari Walia,Shammi Kapoor,Binapani Debi,Bina Rai
+Wake Up Sid,(2009),(Drama),Ayan Mukherji,Ranbir Kapoor,Konkona Sen Sharma,Rahul Pendkalkar
+Wanted,(2009),(Action),Prabhudheva,Salman Khan,Ayesha Takia,Aseem Merchant
+Waqt - The Race Against Time,(2005),(Drama Family),Vipul Shah,Amitabh Bachchan,Akshay Kumar,Priyanka Chopra
+We Are Family,(2010),(Drama Romance),Siddharth Malhotra,Kajol,Kareena Kapoor Khan,Arjun Rampal
+Welcome,(2007),(Comedy),Anees Bazmee,Akshay Kumar,Katrina Kaif,Nana Patekar
+Welcome To Sajjanpur,(2008),(Comedy Drama Social),Shyam Benegal,Shreyas Talpade,Amrita Rao,Ravi Kishan
+Welcome To The Jungle,(2013),(Drama),Adventure,Farooque Kabir,Hrithik Roshan,Zayed Khan
+Well Done Abba,(2010),(Comedy),Shyam Benegal,Boman Irani,Minissha Lamba,Sameer Dattani
+What's Your Raashee?,(2009),(Comedy Romance),Ashutosh Gowariker,Harman Baweja,Priyanka Chopra,Anjan Srivastava
+World Cup 2011,(2009),(Sports),Ravi Kapoor,Suresh Oberoi,Zakir Hussain,Ehsaan Khan
+Waqt,(1965),(Social),Yash Chopra,Shashi Kapoor,Balraj Sahni,Sadhana
+Warrant,(1961),(Action),Kedar Kapoor,Ashok Kumar,Raaj Kumar,Shakeela
+Water,(2007),(Social),Deepa Mehta,Lisa Ray,John Abraham,Seema Biswas
+Woh 7 Din,(1983),(Comedy Drama),Bapu,Anil Kapoor,Naseeruddin Shah,Padmini Kolhapure
+Woh Kaun Thi,(1964),(Suspense),Raj Khosla,Sadhana,Manoj Kumar,Parvin Chowdhury
+Woh Lamhe,(2006),(Drama Romance),Mohit Suri,Shiney Ahuja,Kangna Ranaut,Purab Kohli
+Woodstock Villa,(2008),(Suspense),Hansal Mehta,Sikander Kher,Neha Uberoi,Arbaaz Khan
+Wounded,(2007),(Drama),Krishna Mishra,Seema Parihar,Kanhaiya Kaithwas,Anjali Pandey
+www.love.com,(2010),(Romance),Vinod Mukhi,Jai Kalra,Mumait Khan,Farid Amiri
+Wafaa,(2008),(Drama),Rakesh Sawant,Rajesh Khanna,Sahib Chopra,Sara Khan
+Waisa Bhi Hota Hai - Part II,(2003),(Comedy),Shashanka Ghosh,Arshad Warsi,Sandhya Mridul,Ananta Jog
+Waris,(1969),(Social),Rammana,Jeetendra,Mehmood,Prem Chopra
+Watan Ke Rakhwale,(1987),(Action),T. Rama Rao,Mithun Chakraborty,Dharmendra,Ashok Kumar
+Will You Marry Me?,(2012),(Comedy Romance),Aditya Dutt,Shreyas Talpade,Celina Jaitley,Mugdha Godse
+With Luv Tumhara,(2006),(Romance),Kamal D. Nathani,Mousumi Chatterjee,Parvin Dabbas,Anupama Verma
+Wow,(2013),(Drama),Raju Kher,Anupam Kher,Sakshi Shivanand,Rajesh Khera
+Waah! Tera Kya Kehna,(2002),(Drama),Manoj Agarwal,Govinda,Shammi Kapoor,Raveena Tandon
+Wajahh - A Reason To Kill,(2004),(Suspense),Gautam Adhikari,Sayed Zulfi,Satish Kaushik,Shamita Shetty
+Wapas,(1943),(Social),Hem Chander,Bharati Debi,Asit Baran
+We R Friends,(2006),(Romance),Jaidev Chakravorty,Jackie Shroff,Aditya,Naaznin
+Who's There ...?,(2011),(Drama Social),Aijaz Ahmed,Gagan Kang,Rajbeer Singh,Kallpana Mathur
+Woh,(2004),(Suspense),Raj N. Sippy,Ayub Khan,Priyanshu Chatterjee,Ravi Kishan
+Woh 5 Din,(2013),(Suspense Thriller),Sundeep Malani,Piyush Anand,Bhagyashree Rao,Akash Hora
+Woh Kaun Thi,(2001),(Drama Horror),Amrit Pal,Raza Murad,Mac Mohan,Chetan
+Wohh Tera Naam Tha,(2004),(Drama Romance),Kuku Kohli,Arjan Bajwa,Gaurav Chanana,Kanchi Kaul
+Wrong Number,(2003),(Drama),Jignesh V. Vaishnav,Rakesh Bapat,Benjamin Gilani,Parvin Dabbas
+Waaris,(1988),(Social),Ravindra Peepat,Smita Patil,Kulbhushan Kharbanda,Amrish Puri
+Wada Tera Wada,(1974),(Social),Mohinder Batra,Vinod Mehra,Asha Sachdev
+Wadya,(1940),(Social),Rafiq Rizvi,Brijrani,Kokila,Mohd. Ishaq
+Wafaa,(1950),(Social),Jagatrai Pesumal Advani,Karan Dewan,Nimmi
+Wafaa,(1972),(Social),Ramanna,Sanjay Khan,Rakhee
+Wafaa,(1990),(Social),S. M. Abbas,Farooq Shaikh,Vijayata Pandit
+Wafadaar,(1985),(Action),Dasari Narayan Rao,Rajinikanth,Padmini Kolhapure,Anupam Kher
+Wahan,(1937),(Costume),K. Narayan Kale,Leela Chitnis,Chandramohan,Karunadevi
+Wahan Ke Log,(1967),(Social),N. A. Ansari,Pradip Kumar,Tanuja
+Wahem,(1987),(Drama),Desh Gautam,Padma Khanna,Suresh Oberoi,Mamta Rao
+Wajood,(1998),(Action),N. Chandra,Madhuri Dixit-Nene,Nana Patekar,Jagdeep
+XXX,(2013),(Drama),Kunal Deshmukh,Smilie Suri,Anupam Kher,Seema Biswas
+Xcuse Me!,(2003),(Comedy),N. Chandra,Sharman Joshi,Sonali Joshi,Sudha Darshan Jariwala
+Y.M.I. - Yeh Mera India,(2009),(Drama),N. Chandra,Rajit Kapur,Parvin Dabbas,Anupam Kher
+Yeh Jawaani Hai Deewani,(2013),(Romance),Ayan Mukherji,Ranbir Kapoor,Deepika Padukone,Aditya Roy Kapur
+Yeh Sunday Kyun Aata Hai,(2009),(Drama Social),Rabinder Parashar,Mithun Chakraborty,Kashmera Shah,Vijay Raaz
+Yes Boss,(1997),(Comedy),Aziz Mirza,Shah Rukh Khan,Juhi Chawla,Aditya Pancholi
+Yuva,(2004),(Drama),Mani Ratnam,Ajay Devgn,Abhishek Bachchan,Vivek Oberoi
+Yuvvraaj,(2008),(Drama Musical),Subhash Ghai,Salman Khan,Katrina Kaif,Anil Kapoor
+Yaadon Ki Baaraat,(1973),(Social),Nasir Hussain,Dharmendra,Zeenat Aman,Ajit
+Yahaan,(2005),(Romance),Shoojit Sircar,Jimmy Shergill,Mukesh Tiwari,Minissha Lamba
+Yahan Ke Hum Sikander,(2013),(Sports),Ahmed Khan,Nana Patekar,Sunil Shetty,Arjun Rampal
+Yatra,(2007),(Drama),Gautam Ghosh,Rekha,Nakul Vaid,Nana Patekar
+Yeh Dillagi,(1994),(Romance),Naresh Malhotra,Akshay Kumar,Saif Ali Khan,Kajol
+Yeh Hausla,(2013),(Social),Nagesh Kukunoor,Karan Nath,Sameera Reddy,Tanvi Azmi
+Yeh Pal Ho Na Ho... Kal,(2009),(Drama),Ravi Pun,Prakash Sagar,Kradhikka,Simran
+Yeh Tera Ghar Yeh Mera Ghar,(2001),(Comedy Drama),Priyadarshan,Sunil Shetty,Mahima Chaudhry,Paresh Rawal
+Yeh To Kamal Ho Gaya,(1982),(Drama),T. Rama Rao,Kamal Haasan,Poonam Dhillon,Ranjeet
+Yeshwant,(1997),(Action),Anil Mattoo,Nana Patekar,Mohan Joshi,Shafi Inamdar
+Yun Hota Toh Kya Hota,(2006),(Drama Social),Naseeruddin Shah,Jimmy Shergill,Konkona Sen Sharma,Ravi Baswani
+Yaadein,(2001),(Drama Family),Subhash Ghai,Jackie Shroff,Hrithik Roshan,Kareena Kapoor Khan
+Yaadein,(1964),(Social),Sunil Dutt,Sunil Dutt,Nargis
+Yaara,(2007),(Romance),Hamid Ali,Veer
+Yaara O Yaara,(2013),(Drama),Rakesh Bharadwaj,Prem Chopra,Avtar Gill,Dinesh Hingoo
+Yaarana,(1981),(Drama Social),Rakesh Kumar,Amitabh Bachchan,Neetu Singh,Tanuja
+Yahudi,(1958),(Costume),Bimal Roy,Dilip Kumar,Meena Kumari,Nazir Hussain
+Yakeen,(2005),(Drama),Girish Dhamjia,Arjun Rampal,Priyanka Chopra,Saurabh Shukla
+Yaraana,(1995),(Drama),David Dhawan,Rishi Kapoor,Madhuri Dixit-Nene,Raj Babbar
+Yeh Dil,(2003),(Romance),Teja,Saurabh Shukla,Sharat Saxena,Tusshar Kapoor
+Yeh Dil Aashiqana,(2002),(Drama),Kuku Kohli,Karan,Johnny Lever,Aditya Pancholi
+Yeh Hai Jalwa,(2002),(Drama Family),David Dhawan,Salman Khan,Sanjay Dutt,Rishi Kapoor
+Yeh Jo Mohabbat Hai,(2012),(Romance),Shree Narayan Singh,Aditya Samanta,Nazia Hussain,Mohnish Behl
+Yeh Khula Aasmaan,(2012),(Drama Family Musical),Gitanjali Sinha,Raghubir Yadav,Raj Tandon,Aanya Anand
+Yeh Kya Ho Raha Hai?,(2002),(Drama Romance),Hansal Mehta,Prashant Chinani,Aamir Ali Malik,Vaibhav Jhalani
+Yeh Raaste Hai Pyar Ke,(1963),(Suspense),R. K. Nayyar,Ashok Kumar,Sunil Dutt,Motilal
+Yeh Raaste Hain Pyaar Ke,(2001),(Drama),Deepak Shivdadsani,Ajay Devgn,Shammi Kapoor,Sunny Deol
+Yeh Raat Phir Na Aayegi,(1966),(Suspense),Brij,Prithviraj Kapoor,Biswajeet,Mumtaz
+Yeh Zindagi Ka Safar,(2001),(Drama Family),Tanuja Chandra,Jimmy Shergill,Rajpal Yadav,Gulshan Grover
+You Know Amrapali,(2013),(Drama Historical),Atul Garg,Mithun Chakraborty,Jackie Shroff,Vimala Raman
+Yaad Rakhenge Aap,(2005),(Drama),Sandeep,Ayesha Jhulka,Ali Khan,Biswaroop Roy Choudhary
+Yaara O Dildaara,(2011),(Comedy Drama Romance),Ksshitij Chaudhary,Harbhajan Mann,Tulip Joshi,Kabir Bedi
+Yaaron Ki Yaari,(2013),(Drama),Ramandeep,Amardeep Singh,Sonica,Neha Rai
+Yakeen,(1969),(Social),Brij,Dharmendra,Sharmila Tagore,Kamini Kaushal
+Yaksh,(2013),(Drama),Mukul Abhyankar,Nitish Bharadwaj,Bhanu Uday,Sheetal Shah
+Yamla Pagla Deewana,(2011),(Comedy Drama),Samir Karnik,Dharmendra,Sunny Deol,Bobby Deol
+Yasmin,(1955),(Costume),A. R. Kardar,Vyjayanthimala,Suresh
+Yeh Basti Badmashon Ki,(2006),(Drama),Joginder,Poonam Dasgupta,Joginder,Raza Murad
+Yeh Dooriyan,(2011),(Romance Social),Deepshikha,Deepshikha,Kaishav Arora,Inder Kumar
+Yeh Faasley,(2011),(Drama),Yogesh Mittal,Anupam Kher,Pawan Malhotra,Tena Desae
+Yeh Hai U Turn,(2006),(Drama),Vikram Bhatt,Rajesh Puri,Rahul,Dhruvi Verma
+Yeh Kaisi Mohabbat,(2002),(Drama Musical Romance),Dinkar Kapoor,Diksha,Johnny Lever,Deepak Tijori and others
+Zakhm,(1998),(Drama Social),Mahesh Bhatt,Ajay Devgn,Pooja Bhatt,Sonali Bendre
+Zanjeer,(1973),(Drama Thriller),Prakash Mehra,Amitabh Bachchan,Jaya Bachchan,Pran
+Zila Ghaziabad,(2013),(Social Thriller),Anand Kumar,Sanjay Dutt,Arshad Warsi,Vivek Oberoi
+Zindagi Tere Naam,(2008),(Drama),Ashu Y. Trikha,Mithun Chakraborty,Ranjeeta,Dia Mirza
+Zameen,(2003),(Action),Rohit Shetty,Abhishek Bachchan,Ajay Devgn,Bipasha Basu
+Zeher - A Love Story,(2005),(Romance),Mohit Suri,Emraan Hashmi,Shamita Shetty,Udita Goswami
+Zinda,(2006),(Action),Sanjay Gupta,Sanjay Dutt,John Abraham,Lara Dutta
+Zindaggi Rocks,(2006),(Drama),Tanuja Chandra,Sushmita Sen,Shiney Ahuja,Mousumi Chatterjee
+Zubeidaa,(2001),(Biopic),Shyam Benegal,Manoj Bajpai,Karisma Kapoor,Rekha
+Zabardast,(2013),(Drama),Prawal Raman,Karan Nath,Priyanka Kothari,Sharat Saxena
+Ziddi,(1964),(Social),Pramod Chakraborty,Joy Mukherjee,Asha Parekh,Dhumal
+Ziddi Padosan,(2013),(Comedy),Vicky Kharat,Karan Kapoor,Himani Shivpuri,Sharat Saxena
+Zindagi,(1964),(Social),Ramanand Sagar,Raaj Kumar,Rajendra Kumar,Prithviraj Kapoor
+Zindagi Aur Khwab,(1961),(Social),S. Banerjee,Rajendra Kumar,Meena Kumari,Agha
+Zindagi Khoobsoorat Hai,(2002),(Drama Family),Manoj Punj,Tabu,Sonu Sood,Aakash Khurana
+Zindagi Live,(2013),(Drama),Madhusudan Reddy,Milind Gunaji,Anupama Verma,Ragini Khanna
+Zor Laga Ke... Haiya,(2009),(Comedy),Girish Girjia Joshi,Mithun Chakraborty,Riya Sen,Mahesh Manjrekar
+Zahreela,(2001),(Action),Raj N. Sippy,Mithun Chakraborty,Madhumita,Om Puri
+Zakhmi Rooh,(1993),(Action),Pawan Kumar,Jaaved Jaaferi,Moon Moon Sen,Raj Kiran
+Zamaanat,(2003),(Drama),S. Ramanathan,Amitabh Bachchan,Arshad Warsi,Vijayshanti
+Zameer - The Fire Within,(2005),(Drama),Kamal,Ajay Devgn,Mahima Chaudhry,Kulbhushan Kharbanda
+Zamin,(1943),(Social),Anand Kumar,Durga Khote,Khurshid
+Zanjeer,(1947),(Social),Kishore Sharma,Begum Para,Balwant Singh,Jagdish Sethi
+Zarak Khan,(1963),(Costume),Harbans,Jairaj,Kumud,Tripathi
+Zaroorat,(2001),(Comedy Drama),Kanti Shah,Hemant Birje,Pinky Chinoy,Usha Raj
+Zindagi Na Milegi Dobara,(2011),(Action Drama Romance Thriller),Zoya Akhtar,Hrithik Roshan,Farhan Akhtar,Katrina Kaif
+Zokkomon,(2011),(Children),Adventure,Satyajit Bhatkal,Darsheel Safary,Anupam Kher,Manjari Phadnis
+Zaalim,(1994),(Action),Sikandar Bharti,Sikander Bhatia,Akshay Kumar,Vishnu Vardhan,Mohan Joshi
+Zabak,(1961),(Costume),Homi Wadia,Mahipal,Shyama
+Zaban,(1943),(Social),Jayant Desai,Ishwarlal
+Zabardast,(1985),(Drama Social),Nasir Hussain,Sunny Deol,Jaya Prada,Sanjeev Chawla
+Zahari Saap,(1933),(Costume),J. J. Madan,Patience Cooper,Kajjan,Kerawala
+Zahreela Insaan,(1974),(Social),S. R. Puttana Kanagal,Rishi Kapoor,Mousumi Chatterjee,Neetu Singh
+Zahreela Saanp,(1987),(Drama),R. Thyagrajan,Rajinikanth,Shri Priya,Jayamalini
+Zahreelay,(1990),(Action),Jyotin Goel,Jeetendra,Sanjay Dutt,Chunkey Pandey
+Zakham,(1989),(Action),Irfaan Khan,Shatrughan Sinha,Chunkey Pandey,Neelam
+Zakhmee,(1975),(Drama Social),Raja Thakur,Sunil Dutt,Rakesh Roshan,Asha Parekh
+Zakhmee Insaan,(1982),(Action),Deepak Balraj Vij,Shakti Kapoor,Reeta Bhaduri
+Zakhmi Aurat,(1988),(Action),Avtar Bhogal,Raj Babbar,Dimple Kapadia,Anupam Kher
+Zakhmi Dil,(1994),(Drama),Raju Subramaniam,Akshay Kumar,Ravi Kishan,Mehmood
+Zakhmi Dil,(1983),(Action),B. S. Shaad,Komila Virk,Virendra
+Zakhmi Sher,(1984),(Drama),Dasari Narayan Rao,Vinod Mehra,Jeetendra,Dimple Kapadia
+Zakhmi Sipahi,(1992),(Action),T. L. V. Prasad,Mithun Chakraborty,Om Puri,Dina Pathak
+Zakhmi Zameen,(1990),(Social),Mahendra Shah,Jaya Prada,Aditya Pancholi,Ranjeet
+Zakhmo Ka Hisaab,(1993),(Drama),Talukdars,Govinda,Kader Khan,Aruna Irani
+Zakhmon Ke Nishan,(1980),(Action),Diljeet Bugee,Vinod Mehra,Tamanna
+Zalim,(1980),(Action),B. Subhash,Vinod Khanna,Pran,Madan Puri
+Zalim Tera Jawab Nahin,(1960),(Action),Ramanlal Desai,Chitra,Azad

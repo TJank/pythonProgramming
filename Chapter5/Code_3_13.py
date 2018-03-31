@@ -68,12 +68,12 @@ celsius_list = [i for i in range(-300, 301)]
 # when opening a file with W : if the file does not exist it will be created
 # if it is created, it will be flushed and overwritten
 
-#out_file = open("temperatures.txt", "w")
-#out_file.write("{0:<15}|{1:>15}\n".format("Celsius", "Fahrenheit"))
-#for c in celsius_list:
-#    out_file.write("{0:<15.2f}|{1:>15.2f}\n".format(c, celsius_to_fahrenheit(c)))
+out_file = open("temperatures.txt", "w")
+out_file.write("{0:<15}|{1:>15}\n".format("Celsius", "Fahrenheit"))
+for c in celsius_list:
+   out_file.write("{0:<15.2f}|{1:>15.2f}\n".format(c, celsius_to_fahrenheit(c)))
 
-#out_file.close()
+out_file.close()
 
 
 

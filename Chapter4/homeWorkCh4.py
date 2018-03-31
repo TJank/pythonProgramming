@@ -126,6 +126,16 @@ def gcd(x, y):
         gcd_ = gcd(x1, y1 % x1)
     return gcd_
 
+def fracAdd(frac1, frac2):
+    a = frac1[0]
+    b = frac2[1]
+    c = frac2[0]
+    d = frac2[1]
+    numerator = a*d + b*c
+    denominator = c*d
+    g = gcd(numerator, denominator)
+    return (numerator/g, denominator/g)
+
 #print(gcd(4,5))
 import fractions
 def addFractions(frac1, frac2):
@@ -158,7 +168,7 @@ def transform(list1,list2,r1,r2):
         list2.append(insert)
     return list2
 
-#print(transform(list1,list2,4,7))
+print(transform(list1,list2,4,7))
 
 
 # Problem 7.
