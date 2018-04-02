@@ -331,10 +331,61 @@ def averageSteps():
 averageSteps()
 
 # Problem 5.
-file_to_encrypt = "file_to_encrypt.txt"
-def rot13(message_to_encrypt):
-    readfile = open("message_to_encrypt", "r")
+import string
+alphabet = string.ascii_lowercase + " .-,!012345678"
+key = alphabet[13:] + alphabet[:13]
+print(key)
 
+
+def rot13_encrypt(a_alphabet,a_key):
+    plain_text = ""
+    encrypt_msg = ""
+
+    readfile = open("file_to_encrypt.txt", "r")
+
+
+    for aline in readfile:
+        plain_text += " " + aline
+
+    readfile.close()
+
+    plain_text.lower()
+    #print(plain_text)
+
+    for ch in plain_text:
+        idx = a_alphabet.find(ch)
+        encrypt_msg += a_key[idx]
+
+    outfile = open("encrypted_msg.txt", "w")
+    outfile.write(encrypt_msg)
+    outfile.close()
+
+    return encrypt_msg
+
+print(rot13_encrypt(alphabet, key))
+
+
+def decryption_of_file(a_alphabet, a_key):
+    readfile = open("encrypted_msg.txt", "r")
+    plain_text = ""
+    encrypted_msg = ""
+
+    for aline in readfile:
+        encrypted_msg += aline
+
+    readfile.close()
+
+    for ch in encrypted_msg:
+        idx = a_key.find(ch)
+        print("CH", ch)
+        print("idx", idx)
+        print(a_alphabet[idx])
+        plain_text += a_alphabet[idx]
+
+
+    return plain_text
+
+print(decryption_of_file(alphabet, key))
 
 
 
