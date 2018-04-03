@@ -19,17 +19,21 @@ def euclidean_distance(x, y):
 # one dimension
 p1 = 3
 p2 = 5
-print(euclidean_distance(p1,p2))
+# # print(euclidean_distance(p1,p2))
+#
+# # Two dimensions
+# p1 = (3,4)
+# p2 = (1,2)
+# #print(euclidean_distance(p1,p2))
+#
+# # Five Dimensions
+# p1 = (3,5,6,7,9)
+# p2 = (3.1, 6.4,7.0,8.3,10.3)
+# #print(euclidean_distance(p1,p2))
 
-# Two dimensions
-p1 = (3,4)
-p2 = (1,2)
-print(euclidean_distance(p1,p2))
-
-# Five Dimensions
-p1 = (3,5,6,7,9)
-p2 = (3.1, 6.4,7.0,8.3,10.3)
-print(euclidean_distance(p1,p2))
+v1 = [3, 45, 7, 2]
+v2 = [2, 54, 13, 15]
+print(euclidean_distance(v1,v2))
 
 
 
@@ -52,10 +56,10 @@ def centroid(points):
         return tuple(_centroid)
 
 points = [(1.1,2.1,3.1,4),(7,6,0,7), (8.1, 4.7, 5.6, 3.2)]
-print(centroid(points))
+#print(centroid(points))
 
-points = [1,5,7,8,6,7,1,3]
-print(centroid(points))
+#points = [1,5,7,8,6,7,1,3]
+#print(centroid(points))
 
 
 
