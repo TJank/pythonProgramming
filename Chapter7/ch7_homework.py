@@ -2,6 +2,24 @@
 # Problem 1. (NEED TUTORING)
 import math
 import numpy as np
+
+def euclidean_distance(x, y):
+    """Dimensions of x and y must be the same."""
+
+    dist = 0
+    # checks if x is in one dimension
+    if isinstance(x, (int,float)):
+        return abs(x-y)
+    else:
+        dimension = len(x)
+        for i in range(dimension):
+            dist += (x[i] - y[i]) **2
+
+        return np.sqrt(dist)
+
+# v1 = [3, 45, 7, 2]
+# v2 = [2, 54, 13, 15]
+# print(euclidean_distance(v1,v2), "EUCLIDEAN DISTANCE")
 def cosine_similarity(v1,v2):
     "compute cosine similarity of v1 to v2: (v1 dot v2)/{||v1||*||v2||)"
     sumxx, sumxy, sumyy = 0, 0, 0
@@ -12,9 +30,9 @@ def cosine_similarity(v1,v2):
         sumxy += x*y
     return sumxy/math.sqrt(sumxx*sumyy)
 
-v1 = [3, 45, 7, 2]
-v2 = [2, 54, 13, 15]
-print(cosine_similarity(v1,v2))
+# v1 = [3, 45, 7, 2]
+# v2 = [2, 54, 13, 15]
+# print(cosine_similarity(v1,v2), "COSINE SIMILARITY")
 
 
 # Problem 2.
@@ -24,6 +42,7 @@ print(cosine_similarity(v1,v2))
 def centroid(points):
     """All points must be of the same dimensions"""
     if isinstance(points[0], (int,float)):
+        print(points[0], "POINTS AT 0")
         return np.mean(points)
     else:
         dimension = len(points[0])
@@ -37,11 +56,7 @@ def centroid(points):
 
         return tuple(_centroid)
 
-points = [(1.1,2.1,3.1,4),(7,6,0,7), (8.1, 4.7, 5.6, 3.2)]
-#print(centroid(points))
 
-#points = [1,5,7,8,6,7,1,3]
-#print(centroid(points))
 
 
 
@@ -101,8 +116,9 @@ def kMeans(data, k, repitions=10):
     # 4. Return clusters
     return clusters
 
-# data = [(1,5),(2,3),(5,7),(6,2)]
-# # kMeans(data, 3, 4)
+#data = [(1,5),(2,3),(5,7),(6,2)]
+data = [(4,3,8,1),(8,5,6,9),(2,7,8,5),(1,8,6,3)]
+print(kMeans(data, 2, 6), "K Cluster")
 
 
 # Problem 3.
@@ -206,8 +222,8 @@ def neighborAverage(values,row,column):
 
 values = [[1,2,3,4],[5,6,7,8,],[9,10,11,12]]
 print(neighborAverage(values, 0,2))
-print(neighborAverage(values, 1,2))
-print(neighborAverage(values, 0,0))
+#print(neighborAverage(values, 1,2))
+#print(neighborAverage(values, 0,0))
 
 
 # Problem 7.
@@ -255,5 +271,14 @@ print(matrix_multi(matrix_one, matrix_two))
 
 
 
+
+
+# Own K-Cluster algorithim
+def kmeans(dataSet,k):
+    numFeatures = dataSet.getNumFeatures()
+    centroids = getRandomCentroids(numFeatures,k)
+
+# alist = [5,4,3,2,10]
+# print(alist.sort())
 
 

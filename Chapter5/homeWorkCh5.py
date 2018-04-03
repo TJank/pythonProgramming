@@ -376,7 +376,7 @@ def decryption_of_file(a_alphabet, a_key):
     readfile.close()
 
     for ch in encrypted_msg:
-        idx = a_key.find(ch)
+        idx = a_key.index(ch)
         print("CH", ch)
         print("idx", idx)
         print(a_alphabet[idx])

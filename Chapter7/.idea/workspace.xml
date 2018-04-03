@@ -11,14 +11,29 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ch7_homework.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ch7_homework.py">
+      <file leaf-file-name="homeWorkCh4.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../Chapter4/homeWorkCh4.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-3276">
-              <caret line="20" column="33" selection-start-line="20" selection-start-column="33" selection-end-line="20" selection-end-column="33" />
-              <folding>
-                <element signature="e#42#53#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="3757">
+              <caret line="224" column="34" selection-start-line="224" selection-start-column="34" selection-end-line="224" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Code_3_13.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../Chapter5/Code_3_13.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="442">
+              <caret line="73" column="32" selection-start-line="73" selection-start-column="32" selection-end-line="73" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Code_2_27.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../Chapter4/Code_2_27.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="317">
+              <caret line="125" column="11" selection-start-line="125" selection-start-column="11" selection-end-line="125" selection-end-column="11" />
             </state>
           </provider>
         </entry>
@@ -26,24 +41,38 @@
       <file leaf-file-name="Code_3_20.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Code_3_20.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="578">
-              <caret line="127" column="1" lean-forward="true" selection-start-line="127" selection-start-column="1" selection-end-line="127" selection-end-column="33" />
+            <state relative-caret-position="204">
+              <caret line="33" selection-start-line="33" selection-end-line="35" selection-end-column="32" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Code_2_27.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../Chapter4/Code_2_27.py">
+      <file leaf-file-name="ch7_homework.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ch7_homework.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1785" />
+            <state relative-caret-position="253">
+              <caret line="280" selection-start-line="280" selection-start-column="2" selection-end-line="281" selection-end-column="21" />
+              <folding>
+                <element signature="e#42#53#0" expanded="true" />
+              </folding>
+            </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Code_3_13.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../Chapter5/Code_3_13.py">
+      <file leaf-file-name="exam2_04_03.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../Chapter10/exam2_04_03.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="73" column="32" selection-start-line="73" selection-start-column="32" selection-end-line="73" selection-end-column="32" />
+            <state relative-caret-position="-206">
+              <caret line="56" column="5" selection-start-line="56" selection-start-column="5" selection-end-line="56" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="matrix.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/matrix.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="7" selection-start-column="7" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -71,19 +100,21 @@
         <option value="$PROJECT_DIR$/../Chapter5/Code_3_13.py" />
         <option value="$PROJECT_DIR$/../Chapter5/encrypted_msg.txt" />
         <option value="$PROJECT_DIR$/../Chapter5/file_to_encrypt.txt" />
-        <option value="$PROJECT_DIR$/../Chapter5/homeWorkCh5.py" />
         <option value="$PROJECT_DIR$/studentN_id_gpa.txt" />
         <option value="$PROJECT_DIR$/Code_3_20.py" />
+        <option value="$PROJECT_DIR$/../Chapter5/homeWorkCh5.py" />
+        <option value="$PROJECT_DIR$/../Chapter10/exam_2_04_03.py" />
         <option value="$PROJECT_DIR$/matrix.txt" />
         <option value="$PROJECT_DIR$/ch7_homework.py" />
+        <option value="$PROJECT_DIR$/../Chapter10/exam2_04_03.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
+    <option name="x" value="402" />
+    <option name="y" value="31" />
     <option name="width" value="697" />
-    <option name="height" value="735" />
+    <option name="height" value="677" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -99,11 +130,19 @@
             </path>
             <path>
               <item name="Chapter7" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Chapter3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Chapter7" type="b2602c69:ProjectViewProjectNode" />
               <item name="Chapter4" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Chapter7" type="b2602c69:ProjectViewProjectNode" />
               <item name="Chapter5" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Chapter7" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Chapter10" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -132,7 +171,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.ch7_homework">
+  <component name="RunManager" selected="Python.exam2_04_03">
     <configuration name="Code_2_6" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Chapter3" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -146,24 +185,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Chapter3/Code_2_6.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="Code_3_13" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Chapter5" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Chapter5" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Chapter5/Code_3_13.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -205,6 +226,24 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="exam2_04_03" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Chapter10" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Chapter10" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Chapter10/exam2_04_03.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <configuration name="homeWorkCh5" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Chapter5" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -225,18 +264,18 @@
     </configuration>
     <list>
       <item itemvalue="Python.homeWorkCh5" />
-      <item itemvalue="Python.Code_3_13" />
       <item itemvalue="Python.Code_2_6" />
       <item itemvalue="Python.ch7_homework" />
       <item itemvalue="Python.Code_3_20" />
+      <item itemvalue="Python.exam2_04_03" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.exam2_04_03" />
         <item itemvalue="Python.ch7_homework" />
-        <item itemvalue="Python.Code_3_20" />
         <item itemvalue="Python.homeWorkCh5" />
+        <item itemvalue="Python.Code_3_20" />
         <item itemvalue="Python.Code_2_6" />
-        <item itemvalue="Python.Code_3_13" />
       </list>
     </recent_temporary>
   </component>
@@ -254,10 +293,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1954612" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1852123" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
@@ -266,7 +305,7 @@
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.49346405" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.501634" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -281,7 +320,7 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="7" />
+      <option name="time" value="8" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
@@ -341,13 +380,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../Chapter4/homeWorkCh4.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="224" column="34" selection-start-line="224" selection-start-column="34" selection-end-line="224" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../Chapter5/ch5BookExercises.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1581" />
@@ -367,13 +399,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../Chapter5/steps_by_month.txt">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Chapter5/homeWorkCh5.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="164">
-          <caret line="381" column="30" selection-start-line="381" selection-start-column="30" selection-end-line="381" selection-end-column="30" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../Chapter5/encrypted_msg.txt">
       <provider selected="true" editor-type-id="text-editor" />
@@ -415,22 +440,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../Chapter4/Code_2_20.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2295" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../Chapter4/Code_2_22.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1672">
           <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/matrix.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="11" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
         </state>
       </provider>
     </entry>
@@ -451,33 +464,71 @@
     <entry file="file://$PROJECT_DIR$/../Chapter3/Code_2_13.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/../Chapter5/homeWorkCh5.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="423">
+          <caret line="378" column="25" selection-start-line="378" selection-start-column="20" selection-end-line="378" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Chapter4/Code_2_20.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2244" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/matrix.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="7" selection-start-column="7" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Chapter4/bookExercisesCh4.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Chapter4/homeWorkCh4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3757">
+          <caret line="224" column="34" selection-start-line="224" selection-start-column="34" selection-end-line="224" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/../Chapter5/Code_3_13.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
+        <state relative-caret-position="442">
           <caret line="73" column="32" selection-start-line="73" selection-start-column="32" selection-end-line="73" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Chapter4/Code_2_27.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="317">
+          <caret line="125" column="11" selection-start-line="125" selection-start-column="11" selection-end-line="125" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Code_3_20.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="33" selection-start-line="33" selection-end-line="35" selection-end-column="32" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ch7_homework.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3276">
-          <caret line="20" column="33" selection-start-line="20" selection-start-column="33" selection-end-line="20" selection-end-column="33" />
+        <state relative-caret-position="253">
+          <caret line="280" selection-start-line="280" selection-start-column="2" selection-end-line="281" selection-end-column="21" />
           <folding>
             <element signature="e#42#53#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Code_3_20.py">
+    <entry file="file://$PROJECT_DIR$/../Chapter10/exam2_04_03.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="578">
-          <caret line="127" column="1" lean-forward="true" selection-start-line="127" selection-start-column="1" selection-end-line="127" selection-end-column="33" />
+        <state relative-caret-position="-206">
+          <caret line="56" column="5" selection-start-line="56" selection-start-column="5" selection-end-line="56" selection-end-column="5" />
         </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Chapter4/Code_2_27.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1785" />
       </provider>
     </entry>
   </component>
