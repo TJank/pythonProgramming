@@ -11,6 +11,7 @@
     <orderEntry type="module" module-name="inClass" />
     <orderEntry type="module" module-name="Chapter5" />
     <orderEntry type="module" module-name="Chapter7" />
+    <orderEntry type="module" module-name="Chapter10" />
   </component>
   <component name="TestRunnerService">
     <option name="PROJECT_TEST_RUNNER" value="Unittests" />
