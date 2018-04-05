@@ -48,6 +48,12 @@ class Planet:
         d = self.mass / self.getVolume()
         return d
 
+    def show(self):
+        print(self.name)
+
+    def __str__(self):
+        return self.name
+
     # MUTATOR Methods
     def setName(self, newname):
         self.name = newname
@@ -68,11 +74,66 @@ myplanet = Planet("X25", 45, 198, 1000,3)
 # print(myplanet)
 # print(myplanet.getName(), myplanet.getMass(),myplanet.name)
 # print(myplanet.getVolume(), myplanet.getSurfaceArea(), myplanet.getDensity())
-myplanet.setName("Gamma Hydra")
-print(myplanet.getName())
+#myplanet.setName("Gamma Hydra")
+myhome = Planet("Earth", 6371, 5.97e24,152097701,1)
+myhome.show()
+print(myhome.__str__())
+print(myhome)
+print(str(myhome))
+
+# Listing 10.7 pg 348
+class Sun:
+    def __init__(self, iname, irad, im, itemp):
+        self.name = iname
+        self.radius = irad
+        self.mass = im
+        self.temp = itemp
+
+    def getMass(self):
+        return self.mass
+
+    def __str__(self):
+        return self.name
+
+    def getTemperature(self):
+        return self.temp
+
+    def getVolume(self):
+        v = 4/3 * math.pi * self.radius**3
+        return v
+
+    def getSurfaceArea(self):
+        sa = 4 * math.pi * self.radius**2
+        return sa
+
+    def getDensity(self):
+        d = self.mass / self.getVolume()
+        return d
+
+    def setName(self, newname):
+        self.name = newname
+
+    def getRadius(self):
+        return self.radius
+
+
+# Listing 10.8 pg 349
+class SolarSystem:
+    def __init__(self, asun):
+        self.thesun = asun
+        self.planets = []
+
+    def addPlanet(self, aplanet):
+        self.planets.append(aplanet)
+
+    def showPlanets(self):
+        for aplanet in self.planets:
+            print(aplanet)
 
 
 
+# DO EXERCISES PG 343
+# 10.13-10.26
 
 class sentence:
     def __init__(self, a_string):
