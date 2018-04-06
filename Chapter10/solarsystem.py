@@ -32,3 +32,21 @@ class SolarSystem:
         for i in range(len(self.planets)):
             totalmass += self.planets[i].getMass()
         return totalmass
+
+    def movePlanets(self):
+        G = .1
+        dt = .001
+
+        for p in self.planets:
+            p.moveTo(p.getXPos() + dt * p.getXVel(), p.getYPos() + dt * p.getYVel())
+
+            rx = self.thesun.getXPos() - p.getXPos()
+            ry = self.thesun.getYPos() - p.getYPos()
+            r = math.sqrt(rx**2 + ry**2)
+
+            accx = G * self.thesun.getMass()*rx/r**3
+            accy = G * self.thesun.getMass()*ry/r**3
+
+            p.setXVel(p.getXVel() + dt * accx)
+            p.setYVel(p.getYVel() + dt * accy)
+
