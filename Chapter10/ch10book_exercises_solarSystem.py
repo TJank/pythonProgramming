@@ -19,5 +19,8 @@ ss.addPlanet(m)
 m = Planet("Jupiter", 100,49000,0.7,"green")
 ss.addPlanet(m)
 
+
 ss.freeze()
+
+
 
