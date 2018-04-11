@@ -23,7 +23,7 @@ fib = fibonacci(8)
 print(fib)
 
 
-# Greatest Common Divisor 
+# Greatest Common Divisor
 def gcd(x, y):
     x1 = abs(min(x, y))
     y1 = abs(max(x, y))
