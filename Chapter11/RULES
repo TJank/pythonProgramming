@@ -1,0 +1,25 @@
+Rules:
+
+Life-forms - Bear, Fish, will be located at random locations on a grid
+Each life-form will live for one time unit
+During this unit of time, all other life-forms are in "suspended animation"
+States: Alive or Suspended
+A single life-form will be selected at random to take a turn at living.
+In doing so, it must evaluate its surroundings.
+
+FISH:
+breed (after 12 Alive states) -> spawn into a random empty adjacent location
+move (always happens) -> randomly pick an empty adjacent location
+die (overcrowding) -> if two or more fish are adjacent
+
+BEAR:
+breed (after 8 alive states) -> spawn into a random empty adjacent location
+move (same as fish)
+eat (if any fish are adjacent) -> randomly pick a fish and "eat" it and move to the location
+die (starvation) -> starvation happens if no adjacent fish are found after eight attempts
+
+OBJECTS: Fish, Bear, World
+
+SEE PG 370 & 371 for class design diagrams
+WORLD:
+

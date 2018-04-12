@@ -7,12 +7,21 @@ class World(object):
         self.maxY = my
         self.thingList = []
         self.grid = []
+        self.bearCount = 0
+        self.fishCount = 0
 
         for arow in range(self.maxY):
             row = []
             for acol in range(self.maxX):
                 row.append(None)
             self.grid.append(row)
+
+        # Exercise 11.1 pg 377
+        # for acolumn in range(self.maxX):
+        #     column = []
+        #     for arow in range(self.maxY):
+        #         column.append(None)
+        #     self.grid.append(column)
 
         self.wturtle = turtle.Turtle()
         self.wscreen = turtle.Screen()
@@ -47,6 +56,27 @@ class World(object):
             self.wturtle.right(90)
         self.wscreen.tracer(1)
 
+    def getNumBears(self):
+        return self.bearCount
+
+    def getNumFish(self):
+        return self.fishCount
+
+    def incBears(self):
+        self.bearCount += 1
+
+    def incFish(self):
+        self.fishCount += 1
+
+    def decBears(self):
+        self.bearCount -= 1
+
+    def decFish(self):
+        self.fishCount -= 1
+
+    def showCounts(self):
+        total = self.fishCount + self.bearCount
+        return total
 
     def freezeWorld(self):
         self.wscreen.exitonclick()
