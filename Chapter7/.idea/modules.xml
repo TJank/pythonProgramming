@@ -3,10 +3,13 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/../Chapter10/.idea/Chapter10.iml" filepath="$PROJECT_DIR$/../Chapter10/.idea/Chapter10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Chapter11/.idea/Chapter11.iml" filepath="$PROJECT_DIR$/../Chapter11/.idea/Chapter11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Chapter12/.idea/Chapter12.iml" filepath="$PROJECT_DIR$/../Chapter12/.idea/Chapter12.iml" />
       <module fileurl="file://$PROJECT_DIR$/../Chapter3/.idea/Chapter3.iml" filepath="$PROJECT_DIR$/../Chapter3/.idea/Chapter3.iml" />
       <module fileurl="file://$PROJECT_DIR$/../Chapter4/.idea/Chapter4.iml" filepath="$PROJECT_DIR$/../Chapter4/.idea/Chapter4.iml" />
       <module fileurl="file://$PROJECT_DIR$/../Chapter5/.idea/Chapter5.iml" filepath="$PROJECT_DIR$/../Chapter5/.idea/Chapter5.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Chapter7.iml" filepath="$PROJECT_DIR$/.idea/Chapter7.iml" />
+      <module fileurl="file://C:/SolarSystemEx/.idea/SolarSystemEx.iml" filepath="C:/SolarSystemEx/.idea/SolarSystemEx.iml" />
       <module fileurl="file://$PROJECT_DIR$/../inClass/.idea/inClass.iml" filepath="$PROJECT_DIR$/../inClass/.idea/inClass.iml" />
       <module fileurl="file://$PROJECT_DIR$/../inClassChapter2/.idea/inClassChapter2.iml" filepath="$PROJECT_DIR$/../inClassChapter2/.idea/inClassChapter2.iml" />
     </modules>

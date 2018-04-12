@@ -20,6 +20,7 @@ def creatSSandAnimate():
     m = Planet("JUPITER", 100, 49000, 0.7, 0, 1, "green")
     ss.addPlanet(m)
 
+
     numTimePeriods = 2000
     for amove in range(numTimePeriods):
         ss.movePlanets()
@@ -27,4 +28,9 @@ def creatSSandAnimate():
     ss.freeze()
 
 creatSSandAnimate()
+
+
+
+
+
 
