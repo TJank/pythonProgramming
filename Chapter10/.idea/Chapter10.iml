@@ -4,5 +4,12 @@
     <content url="file://$MODULE_DIR$" />
     <orderEntry type="jdk" jdkName="Python 3.6" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="Chapter11" />
+    <orderEntry type="module" module-name="Chapter7" />
+    <orderEntry type="module" module-name="Chapter5" />
+    <orderEntry type="module" module-name="Chapter4" />
+    <orderEntry type="module" module-name="Chapter3" />
+    <orderEntry type="module" module-name="inClassChapter2" />
+    <orderEntry type="module" module-name="inClass" />
   </component>
 </module>

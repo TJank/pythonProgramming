@@ -1,7 +1,9 @@
 import math
 import turtle
+
+
 class Planet:
-    def __init__(self, iname, irad, im, idist, ic):
+    def __init__(self, iname, irad, im, idist, ivx, ivy, ic):
         self.name = iname
         self.radius = irad
         self.mass = im
@@ -9,8 +11,9 @@ class Planet:
         self.x = idist
         self.y = 0
         self.color = ic
-        #self.numMoons = moons
-        #self.moonList = []
+        self.velx = ivx
+        self.vely = ivy
+
 
         self.pturtle = turtle.Turtle()
         self.pturtle.color(self.color)
@@ -65,8 +68,20 @@ class Planet:
     def setName(self, newname):
         self.name = newname
 
-    # def setMoons(self, num_new_moons):
-    #     self.numMoons = self.numMoons + num_new_moons
-    #
-    # def addMoon(self, moon_name):
-    #     self.moonList.append(moon_name)
+    def moveTo(self, newx, newy):
+        self.x = newx
+        self.y = newy
+        self.pturtle.goto(newx,newy)
+
+    def getXVel(self):
+        return self.velx
+
+    def getYVel(self):
+        return self.vely
+
+    def setXVel(self, newvx):
+        self.velx = newvx
+
+    def setYVel(self, newvy):
+        self.vely = newvy
+

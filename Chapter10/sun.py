@@ -1,5 +1,7 @@
 import math
 import turtle
+
+
 class Sun:
     def __init__(self, iname, irad, im, itemp):
         self.name = iname

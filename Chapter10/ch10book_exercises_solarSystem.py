@@ -2,25 +2,35 @@ from sun import *
 from planet import *
 from solarsystem import *
 
-ss = SolarSystem(2,2)
+def creatSSandAnimate():
+    ss = SolarSystem(2,2)
 
-sun = Sun("Sun", 5000,10, 5800)
-ss.addSun(sun)
+    sun = Sun("SUN", 5000,10,5800)
+    ss.addSun(sun)
 
-m = Planet("Mercury", 19.5,1000,.25,"purple")
-ss.addPlanet(m)
+    m = Planet("MERCURY", 19.5,1000,.25,0,2,"purple")
+    ss.addPlanet(m)
 
-m = Planet("Earth", 47.5,5000,0.3,"blue")
-ss.addPlanet(m)
+    m = Planet("EARTH", 47.5,5000,0.3,0,2.0, "blue")
+    ss.addPlanet(m)
 
-m = Planet("Mars", 50,9000,0.5, "red")
-ss.addPlanet(m)
+    m = Planet("MARS", 50, 9000, .5, 0, 1.63, "red")
+    ss.addPlanet(m)
 
-m = Planet("Jupiter", 100,49000,0.7,"green")
-ss.addPlanet(m)
+    m = Planet("JUPITER", 100, 49000, 0.7, 0, 1, "green")
+    ss.addPlanet(m)
 
 
-ss.freeze()
+    numTimePeriods = 2000
+    for amove in range(numTimePeriods):
+        ss.movePlanets()
+
+    ss.freeze()
+
+creatSSandAnimate()
+
+
+
 
 
 
