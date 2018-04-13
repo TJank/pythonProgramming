@@ -14,7 +14,7 @@ def arrange(list, k):
             pop = list.pop(list[i])
             list.append(pop)
 
-    return list
+    return l
 
 
 #print(arrange(list, 7))

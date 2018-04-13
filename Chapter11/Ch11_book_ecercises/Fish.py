@@ -81,6 +81,41 @@ class Fish(object):
             self.world.addThing(childThing, nextx, nexty)
             self.breedTick = 0
 
+    def tryToMove(self):
+        offsetList = [(-1, 1), (0, 1), (1, 1),
+                      (-1, 0), (1, 0),
+                      (-1, -1), (0, -1), (1, -1)]
+
+        randomOffsetIndex = random.randrange(len(offsetList))
+        randomOffset = offsetList[randomOffsetIndex]
+        nextx = self.xpos + randomOffset[0]
+        nexty = self.ypos + randomOffset[1]
+        while not (0 <= nextx < self.world.getMaxX() and 0 <= nexty < self.world.getMaxY() ):
+            randomOffsetIndex = random.randrange(len(offsetList))
+            randomOffset = offsetList[randomOffsetIndex]
+            nextx = self.xpos + randomOffset[0]
+            nexty = self.ypos + randomOffset[1]
+
+        if self.world.emptyLocation(nextx, nexty):
+            self.move(nextx, nexty)
+
+    def _getOffSet(self):
+        offsetList = [(-1, 1), (0, 1), (1, 1),
+                      (-1, 0), (1, 0),
+                      (-1, -1), (0, -1), (1, -1)]
+
+        randomOffsetIndex = random.randrange(len(offsetList))
+        randomOffset = offsetList[randomOffsetIndex]
+        newx = self.xpos + randomOffset[0]
+        newy = self.ypos + randomOffset[1]
+        while not (0 <= newx < self.world.getMaxX() and 0 <= newy < self.world.getMaxY()):
+            randomOffsetIndex = random.randrange(len(offsetList))
+            randomOffset = offsetList[randomOffsetIndex]
+            newx = self.xpos + randomOffset[0]
+            newy = self.ypos + randomOffset[1]
+
+        return newx, newy
+
 
 
 

@@ -107,6 +107,11 @@ class World(object):
     def lookAtLocation(self, x, y):
         return self.grid[y][x]
 
+    def delLifeForm(self, athing):
+        athing.hide()
+        self.grid[athing.getY()][athing.getX()] = None
+        self.thingList.remove(athing)
+
 
 
 

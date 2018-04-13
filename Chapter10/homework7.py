@@ -9,6 +9,16 @@ class SimpleLetter(object):
 
 
 
+    def addLine(self, line):
+        self.writeFile.write(line)
+
+
+
+
+
+
+
+
 # Problem 2
 class Student(object):
     def __init__(self, s_name):
