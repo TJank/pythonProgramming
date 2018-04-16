@@ -1,4 +1,5 @@
 import homework7
+from homework7 import Car
 
 def createLetter():
     simpleletter = homework7.SimpleLetter("Mary", "John")
@@ -18,4 +19,22 @@ def testStudent():
 
 
 testStudent()
+
+
+def testCar():
+    myHybrid = Car(50)
+
+    myHybrid.addGas(20)
+    myHybrid.drive(100)
+    print(myHybrid.getGasLevel())
+
+testCar()
+
+
+
+
+
+
+
+
 

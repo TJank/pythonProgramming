@@ -81,8 +81,80 @@ class Student(object):
 
         return self.totalgpa // len(self.grades)
 
+#Problem 3
+
+class Car(object):
+    def __init__(self, efficiency):
+        self.gasLevel = 0
+        self.efficiency = efficiency
+
+    def addGas(self, gallons):
+        self.gasLevel = gallons
+
+    def getGasLevel(self):
+        return self.gasLevel
+
+    def drive(self, miles):
+        self.gasLevel = self.gasLevel - (miles // self.efficiency)
 
 
+
+class Patient(object):
+    def __init__(self, id, name, gender, age, height, weight, dob):
+        self.id = id
+        self.name = name
+        self.gener = gender
+        self.age = age
+        self.height = height
+        self.dob = dob
+        self.weight = weight
+        self.phoneNum = 0
+        self.address = ""
+
+    def setID(self, changedItem):
+        self.id = changedItem
+    def setname(self, changedItem):
+        self.name = changedItem
+    def setgener(self, changedItem):
+        self.gener = changedItem
+    def setage(self, changedItem):
+        self.age = changedItem
+    def setheight(self, changedItem):
+        self.height = changedItem
+    def setdob(self, changedItem):
+        self.dob = changedItem
+    def setweight(self, changedItem):
+        self.weight = changedItem
+    def setphoneNum(self, changedItem):
+        self.phoneNum = changedItem
+    def setaddress(self, chnagedItem):
+        self.address = chnagedItem
+
+    def getID(self):
+        return self.id
+    def getName(self):
+        return self.name
+    def getGener(self):
+        return self.gener
+    def getage(self):
+        return self.age
+    def getheight(self):
+        return self.height
+    def getdob(self):
+        slice1 = self.dob[0:2]
+        secSlice = self.dob[2:4]
+        third = self.dob[4:]
+        return "{0}/{1}/{2}".format(slice1,secSlice,third)
+    def getweight(self):
+        return self.weight
+    def getphoneNum(self):
+        slice1 = self.dob[0:3]
+        secSlice = self.dob[3:6]
+        third = self.dob[6:]
+        return "{0}-{1}-{2}".format(slice1, secSlice, third)
+    def getaddress(self):
+        return self.address
+    
 
 
 
