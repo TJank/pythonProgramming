@@ -27,6 +27,6 @@ class Canvas(object):
         self.screen.tracer(0)
         gObject._draw(self.cturtle)
         self.screen.tracer(1)
-        
+
 
 
