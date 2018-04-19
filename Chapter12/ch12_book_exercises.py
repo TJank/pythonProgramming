@@ -73,7 +73,7 @@ class GeometricObject(object):
 
     def setCanvas(self, theCanvas):
         self.myCanvas = theCanvas
-        
+
 
 # Listing 12.5 Point
 class Point(GeometricObject):
@@ -116,6 +116,20 @@ class Line(GeometricObject):
         turtle.down()
         turtle.goto(self.p2.getCoord())
 
+class Shape(GeometricObject):
+    def __init__(self):
+        super().__init__()
+        self.fill = False
+        self.fillColor = 'brown'
+
+    def changeFill(self, boolean):
+        self.fill = boolean
+
+    def setColor(self, color):
+        self.fillColor = color
 
 
-
+class Polygon(Shape):
+    def __init__(self):
+        super().__init__()
+        self.pointList = []
