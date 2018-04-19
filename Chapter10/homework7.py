@@ -98,7 +98,7 @@ class Car(object):
         self.gasLevel = self.gasLevel - (miles // self.efficiency)
 
 
-
+# Problem 4.
 class Patient(object):
     def __init__(self, id, name, gender, age, height, weight, dob):
         self.id = id
@@ -155,6 +155,44 @@ class Patient(object):
     def getaddress(self):
         return self.address
     
+
+# Problem 5.
+class Color(object):
+    def __init__(self, redINT, greenINT, blueINT):
+        if not (0  < redINT and redINT < 1):
+            print("ERROR: Value must be between 0 and 1")
+        else:
+            self.red = redINT
+
+        if not (0  < greenINT and greenINT < 1):
+            print("ERROR: Value must be between 0 and 1")
+        else:
+            self.green = greenINT
+
+        if not (0  < blueINT and blueINT < 1):
+            print("ERROR: Value must be between 0 and 1")
+        else:
+            self.blue = blueINT
+
+        self.color = 0
+
+    def addColors(self):
+        self.color = self.red + self.green + self.blue
+        if self.color > 1:
+            self.color = 1
+        if self.color < 0:
+            self.color = 0
+        return self.color
+
+    def subtractColors(self):
+        self.color = self.red - self.green - self.blue
+        if self.color > 1:
+            self.color = 1
+        if self.color < 0:
+            self.color = 0
+        return self.color
+
+
 
 
 
