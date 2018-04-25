@@ -1,6 +1,6 @@
 import random
 import turtle
-
+from Berry import Berry
 from Fish import Fish
 
 
@@ -101,11 +101,12 @@ class Bear(object):
             newx = self.xpos + offset[0]
             newy = self.ypos + offset[1]
             if 0 <= newx < self.world.getMaxX() and 0 <= newy < self.world.getMaxY(): #inbounds
-                if (not self.world.emptyLocation(newx, newy)) and isinstance(self.world.lookAtLocation(newx, newy), Fish):
-                    adjprey.append(self.world.lookAtLocation(newx, newy))
+                if (not self.world.emptyLocation(newx, newy)):
+                    if isinstance(self.world.lookAtLocation(newx, newy), Fish) or isinstance(self.world.lookAtLocation(newx, newy), Berry) :
+                        adjprey.append(self.world.lookAtLocation(newx, newy))
 
         if len(adjprey) > 0: # there is at least one thing for the Bear to eat
-            randomprey = adjprey[random.randrange(len(adjprey))]
+            randomprey = random.choice(adjprey)
             preyx = randomprey.getX()
             preyy = randomprey.getY()
 

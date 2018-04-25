@@ -1,5 +1,6 @@
 import random
 
+from Berry import Berry
 from Bear import Bear
 from Fish import Fish
 from World import World
@@ -9,7 +10,8 @@ from World import World
 
 def mainSimulation():
     numberOfBears = 10
-    numberOfFish = 100
+    numberOfFish = 25
+    numberOfBerries = 50
     numberOfTurns = 1000
     worldWidth = 50
     worldHeight = 25
@@ -26,6 +28,16 @@ def mainSimulation():
             y = random.randrange(myWorld.getMaxY())
             
         myWorld.addThing(newfish, x, y)
+
+    for i in range(numberOfBerries):
+        newBerry = Berry()
+        x = random.randrange(myWorld.getMaxX())
+        y = random.randrange(myWorld.getMaxY())
+        while not myWorld.emptyLocation(x, y):
+            x = random.randrange(myWorld.getMaxX())
+            y = random.randrange(myWorld.getMaxY())
+
+        myWorld.addThing(newBerry, x, y)
         
     for i in range(numberOfBears):
         newbear = Bear()
